@@ -6,7 +6,11 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "download-pdfs": "node scripts/download_pdfs.js"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0"
   },
   "engines": {
     "node": ">=18"
