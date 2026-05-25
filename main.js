@@ -119,7 +119,9 @@
 
   function formatDate(iso) {
     if (!iso) return '';
-    const d = new Date(iso);
+    // Parse as a local date (not UTC) to avoid timezone shifts off-by-one.
+    const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso);
+    const d = m ? new Date(+m[1], +m[2] - 1, +m[3]) : new Date(iso);
     if (isNaN(d)) return iso;
     const locale = currentLang === 'en' ? 'en-US' : 'he-IL';
     return d.toLocaleDateString(locale, { year: 'numeric', month: 'short', day: 'numeric' });
