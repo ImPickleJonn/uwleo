@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "uwleo",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "C:/Users/jonnw/Desktop/uwleo-project"],
+      "port": 8765,
+      "autoPort": false
+    }
+  ]
+}

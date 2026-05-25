@@ -1,0 +1,14 @@
+{
+  "name": "uwleo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "U.W. Leo — מאמרונים מאת אורי ויינברג",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
