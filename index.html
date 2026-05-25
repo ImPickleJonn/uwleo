@@ -159,6 +159,11 @@
     padding-bottom: 80px;
     border-bottom: 1px solid var(--rule);
   }
+  .hero.hero--solo {
+    grid-template-columns: 1fr;
+    max-width: 760px;
+  }
+  .hero.hero--solo .hero-text p { max-width: 720px; }
   .hero-text h1 {
     font-family: var(--serif);
     font-weight: 900;
@@ -551,6 +556,74 @@
     color: var(--ink-muted);
     letter-spacing: 0.5px;
   }
+
+  /* ===== Home Books Row (compact) ===== */
+  .home-books {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+  .home-book {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    color: var(--ink);
+    transition: transform .2s ease;
+  }
+  .home-book:hover {
+    color: var(--accent);
+    transform: translateY(-4px);
+  }
+  .home-book-cover {
+    width: 100%;
+    aspect-ratio: 2/3;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 8px 24px -8px rgba(31,26,20,0.25);
+    background: linear-gradient(135deg, #2a1f17 0%, #4a3527 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(247,241,227,0.7);
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.2;
+    padding: 24px;
+  }
+  .home-book-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .home-book-title {
+    font-family: var(--serif);
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.25;
+    margin: 0 0 4px;
+  }
+  .home-book-sub {
+    font-family: var(--sans);
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+  }
+  .home-book-status {
+    font-family: var(--sans);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-top: 6px;
+  }
   .book-title {
     font-family: var(--serif);
     font-size: 22px;
@@ -745,6 +818,10 @@
       padding: 24px;
     }
     .book-cover-img, .book-cover { max-width: 200px; margin: 0 auto; }
+    .home-books { grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .home-book-cover { padding: 14px; font-size: 14px; }
+    .home-book-title { font-size: 14px; }
+    .home-book-sub { font-size: 10px; }
   }
 
   /* Loading state */
@@ -782,7 +859,7 @@
 <main>
   <!-- HOME -->
   <section class="page" data-page="/">
-    <div class="hero">
+    <div class="hero hero--solo">
       <div class="hero-text">
         <div class="eyebrow" data-i18n="heroEyebrow">מאמרונים · 2022—2026</div>
         <h1 data-i18n="heroTitle">מחשבות על הקיום, האלוהי, והאנושי.</h1>
@@ -791,10 +868,6 @@
           <a href="#/articles" data-i18n="heroCta">קרא את המאמרונים →</a>
         </p>
       </div>
-      <div class="hero-portrait" id="hero-portrait">
-        <!-- Placeholder portrait -->
-        <svg viewBox="0 0 100 100" fill="currentColor"><circle cx="50" cy="38" r="18"/><path d="M20 90 Q20 60 50 60 Q80 60 80 90 Z"/></svg>
-      </div>
     </div>
 
     <div class="section-head">
@@ -802,6 +875,12 @@
       <a href="#/articles" class="meta" data-i18n="latestSeeAll">כל המאמרונים ←</a>
     </div>
     <ul class="article-list" id="home-latest"></ul>
+
+    <div class="section-head" style="margin-top: 80px;">
+      <h2 data-i18n="homeBooksTitle">ספרים מאת U.W. Leo</h2>
+      <a href="#/books" class="meta" data-i18n="homeBooksSeeAll">לכל הספרים ←</a>
+    </div>
+    <div class="home-books" id="home-books"></div>
 
     <div class="newsletter">
       <h2 data-i18n="newsletterTitle">הירשמו לרשימת התפוצה</h2>

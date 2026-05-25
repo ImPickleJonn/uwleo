@@ -3221,5 +3221,20 @@ window.UWLEO_BOOKS = [
         "quote_he": "U.W. Leo יודע ללא ספק לספר סיפור נוער מותח."
       }
     ]
+  },
+  {
+    "id": "arko-3",
+    "title_he": "ARKO: שחר הארקונוט",
+    "title_en": "ARKO: Dawn of the Arkonot",
+    "subtitle_he": "סדרת מדע בדיוני · ספר שלישי",
+    "subtitle_en": "A Sci-Fi Adventure Series · Book Three",
+    "desc_he": "הספר השלישי בטרילוגיית ARKO — סוגר את הסאגה של הארקונוטים המתבגרים, ויחד עמה את החקירה הגדולה של פלאי היקום, האחריות האנושית, ושאלות הבריאה והאל שמלוות את הסדרה כולה.",
+    "desc_en": "The third book in the ARKO trilogy — closing the saga of the teen Arkonots, and with it the great inquiry into the wonders of the universe, human responsibility, and the questions of creation and God that run through the entire series.",
+    "amazon_url": "#",
+    "cover_url": null,
+    "cover_text": "DAWN OF THE\nARKONOT",
+    "status_en": "Coming Soon",
+    "status_he": "בקרוב",
+    "reviews": []
   }
 ];

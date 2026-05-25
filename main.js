@@ -17,6 +17,8 @@
       heroCta: 'קרא את המאמרונים →',
       latestTitle: 'המאמרונים החדשים',
       latestSeeAll: 'כל המאמרונים ←',
+      homeBooksTitle: 'ספרים מאת U.W. Leo',
+      homeBooksSeeAll: 'לכל הספרים ←',
       newsletterTitle: 'הירשמו לרשימת התפוצה',
       newsletterBody: 'קבלו עדכון במייל כאשר יוצא מאמרון חדש. ללא ספאם, ללא הצפה. רק כתיבה איכותית, מדי פעם.',
       newsletterCta: 'הצטרפו',
@@ -65,6 +67,8 @@
       heroCta: 'Read the essays →',
       latestTitle: 'Latest essays',
       latestSeeAll: 'All essays →',
+      homeBooksTitle: 'Books by U.W. Leo',
+      homeBooksSeeAll: 'All books →',
       newsletterTitle: 'Subscribe to the newsletter',
       newsletterBody: 'Get an email when a new essay is published. No spam, no flood. Just thoughtful writing, every so often.',
       newsletterCta: 'Subscribe',
@@ -162,6 +166,28 @@
     if (!el) return;
     const latest = [...articles].sort((a, b) => b.date.localeCompare(a.date) || b.num - a.num).slice(0, 6);
     el.innerHTML = latest.map(renderArticleRow).join('');
+  }
+
+  function renderHomeBooks() {
+    const el = $('#home-books');
+    if (!el) return;
+    el.innerHTML = books.slice(0, 3).map(b => {
+      const title = currentLang === 'en' ? (b.title_en || b.title_he) : b.title_he;
+      const subtitle = currentLang === 'en' ? (b.subtitle_en || b.subtitle_he || '') : (b.subtitle_he || '');
+      const status = currentLang === 'en' ? b.status_en : b.status_he;
+      const href = b.amazon_url && b.amazon_url !== '#' ? b.amazon_url : '#/books';
+      const target = b.amazon_url && b.amazon_url !== '#' ? '_blank' : '_self';
+      const coverHTML = b.cover_url
+        ? `<div class="home-book-cover"><img src="${b.cover_url}" alt="${escapeHTML(title)}" loading="lazy"></div>`
+        : `<div class="home-book-cover">${escapeHTML(b.cover_text || title).replace(/\n/g, '<br>')}</div>`;
+      return `
+        <a class="home-book" href="${href}" target="${target}" rel="noopener">
+          ${coverHTML}
+          <div class="home-book-title">${escapeHTML(title)}</div>
+          <div class="home-book-sub">${escapeHTML(subtitle)}</div>
+          ${status ? `<div class="home-book-status">${escapeHTML(status)}</div>` : ''}
+        </a>`;
+    }).join('');
   }
 
   function renderAllArticles(filter = '', sort = 'desc') {
@@ -284,7 +310,7 @@
   function handleRoute() {
     const r = parseRoute();
     setActivePage(r.path);
-    if (r.path === '/') renderHomeLatest();
+    if (r.path === '/') { renderHomeLatest(); renderHomeBooks(); }
     else if (r.path === '/articles') renderAllArticles($('#article-search')?.value || '', $('#article-sort')?.value || 'desc');
     else if (r.path === '/article') renderArticleView(r.num);
     else if (r.path === '/books') renderBooks();
