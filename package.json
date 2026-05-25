@@ -10,7 +10,8 @@
     "download-pdfs": "node scripts/download_pdfs.js"
   },
   "dependencies": {
-    "googleapis": "^144.0.0"
+    "googleapis": "^144.0.0",
+    "pdf-parse": "^2.4.5"
   },
   "engines": {
     "node": ">=18"
