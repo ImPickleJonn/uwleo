@@ -41,11 +41,13 @@
       booksMeta: 'סדרת ARKO',
       booksIntro: 'סדרת ARKO היא טרילוגיית מדע בדיוני—פילוסופי מאת אורי ויינברג, החוקרת את שאלות הקיום, התודעה, וייעוד האנושות באמצעות סיפור עתידני.',
       bookCta: 'לרכישה באמזון →',
+      reviewsLabel: 'מה הביקורת אמרה',
       aboutTitle: 'אודות המחבר',
-      aboutHeading: 'אורי ויינברג (U.W. Leo)',
-      aboutP1: 'אורי ויינברג כותב מאמרונים פילוסופיים-אישיים מאז 2022. כתיבתו נעה בין רפלקציה אישית לבין הגות על שאלות יסוד — מהותו של היקום, מקומו של האדם בו, האהבה, הסבל, אלוהים, ומשמעות.',
-      aboutP2: 'לצד המאמרונים, הוא מחבר טרילוגיית הספרים <em>ARKO</em>, סדרת מדע בדיוני פילוסופי. הוא חותם את מאמרוניו בשם הספרותי <strong>U. W. Leo</strong>.',
-      aboutP3: 'האתר הזה אוסף את מאמרוניו במקום אחד, פתוח לקריאה לכל מי שמעוניין לשמוע את קולו.',
+      aboutHeading: 'הכירו את U.W. Leo',
+      aboutP1: 'הסופר U.W. Leo נשאב אל הכתיבה כבר בילדותו המוקדמת, לאחר שבילה חלק ניכר מילדותו עם דודו, <strong>דויד שחר</strong> — סופר ישראלי ידוע וזוכה פרס מדיסיס היוקרתי, פרס ספרותי צרפתי לסיפורת. הזרע של תשוקת הכתיבה נשתל אז וצמח, והוא המשיך לכתוב סיפורים קצרים, שירים ומכתבים.',
+      aboutP2: 'חוויה מיוחדת ש-U.W. Leo חווה בכתיבתו היא התחושה שהספר כותב את עצמו, כשהסיפור מתעורר לחיים כמעט מעצמו, ושהסיפור עצמו אף כותב חלק מקיומו שלו. הוא מוצא בתהליך הזה דבר נשגב — בבואה אמיתית של פלא החיים.',
+      aboutP3: 'כשאינו כותב סיפורי נוער מרתקים, U.W. Leo נהנה ללמוד דברים חדשים, לקרוא, לראות סרטים ולשחק שחמט. אחת ההנאות הגדולות ביותר שלו היא פשוט שיחה וכוס קפה עם חבר או בן משפחה.',
+      aboutP4: 'U.W. Leo הוא גם המחבר של <em>Red Silkworms</em>, זוכה פרס משרד החינוך לסופרים מתחילים, ושל <em>Days of Light and Shadow</em> — שניהם רומנים של סיפורת. הוא חי, מבחינה פיזית, ליד ירושלים שבישראל, ומבחינה מנטלית, ב-Kepler-29JW — פלנטה במרחק 1,500 שנות אור מכדור הארץ.',
       footer: 'U.W. Leo · אורי ויינברג · 2022—2026',
       loading: 'טוען...',
     },
@@ -86,11 +88,13 @@
       booksMeta: 'The ARKO Series',
       booksIntro: 'The ARKO series is a philosophical science-fiction trilogy by Uri Weinberg, exploring questions of existence, consciousness, and humanity\'s purpose through a futuristic narrative.',
       bookCta: 'Buy on Amazon →',
+      reviewsLabel: 'What the critics say',
       aboutTitle: 'About the author',
-      aboutHeading: 'Uri Weinberg (U.W. Leo)',
-      aboutP1: 'Uri Weinberg has been writing personal-philosophical essays since 2022. His work moves between intimate reflection and thought on fundamental questions — the nature of the universe, the place of the human within it, love, suffering, God, and meaning.',
-      aboutP2: 'Alongside the essays, he is the author of the <em>ARKO</em> trilogy, a philosophical science-fiction series. He signs his essays with the pen name <strong>U. W. Leo</strong>.',
-      aboutP3: 'This site brings his essays together in one place, open to anyone curious to hear his voice.',
+      aboutHeading: 'Meet U.W. Leo',
+      aboutP1: 'Author U.W. Leo was inspired as a young child to become a writer, having spent much of his childhood with his uncle, <strong>David Shahar</strong>, a well-known Israeli writer and winner of the prestigious Prix Médicis award, a French literary award for fiction writing. The seed for his writing passion was planted then and grew as he continued writing short stories, poems, and letters.',
+      aboutP2: 'An interesting experience U.W. Leo has while writing is the feeling that the book is writing itself, as the story comes to life on its own, seemingly with no control from him, and that the story is also writing a part of his own existence. He finds this process magnificent — a true reflection of the wonder of life itself.',
+      aboutP3: 'When he isn\'t writing captivating young adult stories, U.W. Leo enjoys learning new things, reading, watching movies, and playing chess. One of his greatest pleasures is simply having a chat and coffee with a friend or family member.',
+      aboutP4: 'U.W. Leo is also the author of <em>Red Silkworms</em>, winner of the Ministry of Education\'s Award for Emerging Authors, and <em>Days of Light and Shadow</em>, both novels of fiction. He lives, physically, near Jerusalem in Israel and, mentally, at Kepler-29JW — a planet 1,500 light years from Earth.',
       footer: 'U.W. Leo · Uri Weinberg · 2022—2026',
       loading: 'Loading...',
     }
@@ -229,13 +233,32 @@
       const title = currentLang === 'en' ? (b.title_en || b.title_he) : b.title_he;
       const subtitle = currentLang === 'en' ? (b.subtitle_en || b.subtitle_he || '') : (b.subtitle_he || '');
       const desc = currentLang === 'en' ? (b.desc_en || b.desc_he || '') : (b.desc_he || '');
+      const reviews = b.reviews || [];
+      const reviewsHTML = reviews.length === 0 ? '' : `
+        <div class="book-reviews">
+          <div class="book-reviews-label">${t('reviewsLabel')}</div>
+          ${reviews.map(r => {
+            const q = currentLang === 'en' ? (r.quote_en || r.quote_he || '') : (r.quote_he || r.quote_en || '');
+            return `
+              <blockquote class="book-review">
+                <p>“${escapeHTML(q)}”</p>
+                <cite>— ${escapeHTML(r.source)}</cite>
+              </blockquote>`;
+          }).join('')}
+        </div>`;
+      const coverHTML = b.cover_url
+        ? `<img class="book-cover-img" src="${b.cover_url}" alt="${escapeHTML(title)}" loading="lazy">`
+        : `<div class="book-cover">${escapeHTML(b.cover_text || title).replace(/\n/g, '<br>')}</div>`;
       return `
         <article class="book-card">
-          <div class="book-cover">${escapeHTML(b.cover_text || title).replace(/\n/g, '<br>')}</div>
-          <h3 class="book-title">${escapeHTML(title)}</h3>
-          <div class="book-subtitle">${escapeHTML(subtitle)}</div>
-          <p class="book-desc">${escapeHTML(desc)}</p>
-          <a href="${b.amazon_url || '#'}" class="book-cta" target="_blank" rel="noopener">${t('bookCta')}</a>
+          ${coverHTML}
+          <div class="book-meta">
+            <h3 class="book-title">${escapeHTML(title)}</h3>
+            <div class="book-subtitle">${escapeHTML(subtitle)}</div>
+            <p class="book-desc">${escapeHTML(desc)}</p>
+            <a href="${b.amazon_url || '#'}" class="book-cta" target="_blank" rel="noopener">${t('bookCta')}</a>
+            ${reviewsHTML}
+          </div>
         </article>`;
     }).join('');
   }
