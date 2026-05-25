@@ -185,7 +185,12 @@ const BOOKS = [
     desc_en: "The teen Arkonots are back and their mission to evolve humankind is being met with deadly opposition. Five years have passed since the Arkonots' world-changing discovery, and their mission of restoring the Earth and developing technology to enhance the capabilities of humans and animals, including dinosaurs, has flourished. But not everyone is on board with their advancements, and the group of teens find themselves on a galactic rescue mission for their leader Ben and in a battle to save their mission, the planet, and themselves.",
     amazon_url: 'https://www.amazon.com/dp/B09QLL1BFY',
     cover_url: 'https://uploads-ssl.webflow.com/618c35de072487acef0ce111/61a6665707d180e6c73d6ac7_ARKO%202%20Book%20mockup%20v3.png',
-    reviews: [],
+    reviews: [
+      { source: 'Kirkus Reviews', quote_en: 'Memorable characters navigate this brisk, entertaining futuristic tale.', quote_he: 'דמויות בלתי-נשכחות מנווטות בתוך סיפור עתידני, סוחף ומשעשע.' },
+      { source: 'BookLife by Publishers Weekly', quote_en: 'This upbeat, science-minded SF adventure pits eco-minded teens against the powers that be — and an intergalactic mystery.', quote_he: 'הרפתקת מדע בדיוני אופטימית ומדעית, המעמידה בני נוער שוחרי-סביבה מול הכוחות שמעליהם — ומול תעלומה בין-גלקטית.' },
+      { source: 'Midwest Book Review', quote_en: 'Exciting sci-fi adventure steeped in humor and action.', quote_he: 'הרפתקת מדע בדיוני מותחת, ספוגה בהומור ובאקשן.' },
+      { source: "Readers' Favorite", quote_en: 'U.W. Leo certainly knows how to tell a thrilling young adult tale.', quote_he: 'U.W. Leo יודע ללא ספק לספר סיפור נוער מותח.' },
+    ],
   },
 ];
 
