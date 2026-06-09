@@ -7,6 +7,7 @@ node_modules/
 .idea/
 pdfs/
 extracted/
+source-docx/
 
 # OAuth secrets — never commit
 credentials.json
