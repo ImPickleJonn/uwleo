@@ -2021,7 +2021,18 @@ But not all of Europe is blind. There are those who warn and alert. For example,
 
 אגב, עניין זה של דאגה לילדים אופייני לה, מאחר שכל חייה עבדה עם ילדים ופעלה למענם ללא לאות. עד עצם היום הזה, היא מדברת על ילדים (הקיימים כיום כמעט רק בדמיונה) שיש לדאוג להם, לשוחח עם הוריהם, לדון עם מוריהם, לקשר אותם, ולחבר את כולם. היא עוסקת כל הזמן בחיבורים. בעניין זה, אני מכיר בעובדה שמדובר בה באופן אישי, ואין כאן תכונה המאפיינת את כלל חולי הדמנציה.
 
-אבל! – וזהו אבל גדול – המלאכים האלה שמסתובבים בינינו משלמים מחיר כבד על השדרוג הזה שלהם לכלל היותם מלאכים, וכך גם סביבתם משלמת. הם סובלים פעמים רבות. אני מתבונן בעירית ורואה את הדיכאון שהיא שרויה בו לעיתים, הנובע מן המודעות המעומעמת שלה לכך ש"משהו לא בסדר איתי". ובכן, הרי היא מלאך צחור עלי אדמות, אבל זהו מלאך עם כנפים שבורות.`, body_en: null },
+אבל! – וזהו אבל גדול – המלאכים האלה שמסתובבים בינינו משלמים מחיר כבד על השדרוג הזה שלהם לכלל היותם מלאכים, וכך גם סביבתם משלמת. הם סובלים פעמים רבות. אני מתבונן בעירית ורואה את הדיכאון שהיא שרויה בו לעיתים, הנובע מן המודעות המעומעמת שלה לכך ש"משהו לא בסדר איתי". ובכן, הרי היא מלאך צחור עלי אדמות, אבל זהו מלאך עם כנפים שבורות.`, body_en: `"An angel has no memory"
+(Terry Southern — Barbarella)
+
+Angels are perceived as spiritual, transcendental, supernatural beings. They have no bodily traits, but following Christian iconography they are depicted as beautiful, winged, white-clad, heavenly figures with halos above their heads. Already in Isaiah (the "seraphim") and in Ezekiel (the "wheels") angels are described with wings. The cherubim that stood above the Ark of the Covenant in the Holy of Holies in the Temple were depicted by the sages as winged infants. By contrast, the angels described in the Torah have no wings. Thus, for example, the three angels who visit Abraham appear as ordinary human beings in every respect. Sometimes, as in the case of Balaam, the angels are also capable of being unseen.
+
+The direction, then, is spiritual. The more heavenly and elevated, the better. According to Maimonides, the separate intellects of Aristotle's philosophy are the angels — that is, the forces that move reality by the will of God. I, by contrast, want to argue that there are flesh-and-blood angels walking among us. More specifically, I mean those suffering from dementia. I infer this inductively from observing my wife Irit.
+
+I have already noted that she radiates love and arouses love toward herself. But she has other traits too — and I believe these are traits that characterize those with dementia in general — and all these traits are defined by negation. There is no malice in her, no grudge, no plain wickedness. She can grow angry, of course, but she does not clearly know what she is angry about, and in any case she does not preserve her anger in order to take revenge later. This is because she has no memory. She does not remember the wrong that someone supposedly (or really) did to her. She is like that angel without memory mentioned in the science-fiction film Barbarella — who, owing to his inability to remember, neither avenges nor holds grudges. One can also describe this trait in positive terms. It is innocence. When she sees (by chance) suffering children on television, she is shaken to the same degree whether they are Jews or Arabs or Chinese or Hottentots. The love of humanity within her is granted equally to all, and it makes no difference at all whether they belong to her own people or not.
+
+Incidentally, this matter of concern for children is characteristic of her, since all her life she worked with children and acted tirelessly on their behalf. To this very day she speaks about children (who exist now almost only in her imagination) for whom we must care, with whose parents we must speak, with whose teachers we must consult, whom we must connect, whom we must bring together. She is constantly engaged in connections. On this point I acknowledge that this is personal to her, and not a trait characteristic of those with dementia in general.
+
+But! — and this is a great but — these angels who walk among us pay a heavy price for this upgrade of theirs into being angels, and their surroundings pay too. They suffer often. I watch Irit and see the depression she sometimes sinks into, arising from her dim awareness that "something is not right with me." Well, she is a pure-white angel on earth, but she is an angel with broken wings.` },
   { num: 77, title_he: "מלאך עם כנף שבורה", title_en: "An Angel with a Broken Wing", date: "2025-12-18", source: "single", body_he: `I'm just looking for an angel with a broken wing""
 
 (Jimmy Page - Led Zeppelin)
@@ -2040,7 +2051,24 @@ But not all of Europe is blind. There are those who warn and alert. For example,
 
 אני מוביל אותה החוצה, אל המכונית. היא לא יודעת אם להיכנס או לא, ולעיתים היא מתבוננת במכונית מבחוץ, כמי שאומרת: "מה לי ולדבר הזה?". אני מאיץ בה להיכנס ומראה לה לאן. לרוב, היא רוצה להתיישב לידי, אבל אני מסביר לה שוב-ושוב שעליה להתיישב מאחור, ליד המטפלת. "שמה זה יותר בטיחותי," אני מדגיש, והיא מצייתת לבסוף.
 
-בינתיים, Marilou מגיעה בחיוך רחב ומתיישבת לצידה. "אשים לך אודם," היא מציעה לעירית, ותיכף מסמיכה מעשה להצעתה. היא מסרקת את עירית ושמה לה אודם. "את יפה," היא אומרת, "את חמודה". מצב הרוח של כולנו משתפר מאוד. אנחנו יוצאים בשמחה לדרכנו. עירית מפטפטת הרבה על הפרחים שהיא רואה בדרך, ו-Marilou צוחקת, מלטפת את הלחי של עירית, מדברת אליה, ושואלת אותה שאלות. פתאום חולפת בראשי מחשבה: "הרי גם מארילו היא מלאך – מלאך שעופף אלינו מן המרחקים ונחת אצלנו ממש - בבית שלנו."`, body_en: null },
+בינתיים, Marilou מגיעה בחיוך רחב ומתיישבת לצידה. "אשים לך אודם," היא מציעה לעירית, ותיכף מסמיכה מעשה להצעתה. היא מסרקת את עירית ושמה לה אודם. "את יפה," היא אומרת, "את חמודה". מצב הרוח של כולנו משתפר מאוד. אנחנו יוצאים בשמחה לדרכנו. עירית מפטפטת הרבה על הפרחים שהיא רואה בדרך, ו-Marilou צוחקת, מלטפת את הלחי של עירית, מדברת אליה, ושואלת אותה שאלות. פתאום חולפת בראשי מחשבה: "הרי גם מארילו היא מלאך – מלאך שעופף אלינו מן המרחקים ונחת אצלנו ממש - בבית שלנו."`, body_en: `"I'm just looking for an angel with a broken wing"
+(Jimmy Page — Led Zeppelin)
+
+If I had a chance to speak with Jimmy Page, guitarist and founder of the legendary rock band Led Zeppelin, I would suggest he lift his eyes a little and look around. There is no need to strain and search so hard. Angels with broken wings walk among us in multitudes.
+
+An angel with a broken wing cannot fly again. He is not free unto himself, and he cannot breathe mountain air to the full of his lungs. He is dependent on others in every matter.
+
+Irit no longer decides, on her own, that she is going to take a shower. The Filipina caregiver, Marilou, decides this for her every morning. At first Irit refuses. On one hand she feels uncomfortable with the diaper soaked in urine, and she even points to it and notes its wetness. On the other hand she insists on maintaining her imagined independence. I join the effort of raising her from the armchair in the living room, and she lifts innocent eyes to me and yields to me out of trust. Afterwards, she is led to the shower on the second floor. There, confused and clouded, she continues to resist and fight. I hear the sounds of battle as I sit alone in the living room. Finally she surrenders and lets the caregiver bathe her. When she returns to the living room, clean and fragrant, she is already quiet and at ease, but the defeat is visible on her face. She wants to break into tears, but I try to greet her with joy, and it passes.
+
+We are sitting now in the living room, waiting for Marilou, who has gone into her room. Meanwhile, Irit tries to explain things to me. The expression on her face conveys profound seriousness. She points to the cup on the table and to the saucer. "This, and this, and this," she points and explains to me. From her eyes a quiet wonder shines. Her beautiful eyes ask me: "Did you understand me? Did you grasp my meaning?" I hasten to answer her: "Yes. Of course. Right. Exactly as you say." And she continues to explain to me the incomprehensible. Her soul thirsts for communication. She wants to speak, wants to be as she once was, and at the same time has no idea what she wants.
+
+"Come," I say to her, "let's drive to the club."
+
+"What club?" she asks in surprise. Even though we go there every day, the thing is very strange to her. Irit also does not remember her friends at the club. If she remembers anything, it is a dim memory that stirs in her vaguely only when she meets them. It astonishes her that I know who they are, and she asks me each time anew how I know "that woman."
+
+I lead her outside, to the car. She does not know whether to get in or not, and sometimes she looks at the car from outside, as if to say: "What do I have to do with this thing?" I urge her to get in and show her where. Usually she wants to sit beside me, but I explain to her again and again that she must sit in the back, next to the caregiver. "That way is safer," I emphasize, and she finally obeys.
+
+Meanwhile, Marilou arrives with a broad smile and sits beside her. "I'll put lipstick on you," she suggests to Irit, and immediately turns word into deed. She combs Irit's hair and puts on her lipstick. "You're beautiful," she says, "you're cute." The mood of all of us improves greatly. We set out in joy on our way. Irit chatters away about the flowers she sees on the road, and Marilou laughs, strokes Irit's cheek, talks to her, and asks her questions. Suddenly a thought passes through my head: "Marilou too is an angel — an angel who flew to us from afar and landed right here, in our home."` },
   { num: 78, title_he: "חוסר קוהרנטיות (א')", title_en: "Incoherence (A)", date: "2025-12-19", source: "single", body_he: `בצהריים, אני אוסף את עירית והמטפלת מן המועדון.
 
 אנחנו חוזרים הביתה, ותיכף עולים לקומה השנייה לנוח. אישית, אני עייף. בשנים האחרונות, אני עייף יותר ויותר. זו גם ההזדמנות של Marilou לנוח בחדרה שבקומה הראשונה, אבל פעמים רבות היא מנצלת את הזמן כדי לעשות משהו, להכין עוגה או לטפל בכביסה.
@@ -2083,7 +2111,49 @@ But not all of Europe is blind. There are those who warn and alert. For example,
 
 "אימא שלך בגן-עדן. טוב לה שם. היא רואה אותך משם, והיא שמחה. אין לך מה לדאוג לה בכלל?"
 
-עירית נראית מהורהרת, שקועה בתהיות, אבל נינוחה. היא ממשיכה בליטופי הפלא שלה ללא לאות, אבל כעבור זמן-מה הם נחלשים ונפסקים. עיניה נעצמות. נשימותיה כבדות. היא נרדמת. אני מקשיב לנשימות הסדורות שלה. מתישהו, נופלת גם עליי השינה הגואלת.`, body_en: null },
+עירית נראית מהורהרת, שקועה בתהיות, אבל נינוחה. היא ממשיכה בליטופי הפלא שלה ללא לאות, אבל כעבור זמן-מה הם נחלשים ונפסקים. עיניה נעצמות. נשימותיה כבדות. היא נרדמת. אני מקשיב לנשימות הסדורות שלה. מתישהו, נופלת גם עליי השינה הגואלת.`, body_en: `At noon, I pick up Irit and the caregiver from the club.
+
+We come home, and immediately go up to the second floor to rest. Personally, I am tired. In recent years I have been growing more and more tired. This is also Marilou's chance to rest in her room on the ground floor, but she often uses the time to do something — bake a cake or handle the laundry.
+
+Irit and I shut ourselves in the room and lie down on the large double bed. Usually Irit does not remember which side of the bed she should lie on, and I tell her again and again. She lies down with her heavy coat on. I make an effort to help her take it off. She does not understand why it should come off, but finally yields.
+
+"You're Uri," she states and asks at the same time.
+
+"Of course," I tell her, "I am your Uri. I have been your Uri for many years, and so it will be forever and ever."
+
+She smiles at me. Her face lights up. Immediately she strokes my hand and my shoulder. Her caresses are the most pleasant. I want her to continue them forever. These caresses, soft, gentle, calming, appear constantly whenever we are in physical closeness. Marilou too finds herself stroked sometimes.
+
+"Did you bring him?" she asks, "The children are arranging themselves from the end to the beginning. They're going there."
+
+"Of course," I answer, "we have to take care of them." I am a full partner in this conversation.
+
+"One, two, three," she counts, "what she did, not what came out of it. Right? How many do you think?"
+
+"At least ten," I answer.
+
+"Then it's fine," she notes. "Oh mother," she suddenly bursts out. She never says "oh father."
+
+"You need to check the green one they sent, Uri, it's very important for the arrangement at the top. Right Uri?"
+
+"Of course, what a question, I'll check it very carefully, you have nothing to worry about at all." I turn to her and stroke her cheeks.
+
+"I love you very, very much," she gazes at my face and tells me.
+
+"And I love you very, very, very much, you are the sweetest and cutest there is. You are my burbuziah."
+
+"Okay, fine," she agrees, "oh, oh, oh, the glasses, it hurts me here."
+
+"Here, here, I'm fixing them for you. Now it's okay. Right?"
+
+"It's Miriam's," she clarifies, "next to the puppy."
+
+"Which Miriam?"
+
+"My sister... oh mother... do you know where my mother is, Uri?"
+
+"Your mother is in heaven. She is well there. She sees you from there, and she is happy. You have nothing to worry about her at all."
+
+Irit looks pensive, sunk in wonders, but at ease. She continues her wondrous caresses tirelessly, but after a while they weaken and stop. Her eyes close. Her breathing grows heavy. She falls asleep. I listen to her steady breaths. At some point, redeeming sleep falls upon me too.` },
   { num: 79, title_he: "חוסר קוהרנטיות (ב')", title_en: "Incoherence (B)", date: "2025-12-21", source: "single", body_he: `פתאום היא מתעוררת.
 
 אני שומע את רחש תנועתה בחדר, ומתעורר אף אני. עיניי עדיין עצומות. נפשי מייחלת להמשיך ולישון, אבל היא מפטפטת ללא הרף. "אורי?" היא פונה אלי. "אורי?...אורי?" אני לא משיב לה. בידיה היא אוחזת נייר כלשהו, חסר-חשיבות, ומקריאה את כותרתו שוב ושוב.
@@ -2124,7 +2194,47 @@ But not all of Europe is blind. There are those who warn and alert. For example,
 
 "וצריך גם לחם, אורי, וביצים, וגם גרנולה, ודג. אין דג, אורי. עירית אוכל דג במועדון. וגם מכנסיים גדול לעירית. כָּזֶה... עכשיו חורף. קר. צריך מכנסים צֶמֶר אחד לשים במועדון."
 
-"אל תדאגי, Marilou ," אני אומר, "נקנה הכול. ונקנה גם לָךְ מכנסיים, או כל מה שתרצי."`, body_en: null },
+"אל תדאגי, Marilou ," אני אומר, "נקנה הכול. ונקנה גם לָךְ מכנסיים, או כל מה שתרצי."`, body_en: `Suddenly she wakes up.
+
+I hear the rustle of her movement in the room, and I too wake. My eyes are still closed. My soul longs to keep sleeping, but she chatters away constantly. "Uri?" she calls to me. "Uri? ... Uri?" I do not answer her. In her hands she holds some piece of paper, of no importance, and reads its title aloud again and again.
+
+"I'll keep sleeping," I say to myself, burrowing into the blanket, "let her do what she wants."
+
+Irit continues to read aloud, and I notice out of the corner of my eye that she is also holding the letters from the tax authority. All at once, I return to full alertness.
+
+"Where did you find these letters?! How did you get to them?!" I rush to take them from her hands. She does not resist.
+
+"I'm going to wee," she announces.
+
+"It's there," I direct her toward the right way, but she continues to sit on the bed.
+
+"It's there," I try again, "don't leave the room. You have it here. Here." Irit keeps sitting and staring at me.
+
+"You're my friend," she notes, "you're always my friend, all the dreads."
+
+"What did you say? All what?"... She does not answer.
+
+"I'm thirsty. I haven't eaten anything."
+
+"Then let's go down, we'll drink and eat." I get up and try to hurry her down. She sits and stares at me. Doesn't understand.
+
+"What do you want?"
+
+"You wanted to drink, so let's go down. Marilou is waiting for us."
+
+Irit does not get up. I take hold of her hands and shoulders and coax her to rise. It is hard for me physically. Finally she obeys reluctantly. We go down the stairs slowly, step by step. One, two, three, four... Irit clings to the railing and to me. She is afraid of the descent. Below, Marilou's smiling face peeks up at us.
+
+"She sleep?" inquires Marilou.
+
+"A little," I answer. A pleasant smell of baking surrounds us. It turns out Marilou used the time to make a cake. It is the torte cake I love. Irit and I sit in the living room and Marilou hurries to prepare tea for Irit and coffee for me. Of course she adds slices of cake and sits with us.
+
+"Uri, we need more diapers, Uri..." Marilou pipes up. Her voice is sweet, flattering, complaining and scolding, all at once. As if she were saying: you're not okay, Uri, that you didn't think of this yourself.
+
+"So what's the problem?" I answer, "let's drive to the mall now and buy some?"
+
+"And we need bread too, Uri, and eggs, and granola, and fish. No fish, Uri. Irit eats fish at the club. And big pants for Irit. Like this... It's winter now. Cold. We need one wool pants to leave at the club."
+
+"Don't worry, Marilou," I say, "we'll buy everything. And we'll buy pants for you too, or whatever you want."` },
   { num: 80, title_he: "חוסר קוהרנטיות (ג')", title_en: "Incoherence (C)", date: "2025-12-22", source: "single", body_he: `"אי...אימאל'ה," נאנחת עירית, "ספר לי על אימא שלי, שלא אשכח אותה..."
 
 אני חוכך בדעתי – מה אספר לה? ביני לביני, אני מחליט להראות לה תמונות.
@@ -2165,7 +2275,47 @@ But not all of Europe is blind. There are those who warn and alert. For example,
 
 ביציאה היא נפנית אליי לפתע.
 
-"תבטיח שתהיה תמיד חבר שלי," היא אומרת באופן חד וברור , "אני אפול ברחוב ואמות."`, body_en: null },
+"תבטיח שתהיה תמיד חבר שלי," היא אומרת באופן חד וברור , "אני אפול ברחוב ואמות."`, body_en: `"Oh... mama," Irit sighs, "tell me about my mother, so I don't forget her..."
+
+I deliberate — what shall I tell her? Privately, I decide to show her photographs.
+
+"Where is your mother?" she suddenly asks.
+
+"My mother and your mother are now in heaven. That's the special place I told you about."
+
+Irit is pensive. Marilou whispers something in her ear. Lately she plays all kinds of games with Irit. Irit listens to her, but does not answer. Marilou leans toward her and pinches her lightly on the shoulder.
+
+"Enough, stop it," Irit complains, but there is no grievance in her.
+
+"Did you tell them, Uri?" Irit asks, "He moved the half. To school. In the drawers?"
+
+"I did everything that's needed, my sweet, you have nothing to worry about at all."
+
+"What did you take? One and one more, all the way to the children. It was from there. In the group. Right Uri??"
+
+"Of course, bublah, what a question. It's all arranged completely."
+
+"What's arranged?" she tries to understand.
+
+I wonder what to say. After all, I myself don't know what I'm talking about.
+
+"Everything that needs to be," I answer, "everything is really, really arranged completely."
+
+I rise from the armchair to go up for a moment to the second floor. I forgot my phone there. Climbing the stairs is getting harder and harder. From upstairs I hear Irit asking "where is Uri? where is my Uri?" The thought occurs to me that now I am her mother. And it is not easy being a mother. Luckily I have prior training in this, with my own mother, for whom I also once played a parental role, decades ago... I hurry down so she won't think I no longer exist. She rises quickly from her seat and moves toward me. Usually she does not want to budge from her place, and endless persuasion is required. But at the sight of me she hurries. Her face is darkened. Held-back tears are on her lips and in her eyes. She looks at me silently and helplessly, crying out for my help without words. She wants me to save her. But how shall I do it? I lead her gently to her armchair.
+
+"Come Irit, come," Marilou tries to help, "sit here in your place. Do you want tea?"
+
+"In the end they'll kill me," says Irit.
+
+"No one will kill you," I declare to her firmly, "I am watching over you."
+
+Irit sits down again. We turn on the television for her and put on videos of children, infants, puppies and kittens. These are clearly AI videos, looking horribly stitched and artificial. Irit is interested and indifferent at once. Marilou busies herself with her phone — probably calling her family — and occasionally looks at the television, points to this or that infant, looks at Irit, laughs and tries to make her laugh.
+
+Irit's eyes close. She wants to sleep, and even announces it. We hurry to leave the house, because if she falls asleep this early, she will wake up at night. Again many persuasions are required to rouse her.
+
+On the way out she suddenly turns to me.
+
+"Promise that you'll always be my friend," she says clearly and sharply, "I'll fall in the street and die."` },
   { num: 81, title_he: "ווק", title_en: "Woke", date: "2026-01-05", source: "single", body_he: `ב-13 ביולי 2024, נורה המועמד הרפובליקני לנשיאות ארה"ב, Donald Trump, במהלך עצרת בחירות בפנסילבניה. הכדור פגע באוזנו, ומיד אחר-כך רואים (בסרטון שפורסם) את שומרי הראש, כיצד הם מגוננים עליו ומורידים אותו מהבמה. בין הגברים שהקיפו אותו, הייתה גם אישה. היא נראתה קטנה למדיי ביחס ל- Trump המגודל.
 
 אין לי צל של מושג קלוש מיהי האישה ומה באמת נתוניה וכושרה מהבחינה הפיזית. ייתכן שאישה ספציפית זו אינה נופלת מן הגברתנים המשמשים בדרך כלל בתפקידים כאלה, ואולי היא אף "שמה אותם בכיס הקטן", ובכל-זאת אני מרשה לעצמי לתהות: שמא אין היא מתאימה לתפקיד התובעני הזה, פשוט מאחר שאינה חזקה מספיק או גבוהה מספיק? ובהנחה (בלתי מוכחת) שאכן אין היא מתאימה, הכיצד זה נבחרה למרות אי התאמתה? האם נעשה הדבר במסגרת מה שנקרא "אפליה מתקנת"? כלומר, מתן ייצוג לנשים, בין אם הן מתאימות על-פי מדדים פיזיים-אובייקטיביים ובין אם לאו? אם ההנחה הנ"ל נכונה, האם הבחירה באותה אישה נעשתה מתוך הצורך בקידומן של "אוכלוסיות מוחלשות" או "מדוכאות"?
@@ -2174,7 +2324,15 @@ But not all of Europe is blind. There are those who warn and alert. For example,
 
 ה- Woke (מלשון: Wake) שנועד לכתחילה להגביר ערנות ומודעות של אפרו-אמריקנים לאפליה על רקע גזעי, התרחב, ומתחילת המאה ה-21 משמש המונח גם לצורך קידומן של אוכלוסיות "מוחלשות ומדוכאות" נוספות, כמו להט"ב, מהגרים וכדומה. על בסיס אידאולוגית ה-Woke הוקמו מסגרות של Diversity, equity, and inclusion (= DEI) באוניברסיטאות שונות ובתאגידים מסחריים, אשר באמצעות אפליה מתקנת נועדו להבטיח שוויון חברתי, או במילים אחרות: ייצוג של קבוצות חברתיות "מוחלשות ומדוכאות". ייצוג כזה מהווה ערך גם בעיניי, ובתנאי שלא יהפוך להיות אבסורדי, מנוגד להיגיון, ובעיקר: נוגד ערכים נוספים, לא פחות חשובים. אם, למשל, תחדור גישה זאת לעולם הרפואה, ורופאים שימונו יהיו בלתי מתאימים לתפקידיהם, תעלה בחירה כזו בחיי אדם. פשוטו כמשמעו.
 
-ומדוע אני מתייחס לנושא הזה? בגלל הדיון הקודם בנושא המהגרים המוסלמים. המהגרים הללו מגיעים לכתחילה כפליטים, כלומר כאלה שתווית הדיכוי וההחלשה טבועה בהגדרה על מצחם. מתוקף כך, רבים מן האזרחים, ותיקֵי הדמוקרטיות המערביות, אשר חונכו על ברכי הליברליזם, השוויון, הנאורות, הרב-תרבותיות, הקבלה ההכלה וה-Woke, ימהרו להילחם על "זכויותיהם" של הקורבנות הללו (ובתחילת הדרך, הם אכן קורבנות). דא-עקא שאחרי זמן-מה של הסתגלות, עתידים אומללים אלה לחבור אל אומללים קודמים, אשר צברו כבר כוח וזכויות, ויחדיו אין הם כבר כה מקופחים ומוחלשים. יחדיו אין הם מעוניינים להיות "ילדים טובים" ולהיטמע בתרבות השוויונית והדמוקרטית אליה הגיעו. הם גם לא מסכימים לחיות בשלום לצידה. הם מעוניינים להשפיע, כלומר לקבוע! יש להם את אמונתם. יש להם את ה- Quranוה-Hadith. יש להם את מנהגיהם ואורחות חייהם. מה להם ולתרבות ההבל המערבית, הריקנית והמנוונת (בעיניהם)? הם אמורים מעתה לתקן ולהשיב לעצמם את מעמדם האבוד כשליטים. אם יש דבר שהמהגרים הללו סולדים ממנו יותר מכל (למעט יהודים) הרי זו "התרבות" אליה הגיעו.`, body_en: null },
+ומדוע אני מתייחס לנושא הזה? בגלל הדיון הקודם בנושא המהגרים המוסלמים. המהגרים הללו מגיעים לכתחילה כפליטים, כלומר כאלה שתווית הדיכוי וההחלשה טבועה בהגדרה על מצחם. מתוקף כך, רבים מן האזרחים, ותיקֵי הדמוקרטיות המערביות, אשר חונכו על ברכי הליברליזם, השוויון, הנאורות, הרב-תרבותיות, הקבלה ההכלה וה-Woke, ימהרו להילחם על "זכויותיהם" של הקורבנות הללו (ובתחילת הדרך, הם אכן קורבנות). דא-עקא שאחרי זמן-מה של הסתגלות, עתידים אומללים אלה לחבור אל אומללים קודמים, אשר צברו כבר כוח וזכויות, ויחדיו אין הם כבר כה מקופחים ומוחלשים. יחדיו אין הם מעוניינים להיות "ילדים טובים" ולהיטמע בתרבות השוויונית והדמוקרטית אליה הגיעו. הם גם לא מסכימים לחיות בשלום לצידה. הם מעוניינים להשפיע, כלומר לקבוע! יש להם את אמונתם. יש להם את ה- Quranוה-Hadith. יש להם את מנהגיהם ואורחות חייהם. מה להם ולתרבות ההבל המערבית, הריקנית והמנוונת (בעיניהם)? הם אמורים מעתה לתקן ולהשיב לעצמם את מעמדם האבוד כשליטים. אם יש דבר שהמהגרים הללו סולדים ממנו יותר מכל (למעט יהודים) הרי זו "התרבות" אליה הגיעו.`, body_en: `On July 13, 2024, the Republican candidate for the U.S. presidency, Donald Trump, was shot during a campaign rally in Pennsylvania. The bullet struck his ear, and immediately afterwards one sees (in the video that was released) the bodyguards, how they shield him and bring him down off the stage. Among the men who surrounded him there was also a woman. She looked rather small in relation to the oversized Trump.
+
+I have not the faintest idea who the woman is or what her actual data and physical capacity are. It may be that this specific woman is no less able than the strong men usually employed in such roles, and perhaps she even "puts them in her little pocket," and yet I allow myself to wonder: is she perhaps unsuited to this demanding role, simply because she is not strong enough or tall enough? And on the assumption (unproven) that she is indeed unsuited, how was she chosen despite her unsuitability? Was it done within the framework of what is called "affirmative action" — that is, granting representation to women, whether or not they fit physical-objective standards? If the above assumption is correct, was the choice of that woman made out of a need to advance "disadvantaged" or "oppressed populations"?
+
+And more generally: has the advancement of populations considered oppressed become a religious-faith principle of extremism, leading to absurd results?
+
+Woke (from: Wake), originally intended to heighten the alertness and awareness of African-Americans to discrimination on racial grounds, has expanded — and since the beginning of the 21st century the term is also used for advancing other "disadvantaged and oppressed" populations such as LGBT, immigrants, and so on. On the basis of Woke ideology, frameworks of Diversity, Equity, and Inclusion (DEI) have been established at various universities and commercial corporations, which through affirmative action aim to ensure social equality — or in other words: representation of "disadvantaged and oppressed" social groups. Such representation is a value in my eyes too, provided it does not become absurd, contrary to reason, and above all: contrary to other no less important values. If, for example, this approach penetrates the world of medicine, and the doctors appointed are unsuited to their roles, such a choice will cost human lives. Literally.
+
+And why do I refer to this subject? Because of the previous discussion on the matter of the Muslim immigrants. These immigrants arrive initially as refugees — that is, as people on whose foreheads the label of oppression and weakness is stamped by definition. Therefore, many citizens, the veterans of the Western democracies, who were raised on the lap of liberalism, equality, enlightenment, multiculturalism, acceptance, inclusion, and Woke, will rush to fight for the "rights" of these victims (and at the start of the road, they are indeed victims). The trouble is that after some time of adjustment, these wretched ones will join the previous wretched ones, who have already accumulated power and rights, and together they are no longer so deprived and weakened. Together they are not interested in being "good children" and assimilating into the egalitarian and democratic culture they have reached. They also do not agree to live in peace beside it. They want to influence — that is, to decide! They have their faith. They have their Quran and Hadith. They have their customs and ways of life. What have they to do with the empty, hollow, decadent Western "culture" (in their eyes)? They are henceforth supposed to correct and restore to themselves their lost status as rulers. If there is one thing these immigrants loathe more than anything (except Jews), it is the "culture" they have arrived in.` },
   { num: 82, title_he: "קווירים למען פלסטין", title_en: "Queers for Palestine", date: "2026-01-06", source: "single", body_he: `הכותרת למעלה מתארת תופעה משונה שמשמעה הוא הכחשת המציאות ואי-אבחנה בין טוב לרע.
 
 במסגרת תמיכתם של הלהט"בים והקווירים (LGBTQ = Lesbian, Gay, Bisexual, Transgender, Queer) בפלסטין, הם "מבינים" או אף תומכים בתנועת טרור כמו החמאס ומגדירים אותה כתנועת התנגדות ושחרור לגיטימית.
@@ -2187,7 +2345,19 @@ But not all of Europe is blind. There are those who warn and alert. For example,
 
 נוצרה לפנינו תופעה מוזרה ביותר. זהו חיבור משונה בין שמאל פרוגרסיבי, אשר כביכול רוצה לחבק את כולם, לבין אסלאם שרוצה לשלוט בכולם. בין השניים, ברור מיהו העיוור ומיהו המפוכח והקשור למציאות. כבר נכתב רבות על כך שחסידי האסלאם, הנהנים מאוד מן התמיכה הבלתי צפויה הזו, רואים בתומכיהם העיוורים useful idiots ותו-לא. חסידי האסלאם לא "התאהבו" בתומכיהם, גם אם הם מראים כלפיהם חיבה רבה. בסתר ליבם, הם סולדים מן ה- LGBTQ ורק ממתינים לשעת כושר כדי להיפטר מהם ומן התופעה שהם מייצגים. בינתיים, אירופה נכבשת, ומשנה את אופייה ואורחותיה. לא ירחקו הימים שבהם גם עברה המפואר של אירופה יישכח ויוחלף בסיפור אחר. לאחרונה, בעקבות בחירתו של Zohran Mamdani בניו-יורק, ייתכן שגם בארה"ב נראה את התופעה הזו. בקמפוסים האוניברסיטאיים בארה"ב זה כבר קיים.
 
-חדי העין בוודאי שמו לב לכך שכתבתי לעיל "שמאל פרוגרסיבי אשר כביכול רוצה לחבק את כולם". מדוע "כביכול"? האם אנשים נאורים אלה אינם רוצים לחבק את כולם? האם יש קבוצות שלא נושאות חן בעיני האנשים המתקדמים הללו? האם יתכן שמבחינת הפרוגרסיביים יש אנשים שנואים עד כדי כך שראוי להם (לשנואים) להיעלם, להיפגע, להיות מושתקים, ואף להיות מוצאים להורג? התשובה היא כן.`, body_en: null },
+חדי העין בוודאי שמו לב לכך שכתבתי לעיל "שמאל פרוגרסיבי אשר כביכול רוצה לחבק את כולם". מדוע "כביכול"? האם אנשים נאורים אלה אינם רוצים לחבק את כולם? האם יש קבוצות שלא נושאות חן בעיני האנשים המתקדמים הללו? האם יתכן שמבחינת הפרוגרסיביים יש אנשים שנואים עד כדי כך שראוי להם (לשנואים) להיעלם, להיפגע, להיות מושתקים, ואף להיות מוצאים להורג? התשובה היא כן.`, body_en: `The title above describes a strange phenomenon whose meaning is the denial of reality and the inability to distinguish between good and evil.
+
+In the framework of the LGBTQ community's support for Palestine (Lesbian, Gay, Bisexual, Transgender, Queer), they "understand" or even support a terror movement like Hamas and define it as a legitimate resistance and liberation movement.
+
+Without entering (for now) into the subject called the Israeli-Palestinian conflict, the question arises: how can the LGBTQ feel sympathy toward a movement that does not hesitate to execute, without trial, gays and bisexuals? After all, in the eyes of fundamentalist Sunni Muslims, there are no homosexuals in their society, and when such are discovered, they are thrown off rooftops. In Shia Islam too, the attitude toward LGBTQ is terrible. Homosexuality in Iran is defined as a criminal offense, and therefore gays undergo persecution, abuse, and execution. Well — have the eyes of the above-mentioned supporters of Palestine been blinded to this aspect of the object of their support? The answer is: yes. They are blind, as I have argued. They live inside a story they tell themselves, and through this they are disconnected from reality. In other words — they do not distinguish between good and evil.
+
+Within this lack of distinction, there is also denial and/or disregard of the horrifying acts of slaughter perpetrated by Hamas on October 7, 2023. On the basis of overt or hidden antisemitism, there is even a certain malicious joy — for so it befits the Jews, those occupiers and oppressors... From here it is also a short way to the silence of the women's organizations in the world in the face of the horrific acts of rape carried out by the terrorists of Hamas.
+
+And from this it follows that everything is subject to the question: what is the story you tell yourself? (whatever reality may be).
+
+A very strange phenomenon has formed before us. It is a peculiar union between a progressive left, which supposedly wants to embrace everyone, and an Islam that wants to rule everyone. Between the two it is clear who is the blind one and who is the lucid one tied to reality. Much has already been written about the fact that the devotees of Islam, who very much enjoy this unexpected support, see in their supporters useful idiots and nothing more. The devotees of Islam have not "fallen in love" with their supporters, even if they show them great affection. In their hearts, they detest the LGBTQ and only wait for an opportunity to be rid of them and of the phenomenon they represent. Meanwhile, Europe is being conquered, changing its character and its ways. The days are not far off when Europe's glorious past too will be forgotten and replaced by another story. Recently, following the election of Zohran Mamdani in New York, it may be that in the United States too we shall see this phenomenon. On the university campuses in the U.S. it already exists.
+
+The sharp-eyed have surely noted that I wrote above "a progressive left which supposedly wants to embrace everyone." Why "supposedly"? Do these enlightened people not want to embrace everyone? Are there groups that do not find favor in the eyes of these progressive people? Could it be that for the progressives there are people so hated that they (the hated) deserve to disappear, to be harmed, to be silenced, and even to be executed? The answer is yes.` },
   { num: 83, title_he: "האלימות של הנאורים", title_en: "The Violence of the Enlightened", date: "2026-01-12", source: "single", body_he: `"Their mouths speak of love, but their hearts are greedy for unjust gain"
 
 Ezekiel 33:31) )
@@ -2202,7 +2372,20 @@ Ezekiel 33:31) )
 
 אנשי Woke, שיהיו מוכנים להפיל את עצמם אל מתחת הפרסות של סוסי המשטרה בהגנה על "זכויות המהגרים המדוכאים", יהיו מוכנים באותה המידה להתנפל באלימות על שוטרים (הנתפסים בעיניהם כנציגי משטר הרשע) ועל כל מי שמתנגד לדעותיהם (במיוחד אם אלה "לבנים פריווילגים מדכאים"). ערכי DEI (גיוון, שוויון והכלה) לא מתייחסים איפה באופן שוויוני אל כולם.
 
-האם אני מתנגד לערכי ה-DEI ? ודאי שלא. אלה ערכים חשובים מאוד, בתנאי שאינם הופכים לדת חדשה (כלומר, אין הם מטשטשים את בוחן המציאות), ובלבד שאינם מכסים על נטיות ומגמות הפוכות לחלוטין לערכים אלה. כשלעצמי, אני תמיד חושד במי שמכנה את עצמו "דמוקרט" או "ליברל" או סתם "מתנגד מושבע לגזענות", ועוד תחפושות יפות שכאלה. ה"יפים והנאורים" בעיני עצמם ועל-פי הצהרותיהם (וצעקותיהם!) מעוררים בי רתיעה אינסטינקטיבית. למה הדבר דומה? לאדם המכריז ברבים על צניעותו המופלגת. "ראו עד כמה אני צנוע," משמיע אותו אדם, "אין בכל העולם כולו עוד צנוע אחד כמוני!"`, body_en: null },
+האם אני מתנגד לערכי ה-DEI ? ודאי שלא. אלה ערכים חשובים מאוד, בתנאי שאינם הופכים לדת חדשה (כלומר, אין הם מטשטשים את בוחן המציאות), ובלבד שאינם מכסים על נטיות ומגמות הפוכות לחלוטין לערכים אלה. כשלעצמי, אני תמיד חושד במי שמכנה את עצמו "דמוקרט" או "ליברל" או סתם "מתנגד מושבע לגזענות", ועוד תחפושות יפות שכאלה. ה"יפים והנאורים" בעיני עצמם ועל-פי הצהרותיהם (וצעקותיהם!) מעוררים בי רתיעה אינסטינקטיבית. למה הדבר דומה? לאדם המכריז ברבים על צניעותו המופלגת. "ראו עד כמה אני צנוע," משמיע אותו אדם, "אין בכל העולם כולו עוד צנוע אחד כמוני!"`, body_en: `"Their mouths speak of love, but their hearts are greedy for unjust gain."
+(Ezekiel 33:31)
+
+On September 10, 2025, the conservative activist Charles Kirk was shot in the neck. The murder occurred at a convention at Utah Valley University while Kirk was answering questions from the audience. The suspect in the assassination is Tyler Robinson.
+
+What caused Tyler, a 22-year-old with no criminal record, to murder Charlie, a family man and father of two small children? Of course, I do not claim to know with certainty. The matter will be clarified — so one must hope — at trial. But a clear hint of the motive exists in the background of the act, as has been reported in the media. Tyler was in a romantic relationship with a transgender woman, and according to his mother he expressed more and more political opinions opposed to those of his Republican parents. Charlie Kirk, who voiced conservative positions against LGBTQ, was seen in Tyler's eyes as an enemy. In a note he sent to his partner, Tyler wrote: "I'm tired of his hatred. There is hatred one cannot compromise on."
+
+Tyler, therefore, saw everything. He scrupulously diagnosed Charlie's hatred, but he was blind to the hatred dwelling within himself. Out of that hatred, he rose and murdered Charlie in cold blood. Is this mere blindness? Self-deception? Or in fact hypocrisy? While the mouth utters to us words of equality, inclusion, rights, and more and more fine and elevated values, the hand grips the rifle and the finger presses the trigger. Equality, beautifully, toward everyone — except whoever expresses an opposing view.
+
+Am I trying to argue that violence comes only from the left side of the political map toward the right? Of course not. Violence exists both on the right and on the left, and it is despicable in any case. The difference is that the violent figures on the right do not gather under the cloak of diversity, equality, inclusion, acceptance, enlightenment, progress, and the like. It seems there is less hypocrisy in the violent right-wing circles (or less self-deception, or less blindness).
+
+People of Woke, who would be ready to throw themselves under the hooves of police horses in defense of the "rights of oppressed immigrants," would be ready in equal measure to fall violently upon police officers (perceived in their eyes as agents of the wicked regime) and on anyone who opposes their views (especially if they are "privileged white oppressors"). The values of DEI (Diversity, Equity, Inclusion) do not, then, relate to everyone in an egalitarian way.
+
+Do I oppose the values of DEI? Of course not. These are very important values, on condition that they do not become a new religion (that is, do not blur reality testing), and provided that they do not cover for tendencies and trends that are entirely opposed to these very values. For myself, I am always suspicious of one who calls himself a "democrat" or "liberal" or simply "a sworn opponent of racism," and other such pretty disguises. The "beautiful and enlightened" in their own eyes and by their own declarations (and shouts!) arouse in me an instinctive aversion. What is this comparable to? To a person who publicly declares his exceptional modesty. "See how modest I am," that person utters, "there is no other in all the world as modest as I!"` },
   { num: 84, title_he: "עוד על הצביעות", title_en: "More about Hypocrisy", date: "2026-01-18", source: "single", body_he: `עד כמה נפוצה תופעת ה-Hypocrisy בעולם?
 
 אם אנחנו דנים בסתם Pretense או Pose, הרי שתופעות אלה הינן נפוצות ביותר. בכללן, אנו מוצאים את חטא היוהרה ((Hubris, ומעניין הדבר שבנצרות חטא זה (Pride) הנו החמור בין שבעת החטאים שדינם מוות.
@@ -2213,7 +2396,17 @@ Ezekiel 33:31) )
 
 האם אני חושב שכל אחיותיי הפסיכולוגיות וכל חברותיי העובדות הסוציאליות הן מעמידות פנים? ודאי שלא. רבות מהן הינן ישרות-דרך ושוחרות טוב. אני רק מנסה לטעון שהזיוף קיים גם בשדה שבו כביכול אין לו מקום, ואשר בו קיימת הטפה מתמדת לפתיחות ואותנטיות. האם הזיוף הזה עולה כדי מעלת ה- Hypocrisy? ייתכן שכן. הרי צביעות משמעה ניגוד צורם בין הצהרותיו של אדם והטפותיו לבין התנהגותו בפועל (לעיתים במסתרים). וכאן אנחנו מוצאים נשות מקצוע אשר מצד אחד מטיפות לפתיחות ואותנטיות, אבל מצד שני מומחיותן האמיתית היא בתחומי הזיוף וההונאה, כלפי אחרים וכלפי עצמן. לפחות במקרים מסוימים זו אכן צביעות.
 
-ובכן, מה עשיתי אני אל נוכח התופעה הזו? האם יצאתי נגדה? האם נתתי ביטוי אותנטי ופתוח לסלידה האינסטינקטיבית שחשתי? התשובה היא: לא ולא! המשכתי להתבונן ושתקתי כמו דג. ובמילים אחרות: הייתי עסוק בהעמדת פנים בעצמי.`, body_en: null },
+ובכן, מה עשיתי אני אל נוכח התופעה הזו? האם יצאתי נגדה? האם נתתי ביטוי אותנטי ופתוח לסלידה האינסטינקטיבית שחשתי? התשובה היא: לא ולא! המשכתי להתבונן ושתקתי כמו דג. ובמילים אחרות: הייתי עסוק בהעמדת פנים בעצמי.`, body_en: `How widespread is the phenomenon of hypocrisy in the world?
+
+If we are discussing mere pretense or pose, then these phenomena are extremely common. Among them, we find the sin of hubris, and it is interesting that in Christianity this sin (pride) is the gravest among the seven deadly sins.
+
+Of course, not every act of pretense stems from matters of ego (the above-mentioned pride). Life teaches us that it is not advisable, or not fitting, or even not morally right, to throw the truth always in the faces of the people around us. First, we are not talking about the truth pure and simple but about our own subjective "truth." Second, the thing may seriously harm our relations with those people. Third, there may even be a violent reaction on their part toward us... It has been said, for example, that for the sake of peace in the home, it is fitting for spouses to avoid telling each other the whole truth. We also know that children initially tend to tell the truth, but over the course of their development they learn to lie, to refrain from telling the whole truth, to distort, to exaggerate, to minimize, to imagine, and to invent. In short, we call this adaptation.
+
+I have encountered pretense within the framework of my studies and my work as a psychologist. Precisely in the field of psychology, which tries to educate us toward honesty, toward true self-observation, I have experienced such moments — of strange and unconscious (at least to some degree) pretense. It happened, for example, in dynamic discussion groups in which I participated. As is known, in these groups the practice is to expose yourself, your feelings, your pains, and your problems. Whoever does so to a great extent is praiseworthy. This is in fact the expectation of you. There were such groups in which, before my astonished eyes, certain participants (mainly women, but also men) burst into terrible and dreadful weeping, without any prelude or hint that such a thing was about to occur. I felt that they were trained in such behavioral expressions. They were like skilled sprinters who, immediately upon the opening whistle, run at full force and acceleration. Before I even understood what and why, I already saw them weeping and pouring out their bitterness to me, outwardly. At that very moment, I knew — there is no truth in this. This is a show meant to display their excellent ability to open up and to bring their problems before the group in the most authentic way. This is a journey in the service of the ego, and the only thing that supposedly stands to the credit of these women is the possibility that they are not aware (at least not entirely) of their own counterfeit.
+
+Do I think that all my female psychologist colleagues and all my female social worker friends are pretenders? Of course not. Many of them are upright and goodhearted. I am only trying to argue that the counterfeit exists also in the field where, supposedly, it has no place — and in which there is constant preaching of openness and authenticity. Does this counterfeit rise to the level of hypocrisy? It may. After all, hypocrisy means a jarring contradiction between a person's declarations and preachings and his actual conduct (sometimes in secret). And here we find professional women who on one hand preach openness and authenticity, but on the other hand their real expertise is in the realms of counterfeit and deception — toward others and toward themselves. At least in certain cases this is indeed hypocrisy.
+
+Well, what did I myself do in the face of this phenomenon? Did I come out against it? Did I give authentic and open expression to the instinctive aversion I felt? The answer is: no and no! I continued to observe and kept silent as a fish. In other words: I was busy with pretense myself.` },
   { num: 85, title_he: "בית המקדש הפסיכולוגי", title_en: "Psychological Holy Temple", date: "2026-01-19", source: "single", body_he: `הציפייה בחוגי הפסיכולוגיה הקלינית, וליתר דיוק בקרב המחזיקים בגישה 'דינמית' – Psychoanalytically oriented Psychotherapy – היא שהסטודנטים שם יחשבו, ירגישו ויגיבו באופן המתאים ל'דמות הפסיכולוג הראוי'. מי קובע מהי דמות זו? ברור – הכוהנים הגדולים של התחום. כלומר, המדריכים הראשיים של האוניברסיטאות והקליניקות המפורסמות. ומהן תכונותיה של דמות זו? גם זה ידוע. בעיקר: פתיחות, אותנטיות, יכולת להתבוננות עצמית, יכולת לאמפתיה, ועוד תכונות יפות וטובות מעין אלה.
 
 כאשר אני מציין "תכונות יפות וטובות", אין אני מזלזל בכך, חס וחלילה. אלה באמת תכונות ראויות מאוד. הבעיה מתהווה כאשר התכונות הללו משוּחקות, הן על ידי הסטודנטים והן על ידי מדריכיהם. בכך נוצר זיוף, העולה לעיתים לכדי מעלת ה- Hypocrisy. בעיה עמוקה יותר היא הפיכת החוגים האמורים למעין מסדר דתי. רק מי שעומד בקריטריונים (מערכת הציפיות) לעיל יכול להשתייך למסדר. במובן זה, הציפיות מייצרות הגבלה וצמצום. הראייה הופכת להיות דיכוטומית – יש ראויים ויש בלתי ראויים. המגוון האנושי העצום נעלם מן העין. 'עופות קצת מוזרים' מתוך המגוון הזה נדחים. או שנאמר להם שעליהם לבצע עוד ועוד 'עבודה עצמית' כדי שיתאימו וישתייכו סוף-סוף. יש כמובן כאלה המתייאשים בדרך.
@@ -2222,7 +2415,15 @@ Ezekiel 33:31) )
 
 המעניין הוא שלא רק שרדתי. לימים נעשיתי מדריך קליני ב- Psychotherapy וב- Psychodiagnostics, ואחר-כך גם פסיכולוג ראשי של מחלקת עליית הנוער במשרד החינוך. במילים אחרות: הצטרפתי לחוג הנבחר והמצומצם של עדת הכוהנים הגדולים. כיצד הצלחתי בכך? ובכן, עמדה לרשותי אותה יכולת של העמדת פנים שפיתחתי לעצמי. לימים, כאשר הגעתי אל מעמד הכהונה, ניסיתי שלא לשכוח את החוויות הללו שחוויתי במסגרת לימודיי והתמחותי, ולרוב השתדלתי שלא להיות שיפוטי ולקבל באמת את אלה מקרב המתמחים והמתמחות המייצגים שונות או ייחודיות. זכרתי אז שאני עצמי הנני עוף די מוזר המסתובב בשדה...
 
-אני מדגיש: לרוב השתדלתי. מדוע "לרוב"? כי קל מאוד להיהפך ולהיות חלק מן הקליקה הזו. מרגע שאתה אחד מן ה"ראויים" - בעצם אחד מראשי הראויים - הלב מושך אותך להיות שיפוטי בעצמך כלפי ה"בלתי ראויים". הנך מצוי בתוך החֵיק הנעים והחמים של כוהני הכת הדתית הסגורה, ולא נותר לך אלא לחזק את מעמדך על ידי כך שתשתמש בקריטריונים המקובלים והשגורים, כדי להשתלח ב'בלתי ראוי' כלשהו. אתה מתנסח באופן מעודן, בסבר פנים רציני, ומקפיד על ניתוח רציונלי ומדוקדק. כמובן, הדבר נעשה בסוד ההיוועצות של ראשי הכת הדתית, כפי שמתחייב ממעמדך העליון, ומתוקף אחריותך ככוהן דת.`, body_en: null },
+אני מדגיש: לרוב השתדלתי. מדוע "לרוב"? כי קל מאוד להיהפך ולהיות חלק מן הקליקה הזו. מרגע שאתה אחד מן ה"ראויים" - בעצם אחד מראשי הראויים - הלב מושך אותך להיות שיפוטי בעצמך כלפי ה"בלתי ראויים". הנך מצוי בתוך החֵיק הנעים והחמים של כוהני הכת הדתית הסגורה, ולא נותר לך אלא לחזק את מעמדך על ידי כך שתשתמש בקריטריונים המקובלים והשגורים, כדי להשתלח ב'בלתי ראוי' כלשהו. אתה מתנסח באופן מעודן, בסבר פנים רציני, ומקפיד על ניתוח רציונלי ומדוקדק. כמובן, הדבר נעשה בסוד ההיוועצות של ראשי הכת הדתית, כפי שמתחייב ממעמדך העליון, ומתוקף אחריותך ככוהן דת.`, body_en: `The expectation in clinical psychology circles, and more precisely among those who hold the 'dynamic' approach — psychoanalytically oriented psychotherapy — is that the students there will think, feel, and react in the manner appropriate to the figure of the "proper psychologist." Who determines what this figure is? Clearly — the high priests of the field. That is, the chief supervisors of the famous universities and clinics. And what are the traits of this figure? That too is known. Mainly: openness, authenticity, the capacity for self-observation, the capacity for empathy, and other such fine and good traits.
+
+When I say "fine and good traits," I am not, heaven forbid, belittling them. These are truly very worthy traits. The problem arises when these traits are acted out — both by the students and by their supervisors. By this a counterfeit is created, sometimes rising to the level of hypocrisy. A deeper problem is the transformation of the said circles into a kind of religious order. Only one who meets the criteria (the system of expectations) above can belong to the order. In this sense, the expectations produce constraint and narrowing. The view becomes dichotomous — there are the worthy and there are the unworthy. The vast human variety disappears from sight. "Somewhat strange birds" from within this variety are rejected. Or they are told that they must do more and more "self-work" in order to finally fit in and belong. There are of course those who give up along the way.
+
+There were times when I felt myself to be near a religious sect. Anyone who has ever been in the jaws of some religious sect knows the force of its members' expectations and demands of behavior according to certain social codes — them, and no others. Just don't deviate. First you'll catch it from the male and female members, and then from the high priest (or priestess). One of the fine and excellent traits in the eyes of the priesthood is the absence of judgmentalism. First, inside the psychotherapy. Second — in general. That is, among the colleagues in the various groups. The absence of judgmentalism and the acceptance of the different are elevated traits in my eyes too — but in those circles I felt more than once a deep, foundational layer of judgmentalism than which there is none greater. This is a phenomenon one must survive, and I did indeed survive it.
+
+The interesting thing is that I did not only survive. In time I became a clinical supervisor in psychotherapy and in psychodiagnostics, and afterwards also chief psychologist of the Youth Aliyah department in the Ministry of Education. In other words: I joined the select and narrow circle of the assembly of high priests. How did I succeed in this? Well, at my disposal was that capacity for pretense which I had developed for myself. Later, when I reached the priestly status, I tried not to forget the experiences I had undergone in the framework of my studies and my training, and most of the time I tried not to be judgmental, and truly to accept those among the trainees who represented difference or uniqueness. I remembered then that I myself am a rather strange bird wandering the field...
+
+I emphasize: most of the time I tried. Why "most of the time"? Because it is very easy to become and to be part of this clique. From the moment you are one of the "worthy" — in fact one of the heads of the worthy — the heart draws you to be judgmental yourself toward the "unworthy." You are in the pleasant, warm bosom of the priests of the closed religious sect, and nothing remains for you but to strengthen your status by using the accepted and customary criteria, in order to lash out at some "unworthy." You phrase things gently, with a serious expression, and insist on a rational, meticulous analysis. Of course, this is done in the secret counsel of the heads of the religious sect, as is required by your high status, and by virtue of your responsibility as a priest of the religion.` },
   { num: 86, title_he: "עוף מוזר", title_en: "Strange Bird", date: "2026-01-21", source: "single", body_he: `אני מאבחן את עצמי כעוף מוזר למדיי, מאחר שכל חיי לא חוויתי השתייכות מלאה לקבוצה כלשהי. אין מדובר רק בחוגי הפסיכולוגיה הקלינית, המהווים לדעתי מעין כת דתית סגורה ופנאטית של יודעי ח"ן (חכמה נסתרה) ושפת סתרים. הכוונה היא לכל המסגרות שאליהן ובהן השתתפתי. החל משחר חיי, בבתי הספר השונים, בצבא, באוניברסיטאות ובעבודה, תמיד חשתי שונוּת מסוימת. הבטתי בסובבים אותי כאילו ממרחק מסוים, בתחושה של חוסר השתייכות מלאה. למזלי ידעתי כיצד להתנהג, על מנת שלא להסגיר את התחושה הדקה והנסתרת הזו שלי. ידעתי כיצד להעמיד פנים, או במילים אחרות: הבנתי מה עלי לעשות כדי להתערות. לרוב, עלה הדבר בידי. כאשר הצלחתי, היטשטשה תחושת הריחוק, אך לא נעלמה לגמרי. היא הקפידה לחזור אליי לאחר מכן.
 
 לא בהכרח ולא תמיד, הצלחתי להסתיר מהות זו שלי. ביני לבין עצמי תמיד ידעתי שיש מי שרואה אותי כפי שאני. זכור לי היטב מישהו כזה שאבחן אותי במדויק ולא היסס לומר לי מה אבחנתו. זה קרה לפני שנים רבות בשירותי הצבאי. היינו כמה סמלים צעירים כבני 20 מחיל ההנדסה ושהינו יחדיו בחדר המבצעים. זו הייתה שעת ערב. לא היה הרבה מה לעשות. כדי להפיג את השעמום, התנדב אחד הסמלים (נקרא לו יעקב) לומר לכל אחד מאתנו מה יהיה בעתידו, כלומר מה יהיה מקצועו בחיים. סמל יעקב היה בחור חריף, וזה התנהל בערך כך:
@@ -2243,7 +2444,27 @@ Ezekiel 33:31) )
 
 "אולי... אולי..." יעקב היסס, "אולי אתה יכול להיות סטודנט... לא. גם סטודנט לא מתאים לך. אני מצטער. אתה לא מתאים לכלום, אורי."
 
-השמיים חשכו. גורלי נחרץ. בליבי ידעתי שיעקב עלה על אמת נסתרת. אפילו כאשר אמר "סטודנט", הוא לא ציין באיזה תחום לימודים מדובר. 'כלום' שיקף את המציאות הרבה יותר טוב. מכאן ואילך לא נותר לי אלא להיות כלומניק, או כפי ששמעתי בהזדמנות אחרת: הוזה בכוכבים.`, body_en: null },
+השמיים חשכו. גורלי נחרץ. בליבי ידעתי שיעקב עלה על אמת נסתרת. אפילו כאשר אמר "סטודנט", הוא לא ציין באיזה תחום לימודים מדובר. 'כלום' שיקף את המציאות הרבה יותר טוב. מכאן ואילך לא נותר לי אלא להיות כלומניק, או כפי ששמעתי בהזדמנות אחרת: הוזה בכוכבים.`, body_en: `I diagnose myself as a rather strange bird, since all my life I have not experienced full belonging to any group. This is not only about clinical psychology circles, which in my view constitute a kind of closed, fanatical religious sect of those who know the hidden wisdom and the secret language. I mean every framework I joined or in which I participated. From the dawn of my life, in the various schools, in the army, in the universities and at work, I always felt a certain difference. I looked at those around me as if from a certain distance, with a sense of incomplete belonging. Fortunately I knew how to behave, so as not to betray this thin and hidden feeling of mine. I knew how to put on a face — or in other words: I understood what I had to do to fit in. Most of the time I succeeded. When I succeeded, the feeling of distance dimmed but did not vanish entirely. It made sure to return to me afterwards.
+
+Not necessarily and not always did I succeed in hiding this essence of mine. Between me and myself I always knew that there was someone who saw me as I am. I remember well one such person who diagnosed me precisely and did not hesitate to tell me his diagnosis. It happened many years ago during my army service. We were several young sergeants of about 20 from the Engineering Corps, and we were together in the operations room. It was evening. There was not much to do. To pass the time, one of the sergeants (let's call him Jacob) volunteered to tell each of us what would be his future, that is, what his profession in life would be. Sergeant Jacob was a sharp fellow, and it went roughly like this:
+
+Jacob: "Moshe, you'll be a carpenter because you know how to cut wood." Sergeant Moshe looked very pleased. The diagnosis matched his wish.
+
+Jacob: "Goldstein, you'll be a merchant. You're always dealing with money. But you'll sell pickles in the Mahane Yehuda market, because you're not that clever." Sergeant Goldstein looked pleased with the general direction, but much less so with the diagnosis regarding the market.
+
+Jacob: "Shlomi, you'll be a criminal. You only know how to steal." Sergeant Shlomi looked hesitant. On the one hand, the diagnosis matched his aspirations, but on the other, he felt as if caught in his guilt.
+
+And thus Jacob continued moving from one to the next, until he reached me. For some reason I was last, and I waited impatiently for the diagnostician's verdict. Jacob looked at me carefully and pondered for a long while.
+
+Jacob: "Uri, you'll be... you'll be... no... you don't fit anything."
+
+"What do you mean nothing?!" I cried out, "surely I fit something. Come on, Jacob, bring something."
+
+Jacob resumed looking at me with a very serious expression. It was evident he was making an effort to find something, even small, to deliver me from my distress.
+
+"Maybe... maybe..." Jacob hesitated, "maybe you can be a student... no. Even student doesn't fit you. I'm sorry. You don't fit anything, Uri."
+
+The skies darkened. My fate was sealed. In my heart I knew that Jacob had hit upon a hidden truth. Even when he said "student," he did not specify in what field of studies. "Nothing" reflected reality much better. From then on, all that remained for me was to be a nobody, or as I once heard put another way: a dreamer of stars.` },
   { num: 87, title_he: "המדריך הקליני", title_en: "The Clinical Guide", date: "2026-01-25", source: "single", body_he: `ובכן, כך נכנסתי, עוף שונה למדיי (בעיני עצמו לפחות), בשערי האוניברסיטה העברית בהר הצופים – לבירינט אבן גדול, קר ומנוכר – היישר אל בין זרועותיה הצוננות של המגמה הקלינית בפסיכולוגיה. פרצופים חדשים ובלתי מוכרים של סטודנטים, מרצים ומרצות הסתובבו שם. והנה הם כולם כבר מתרועעים זה עם זה בחיוך ובשמחה משונה, כאילו הם מכירים האחד את השני מאז ומתמיד.
 
 בתחילת התואר השני במגמה הקלינית היה מה שקרוי פרקטיקום שנה א'. חולקנו לקבוצות של 4-5 סטודנטים בכל קבוצה, והוצמדו לנו מדריך או מדריכה לצורך הדרכה על טיפולים שביצענו. גם הקבוצה שלי קיבלה מדריך. אקרא לו "גדי". זה היה מדריכי הראשון.
@@ -2264,7 +2485,27 @@ Ezekiel 33:31) )
 
 "אורי!" הוא הכריז בהדגשה מחמיאה, "אתה מתקדם מהר. אמנם יש לך עוד דרך לפניך, אבל אתה מתקדם ומתפתח מאוד מהר."
 
-בשנה לאחר מכן הייתה לי מדריכה אחרת לגמרי, ולימים היו לי מדריכים שהפכו לחברים. כעבור שנים הפכתי להיות מדריך בעצמי ופסיכולוג ראשי במסגרת שבה עבדתי.`, body_en: null },
+בשנה לאחר מכן הייתה לי מדריכה אחרת לגמרי, ולימים היו לי מדריכים שהפכו לחברים. כעבור שנים הפכתי להיות מדריך בעצמי ופסיכולוג ראשי במסגרת שבה עבדתי.`, body_en: `Well, this is how I entered, a rather different bird (in my own eyes at least), through the gates of the Hebrew University on Mount Scopus — a great, cold, alienating stone labyrinth — straight into the chilly arms of the clinical psychology track. New, unfamiliar faces of students and lecturers moved around there. And there they all were already greeting one another with a smile and strange joy, as though they had known each other from time immemorial.
+
+At the beginning of the master's degree in the clinical track there was what is called the first-year practicum. We were divided into groups of 4–5 students per group, and a supervisor was attached to us to guide us on the therapies we were performing. My group too received a supervisor. Let me call him "Gadi." This was my first supervisor.
+
+I remember how in the group supervision sessions he would praise, laud and extol one of the students, while the rest of us sat silent in the face of these soaring praises. In the personal supervision sessions he made sure to find various personality flaws in me, which I had to hurry and correct. Before long, the supervision became a very unpleasant experience, not to say one that aroused anxiety. How, in the name of all that is holy, could I please that man? Gadi was accustomed to tying any gesture or remark of mine to deep intrapsychic matters. If, for example, I wore worn-out sandals, he would use this to raise some hypothesis regarding an obsessive tendency of mine (or something like that). I wanted to talk with him about my feelings, but I wasn't sure I could trust him. In short, I would come out of his sessions "green" with anxiety (which is a higher grade than "white")...
+
+In my distress I turned to my uncle the writer, the late David Shahar, and told him of my plight. I said to David that, as a future psychologist, I ought to "open up" the issue with Gadi. "After all, we are psychologists," I said to David, "and psychologists speak and converse about their feelings. Is that not so?" Here a surprise awaited me.
+
+"That you know what you feel — that is already good and enough," David said to me, "to Gadi you will give only compliments!"
+
+"Compliments? To Gadi?" I marveled.
+
+"Yes. Compliments. There is no one in the world who is not sensitive to compliments. You will praise him for advancing you, and then you will see how everything changes. Next year you will have a different supervisor."
+
+So I did. I described to Gadi the therapies I was carrying out, and in parallel I made sure to praise him (in delicate doses, of course) for illuminating various issues for me, including those concerning the severe defects in my complicated personality.
+
+At the end of the year we had a summary conversation. To this very day (decades after that year) I remember how Gadi summed up the joint process in the following explicit words:
+
+"Uri!" he declared with flattering emphasis, "you are advancing quickly. There is still a way before you, but you are progressing and developing very quickly."
+
+The following year I had an entirely different supervisor, and in time I had supervisors who became friends. After some years I myself became a supervisor and a chief psychologist within the framework in which I worked.` },
   { num: 88, title_he: "ידע נשגב", title_en: "Sublime Knowledge", date: "2026-01-26", source: "single", body_he: `מי שיקרא את המשפט שכתבתי לעיל: "כת דתית סגורה ופנאטית" עלול לטעון שאני מגזים ביותר. הייתכן? כת? ועוד דתית ופנאטית? הרי בחוגי הפסיכולוגיה הקלינית (זו של Psychoanalytically oriented Psychotherapy) מצווה על המשתתפים להיות "פתוחים" ו"קשובים". כלומר, ראוי להם לסטודנטים לשקול, להבין, לקבל את הלגיטימיות של השוֹנוּת, להאיר פנים לגיוון הגדול של אופני ראיית המציאות, ועוד-ועוד ערכים נעלים שכאלה.
 
 באמת נעלים! זה גם אני אומר. דא-עקא שלא בהכרח כך מרגישים בכירי הענף ותלמידיהם בליבם. כלפי חוץ אלה הסיסמאות המושמעות. בעומק הלב פעמים רבות העמדה היא אי-קבלה. הראש מתנענע באמפתיה לאות הן, העיניים מאירות באור של קבלה, האוזניים זקופות כדי לשמוע כל מילה - ובלב פנימה מסתתרות תחושות הפוכות לחלוטין ולא בהכרח מודעות. אם הן כן מודעות – לא ניתנת למשמעותן תשומת לב מַסְפֶקֶת.
@@ -2275,7 +2516,17 @@ Ezekiel 33:31) )
 
 גם עובדות מדעיות אינן האמת לאמיתה. אלה רק ממצאים של ניסויים מדעיים הממתינים להפרכתם, כפי שכבר לימד אותנו הפילוסוף הדגול Karl Popper. קל וחומר שטענות שונות בענייני consciousnessלפי Freud, או archetypes לפי Jung, או אף Object relations theory בנוסח Winnicott, אינן האמת המוחלטת. המאמין בכך הנו דתי במהותו.
 
-אכן פגשתי לא מעט אנשי מקצוע דתיים במהותם, לעיתים פנאטים. הם לא יודו בכך, אבל יחדיו הם מהווים כת. הדבר בא לביטוי בעוצמת האמונה ובתחושת ההשתייכות. חברי הכת חשים ש"זר לא יבין זאת", שהם קהילה של מביני דבר, ושהם שולטים בידע מסוים הנותן בידיהם כוח. התופעה מזכירה לי את ה- Gnosticismשל הַכָּתות המיסטיות במאות הראשונות לספירה. הכתות הללו האמינו שיש להן Gnosis, שמשמעו having knowledge (מיוונית עתיקה) והכוונה לידע ספיריטואלי מיוחד. בבוא כופר כלשהו בקרב הכת, יתבוננו בו המאמינים ויקרצו זה לזה במסתרים. אמירותיו יפורשו כ- defense mechanisms ואישיותו תיסרק במסרקות של ברזל. אין לו סיכוי שטענותיו תישמענה לגופו של עניין.`, body_en: null },
+אכן פגשתי לא מעט אנשי מקצוע דתיים במהותם, לעיתים פנאטים. הם לא יודו בכך, אבל יחדיו הם מהווים כת. הדבר בא לביטוי בעוצמת האמונה ובתחושת ההשתייכות. חברי הכת חשים ש"זר לא יבין זאת", שהם קהילה של מביני דבר, ושהם שולטים בידע מסוים הנותן בידיהם כוח. התופעה מזכירה לי את ה- Gnosticismשל הַכָּתות המיסטיות במאות הראשונות לספירה. הכתות הללו האמינו שיש להן Gnosis, שמשמעו having knowledge (מיוונית עתיקה) והכוונה לידע ספיריטואלי מיוחד. בבוא כופר כלשהו בקרב הכת, יתבוננו בו המאמינים ויקרצו זה לזה במסתרים. אמירותיו יפורשו כ- defense mechanisms ואישיותו תיסרק במסרקות של ברזל. אין לו סיכוי שטענותיו תישמענה לגופו של עניין.`, body_en: `Whoever reads the sentence I wrote above — "a closed, fanatical religious sect" — might claim that I am greatly exaggerating. Could it be? A sect? And a religious and fanatical one at that? After all, in clinical psychology circles (those of psychoanalytically oriented psychotherapy), the participants are commanded to be "open" and "attentive." That is, the students are expected to weigh, to understand, to accept the legitimacy of difference, to look favorably on the great variety of ways of seeing reality, and other such elevated values.
+
+Elevated indeed! That is what I say too. The trouble is that this is not necessarily what the leading figures of the field and their disciples feel in their hearts. On the outside, these are the slogans being sounded. Deep in the heart, often the position is one of non-acceptance. The head nods in empathy as a sign of "yes," the eyes shine with a light of acceptance, the ears are pricked up to hear every word — and inside the heart hide feelings entirely opposite, and not necessarily conscious. If they are conscious — not sufficient attention is given to their meaning.
+
+Let us begin with what is called Depth Psychology. This is an umbrella name for all the approaches that deal with the connection between the unconscious and the conscious. Sigmund Freud belongs to the field, of course; so does Carl Jung, and many other good ones. Personally, I see great value in these theories. My heart is much drawn to the deep ideas, and in my view they have great importance in understanding the human soul. Yet I am fundamentally a skeptic, as I have already testified of myself, and I never believed that we were dealing with an absolute truth, parallel to the Torah of Moses delivered by God Himself at Mount Sinai. In the course of my studies and my work I have met many times with people for whom this is their belief — and this belief burns in their hearts and scorches the various heretics.
+
+It must be noted — the theories of Depth Psychology, as deep and drawing of the heart as they may be, are not science. They have not been proven scientifically. This does not diminish their importance, but one must not confuse them with scientific facts. If they were findings of scientific experiments carried out according to all the rules and methods of research, one could perhaps more easily abide the fervent faith.
+
+Even scientific facts are not the truth pure and simple. They are merely findings of scientific experiments awaiting their refutation, as the great philosopher Karl Popper already taught us. All the more so are various claims about consciousness according to Freud, or archetypes according to Jung, or even Object Relations Theory in the manner of Winnicott — not the absolute truth. Whoever believes that they are is religious in essence.
+
+I have indeed encountered not a few professionals who are religious in essence, sometimes fanatical. They will not admit it, but together they constitute a sect. This is expressed in the strength of the faith and in the sense of belonging. The members of the sect feel that "a stranger will not understand it," that they are a community of those who know, and that they command a certain knowledge that gives them power. The phenomenon reminds me of the Gnosticism of the mystical sects in the first centuries of the Common Era. These sects believed they had Gnosis, which means "having knowledge" (from ancient Greek), and the intention was a special spiritual knowledge. When some heretic comes within the sect, the believers will look at him and wink at one another in secret. His statements will be interpreted as defense mechanisms and his personality will be combed with iron combs. He has no chance for his claims to be heard on their merits.` },
   { num: 89, title_he: "הערפל", title_en: "The Fog", date: "2026-01-27", source: "single", body_he: `כּת דתית פנאטית מתאפיינת פעמים רבות בשפת סתרים. גם לכת הדתית של הפסיכולוגים יש שפה כזו מִשֶׁלָּה, ואפשר לומר גם "שפוֹת". החל מימי ה- Id וה- Ego, דרך תקופת ה-Selfobject, עבור בזמן ה- Counter-transference, ה- Projective-Identification וה- Separation-Individuation , וכלה בעת ה- Rererie המופלא של Bion. כמובן, יש עוד מושגים רבים מספור, והנ"ל אינם אלא דוגמאות בלבד.
 
 כל מושג מבטא את רעיונותיו והלך רוחו של התאורטיקן אשר הגה אותו. מונחים שונים הופכים למשותפים, וכך מתהווה לה שפת הסתרים. רעיונות מסוימים, המיוצגים על ידי מושגים אלה, הינם רעיונות עמוקים ומעניינים ביותר, אבל מאחר שמקורם הינו בחוויות הסובייקטיביות של יוצריהם (וחוויות אלה לא ניתנות לתצפית ישירה, כזכור) נותרת מידה של ערפל לגבי מובנם והגדרתם. חסידי הכת הדתית מתכחשים פעמים רבות לעצם קיומו של הערפל הזה, ודנים ומשתמשים במונחים האלה, בכובד ראש וברצינות תהומית, כאילו משמעותם מובנת ונהירה להם לחלוטין.
@@ -2284,7 +2535,15 @@ Ezekiel 33:31) )
 
 מה שחשוב לי בעניין הוא להצביע על נכונותם של אחיי ואחיותיי למקצוע להתעלם מן הערפל המובנה שקיים בתוך המושגים האלה של שפת הסתרים ולעשות את עצמם כאילו משמעותם מובנת ומוגדרת לגמרי. זכורים לי מפגשים אינספור שבהם ישבנו בקבוצות, כסטודנטים או מתמחים, קראנו מאמר כלשהו, ופירשנו. קראנו משפט אחד (או אף אף מילה אחת) ופירשנו תלי תילים של סברות ופרשנויות, כל אחד ואחת לפי מיטב הבנתו, זיכרונותיו וחוויותיו האישיות. מעלינו ניצב (או ניצבה) כוהן הדת הראשי, הרי הוא המדריך הקליני המומחה לשפת הסתרים, והוא טרח להוביל את הפרשנויות השונות אל האפיק הנכון לטעמו, פעמים שהוא מבהיר דבר-מה ופעמים שהוא מערפל עוד יותר את המשמעות. כולנו נשאנו אליו את עינינו וניסינו (בדברים שהשמענו) למצוא חן בעיני האחרים ובעיקר בעיניו. לרוב הוא קיבל בהבנה ובשמחה משונה את הנאמר על ידי כל אחד מאיתנו (שהרי לפי חוקֵי הפתיחות וההכלה שומה עליו לקבל ולהתחבר) אבל המשמעות של הכתוב במאמר נותרה חמקמקה ונעלמה. לא זכור לי שמי מאיתנו קם ואמר בסוף פגישה שכזו את המשפט הבא: "אני לא מבין כלום". הרי בכך היה משתתף כזה מעיד על מוגבלות שכלו ושטחיות הבנתו הרגשית. פעולה כזו הייתה מסכנת את מעמדו ותדמיתו בעיני חברי וחברות הקבוצה, ובעיקר בעיני כוהן הדת הראשי, זה שכביכול כל המושגים שהומצאו על ידי Bion נהירים לו ביותר.
 
-וכך המשכנו להשתתף בתיאטרון המוזר למדי הזה, משל היינו חבורת תלמידי חכמים המפרשים את התלמוד ודנים בכל קוצו של יוד. הערפל והעמימות המשיכו כמובן ללוות אותנו...עד שהפכנו לכוהני דת בעצמנו.`, body_en: null },
+וכך המשכנו להשתתף בתיאטרון המוזר למדי הזה, משל היינו חבורת תלמידי חכמים המפרשים את התלמוד ודנים בכל קוצו של יוד. הערפל והעמימות המשיכו כמובן ללוות אותנו...עד שהפכנו לכוהני דת בעצמנו.`, body_en: `A fanatical religious sect is often characterized by a secret language. The religious sect of the psychologists too has such a language of its own — and one may even say "languages." From the days of the Id and the Ego, through the era of the Selfobject, by way of the time of Counter-transference, Projective Identification and Separation-Individuation, all the way to the time of Bion's wondrous Reverie. Of course, there are many other countless concepts, and the above are merely examples.
+
+Every concept expresses the ideas and the temper of the theoretician who coined it. Various terms become shared, and thus a secret language forms. Certain ideas represented by these concepts are deep and most interesting ideas, but since their source is in the subjective experiences of their creators (and these experiences, as we recall, cannot be directly observed), a measure of fog remains regarding their meaning and definition. The devotees of the religious sect often deny the very existence of this fog, and discuss and use these terms with grave seriousness, as though their meaning were entirely clear and obvious to them.
+
+Moreover, the writing itself (of the books and articles) is often obscure. Sometimes, when I read the various articles, I asked myself whether their writers wrote them in so obscure a manner on purpose. Did Bion, for example, mentioned above, try to complicate things deliberately? By the way, the writings of our father Freud I actually enjoyed reading. In my view, Freud was not only a doctor and psychoanalyst, but also a writer. Of course, there will be those who disagree with my view, and that testifies to the fact that each of us has his own experience with the writings of the various thinkers, and we are not dealing here with any "truth." I can express only my own feeling.
+
+What is important to me in this matter is to point out the willingness of my brothers and sisters in the profession to ignore the structural fog that exists within these concepts of the secret language and to act as though their meaning were entirely understood and defined. I remember countless meetings in which we sat in groups, as students or trainees, read some article, and interpreted it. We read one sentence (or even a single word) and interpreted mountains upon mountains of conjectures and interpretations, each of us according to the best of his understanding, memories and personal experiences. Above us stood (or sat) the high priest, that is the clinical supervisor and expert in the secret language, and he made sure to lead the various interpretations toward the channel that suited his taste, sometimes clarifying something and sometimes obscuring the meaning further. We all lifted our eyes to him and tried (in the things we said) to find favor in the eyes of the others and especially in his eyes. He usually received with strange understanding and joy what was said by each of us (for according to the laws of openness and inclusion he had to receive and connect) but the meaning of what was written in the article remained elusive and concealed. I do not remember anyone among us rising and saying at the end of such a meeting the following sentence: "I don't understand a thing." After all, by doing so such a participant would have testified to the limits of his intellect and the shallowness of his emotional understanding. Such an act would have endangered his standing and his image in the eyes of the group members, and especially in the eyes of the high priest — the one to whom, supposedly, all the concepts invented by Bion are perfectly clear.
+
+And so we continued to participate in this rather strange theater, as though we were a company of Talmud scholars interpreting the Talmud and disputing over every tittle of every letter. The fog and the murkiness of course continued to accompany us... until we became priests of the religion ourselves.` },
   { num: 90, title_he: "הזיה", title_en: "Reverie", date: "2026-01-29", source: "single", body_he: `במאמר הקודם ייחסתי למושג ה- Reverie של Bion את התואר "מופלא". מדוע?
 
 התשובה הפשוטה היא: כי הוא אכן כזה. ה- Reverie מתייחס למצב שבו המטפל אינו עסוק בזיכרונותיו או בשאיפותיו (.(no memory, no desire המטפל אינו יודע ואינו חותר לידיעה. הוא נמצא במצב נינוח ופתוח כלפי כל מה שיגיע מן המטופל. זהו מצב שבו המטפל נמצא, או שוהה, עם המטופל ועם עצמו, ומרשה לעצמו להיות שם ללא מאמץ למצוא הסברים. אלומת קרני האור שהמטפל מייחל לה מוחלפת על ידי אלומת חושך (A beam of darkness) . מתוך החושך עולה ניצוץ של אור, כלומר הבנה מסוימת. ההבנה הזו היא עמוקה ומשמעותית, בבחינת "מעט מן האור מגרש הרבה מן החושך".
@@ -2295,7 +2554,17 @@ Ezekiel 33:31) )
 
 אבל – יש להדגיש – העמדה הזו אינה מופיעה בלחיצת כפתור. הייתי אף מעז לומר שיש בינינו אנשים בעלי נטייה להיות במצבים כאלה, ולעומתם יש אחרים המתאמצים לשהות בעמדה הזו, ואין הדבר עולה בידם. ראיתי כבר עובדות סוציאליות-קליניות, שהיו מוכנות להישבע במזוזה ובנקיטת חפץ שהן היו שרויות זה עתה במצב של Reverie, ואולם אני ראיתי לנגד עיניי את טיפות הזיעה הקטנות המרצדות על מצחן הלבן מרוב מאמץ של חיפוש אחרי "הסברים". מבעד לכיווץ העיניים והפניית הראש אל-על, ראיתי כיצד מוחה של העובדת קודח בניסיון למצוא משהו חכם לומר. אחר-כך היא אמרה לתדהמתי: "הייתי במצב של Reverie ופתאום חשבתי על...". עוד יותר נדהמתי לראות את המדריך הקליני מקדם בברכה ובמילות שבח את יכולתה המופלאה של העובדת להיכנס ל- Reverie.
 
-וכי הדבר פשוט כל-כך ומובן מאליו? הרי אנחנו משתדלים כל חיינו להבין ולמצוא משמעויות. בדרך-כלל, אנחנו לא סובלים עמימות. אנחנו זקוקים לאיזה הסבר כדי לחוש על קרקע מוצקה, ועל-מנת להמשיך ולהחזיק בתפיסה העצמית שלנו כיצורים רציונליים. יתר על כן – כמטפלים בטיפול נפשי, אנחנו חותרים להבנה של המטופל שלנו. הוא הרי מגיע אלינו כדי לשמוע מה בפינו, ועל מנת שנאיר לו את עולמו המיוסר והמסובך. היעלה על הדעת שנציע לו את עצמנו כ"מהרהרים" ונתונים בחשכה בעצמנו? האם עבור זה הוא משלם לנו ממיטב כספו? אשר על כן, התפלאתי לצפות באלה מאחיי ומאחיותיי, אשר נכנסו בקלות למצב של Reverie ויצאו ממנו כלאחר-יד, משל היה מדובר בכיבוי פשוט של האור בחדר ובהדלקתו מחדש.`, body_en: null },
+וכי הדבר פשוט כל-כך ומובן מאליו? הרי אנחנו משתדלים כל חיינו להבין ולמצוא משמעויות. בדרך-כלל, אנחנו לא סובלים עמימות. אנחנו זקוקים לאיזה הסבר כדי לחוש על קרקע מוצקה, ועל-מנת להמשיך ולהחזיק בתפיסה העצמית שלנו כיצורים רציונליים. יתר על כן – כמטפלים בטיפול נפשי, אנחנו חותרים להבנה של המטופל שלנו. הוא הרי מגיע אלינו כדי לשמוע מה בפינו, ועל מנת שנאיר לו את עולמו המיוסר והמסובך. היעלה על הדעת שנציע לו את עצמנו כ"מהרהרים" ונתונים בחשכה בעצמנו? האם עבור זה הוא משלם לנו ממיטב כספו? אשר על כן, התפלאתי לצפות באלה מאחיי ומאחיותיי, אשר נכנסו בקלות למצב של Reverie ויצאו ממנו כלאחר-יד, משל היה מדובר בכיבוי פשוט של האור בחדר ובהדלקתו מחדש.`, body_en: `In the previous essay I attributed to Bion's concept of Reverie the title "wondrous." Why?
+
+The simple answer is: because it indeed is. Reverie refers to a state in which the therapist is not occupied with his memories or his aspirations (no memory, no desire). The therapist does not know and does not strive toward knowing. He is in a relaxed and open state toward whatever comes from the patient. This is a state in which the therapist is present, or dwells, with the patient and with himself, and allows himself to be there without effort to find explanations. The beam of light the therapist hopes for is replaced by a beam of darkness. Out of the darkness rises a spark of light — that is, a certain understanding. This understanding is deep and meaningful, in the spirit of "a little of the light banishes much of the darkness."
+
+In the original, the term Reverie referred to what is called a daydream. The therapist who dwells in this state loses himself in the stream of his musings. He is in a state in which he can take in the patient's messages without a preconceived opinion or theory demanding a particular understanding.
+
+These are exactly the reasons why this concept appeals to me so much. Knowing is replaced by not-knowing, and this matches my skepticism. Instead of a sweaty, sometimes obsessive, effort to understand, to formulate and to define, there is the ease of (temporary) not-understanding. The therapist does not force himself to "understand," and afterwards he does not force himself to believe his own explanations, intelligent as they may be. The spark of light that arises in him, the understanding that filters through the beam of darkness, is an understanding connected to inner feeling. It is not only the clever product of intellectual analysis. I think this is a good recommendation for life in general. It is worth observing in an easy manner and not rushing to force upon ourselves some "understanding."
+
+But — it must be emphasized — this stance does not appear at the push of a button. I would even dare to say that there are among us people with a tendency to be in such states, and against them there are others who try to dwell in this stance and do not succeed. I have already seen clinical social workers who were ready to swear on the mezuzah and by holding a sacred object that they had just been in a state of Reverie, yet I saw before my eyes the small drops of sweat trembling on their white foreheads from the great effort of searching for "explanations." Through the squinting of the eyes and the turning of the head upward, I saw how the worker's brain was boiling in an attempt to find something clever to say. Afterwards she said to my astonishment: "I was in a state of Reverie and suddenly I thought of...". Even more astonished was I to see the clinical supervisor welcoming with words of praise the worker's wondrous ability to enter Reverie.
+
+Is the thing really so simple and obvious? After all, we strive all our lives to understand and to find meaning. We usually do not tolerate murkiness. We need some explanation in order to feel on solid ground, and in order to continue to hold our self-perception as rational creatures. Moreover — as caregivers in psychotherapy, we strive to understand our patient. He, after all, comes to us in order to hear what we have in our mouths, in order that we should illuminate for him his tormented and complicated world. Is it conceivable that we should offer ourselves to him as "musers" and as if we ourselves were sunk in darkness? Is this what he is paying us his hard-earned money for? Therefore, I was amazed to see those of my brothers and sisters who slipped easily into a state of Reverie and exited from it offhand, as if it were simply a matter of turning off the light in the room and turning it back on.` },
   { num: 91, title_he: "פוירשטיין", title_en: "Feuerstein", date: "2026-02-02", source: "single", body_he: `מצב שבו המטפל נתון ב-Reverie, כלומר שקוע בהרהורים, נתון בחשכה וממתין בנינוחות לאור שיפציע, אינו מתאים כמובן לכל מטופל. נדרשת לכך היכרות עם הגישה הפסיכודינמית ואמון בה (גם מצד המטפל...)
 
 ובכלל, כעיקרון, לא כל שיטה מתאימה לכל אחד. השאלה היא כמובן מיהו המטופל ומה יכול להועיל לו. לפעמים, דווקא טיפול של "מטפל יודע-כל" (לכאורה) עשוי לסייע למטופל מסוים. בהקשר הזה, אני רוצה לספר על אודות אירוע טיפולי שנכחתי בו. המטפל היה לא אחר אלאProf Reuven Feuerstein , אשר אצלו עבדתי בתחילת דרכי כפסיכולוג.
