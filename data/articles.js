@@ -2855,7 +2855,47 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 "אימאל'ה," היא אומרת, "אני רוצה לדבר איתה, שתבוא אליי."
 
-ואני נזכר בּו-ברגע בפתק ישן שמצאתי לאחרונה. הפתק נכתב כנראה בימים שבהם האלצהיימר כבר זקף את ראשו המכוער. בכתב ידהּ היפהפה, העגול והמנוקד, כתבה שם עירית דברים הקשורים לערב פסח. בין היתר קראתי שם את המילים: "אִמָא - מחכּה בָּחֲלומות ..."`, body_en: null },
+ואני נזכר בּו-ברגע בפתק ישן שמצאתי לאחרונה. הפתק נכתב כנראה בימים שבהם האלצהיימר כבר זקף את ראשו המכוער. בכתב ידהּ היפהפה, העגול והמנוקד, כתבה שם עירית דברים הקשורים לערב פסח. בין היתר קראתי שם את המילים: "אִמָא - מחכּה בָּחֲלומות ..."`, body_en: `Suddenly she spoke to me coherently. She lay beside me, in the big double bed, her face to mine, her greenish, beautiful eyes gazing deep into my eyes, and her palm caressing my cheek without rest.
+
+"Oh mother..." she sighed, "oh mother... oh mother... where is my mother? You know, Uri? I keep trying to reach her, and I can't. I want to meet her."
+
+What shall I answer her? — I don't know.
+
+I remember. Still at the start of the via dolorosa of Alzheimer's, before we realized that something was wrong, Irit was still understanding and sharp. We met then with a family doctor. The doctor — a young Arab woman whom I shall call here Bathel — was a rather closed woman, but with Irit she opened up. One day Irit told me that Bathel had shared with her that she had been married for a long time, but still had no children.
+
+"And what did you tell her?" I asked.
+
+"I told her that I speak with my mother many times, and that I would ask her to pray for her."
+
+For a moment a silence fell over me. After all, Irit knows that her mother has passed away.
+
+"And what did Bathel tell you?" I asked.
+
+"She was silent. I asked Bathel for her mother's name, and she wrote it down for me on a slip of paper."
+
+Irit pulled out of her bag a small, worn slip of paper, on which was written "Bathel daughter of...".
+
+"A sign that Bathel believes in this," I said.
+
+"Of course. I promised her I would speak with my mother on her behalf."
+
+In time, the doctor went on a long training program in the United States, and perhaps also for treatments to get pregnant. She gave Irit her email address, and the two promised to keep in touch and update each other. Meanwhile, the Alzheimer's deepened its grip, and Irit lost the address. I suppose Irit did indeed speak with her mother as promised, but I have no idea whether Bathel gave birth to a child.
+
+"Oh mother," Irit sighs. Held-back weeping is in her voice.
+
+"Your mother is perfectly fine," I try to encourage, "she is happy. She is watching you, and she is very glad."
+
+I stroke Irit's hair and her gentle neck. She strokes my chin.
+
+"That's pretty," she says, meaning my chin, "what is this? How is it so pretty?"
+
+"That's my chin."
+
+"Chin," she repeats after me. I assume the word sounds strange to her, and indeed there is something a little strange in it.
+
+"Mama," she says, "I want to talk to her, that she should come to me."
+
+And at that very moment, I remember an old slip of paper I found recently. The slip was apparently written in the days when Alzheimer's had already raised its ugly head. In her beautiful, round, vowel-pointed handwriting, Irit had written there things connected to Passover Eve. Among them I read the words: "Mother — waiting in dreams..."` },
   { num: 102, title_he: "על שפת התהום", title_en: "On the Edge of an Abyss", date: "2026-04-23", source: "single", body_he: `"אני מציע שתישני קצת," אני אומר לה בשקט.
 
 "כן, בטח, נשמה שלי, אוריל'ה שלי."
@@ -2902,7 +2942,53 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 היא לא עונה לי. החדר מתמלא בריח של צואה. אני לא שומע שעירית מורידה את המים, אבל למצער רואה אותה יוצאת משם כשהיא לבושה. אני חושש שמא היא תחזור למיטה ותלטף אותי בידיים לא נקיות. בראשי חולפת שאלה מטרידה:
 
-"מה עולה בגורלה של אהבה בנוכחות ריחות ותופעות כאלה?" U. W. Leo`, body_en: null },
+"מה עולה בגורלה של אהבה בנוכחות ריחות ותופעות כאלה?" U. W. Leo`, body_en: `"I suggest you sleep a little," I say to her quietly.
+
+"Yes, of course, my soul, my Uri."
+
+She is close to me. Breathing me, and I breathe her. I am calm, longing to fall asleep.
+
+"I love you very much," she says.
+
+"And I you, very much, my dear Irit, but now we have to rest. You need to talk less."
+
+"Yes, my Uri..." and she keeps talking to me. I have no idea what she is talking about. She tells me about children, about someone who wants something, about blue, about what came in, about noise and birds. My eyes close, and suddenly she asks.
+
+"Right, Uri?"
+
+I keep silent. Maybe if I don't answer, she'll stop.
+
+"Is it right, Uri? Speak to me. I can't hear you. Speak."
+
+"Of course. It's very right," I mumble with difficulty, "but now we have to sleep, Irit. Not talk."
+
+And she continues, and speaks, continues and asks endlessly. Suddenly, as if through a curtain of cloud, I hear:
+
+"I need to do my wee."
+
+"Yes. Of course," I stir, "here, there." I point to the nearby bathroom door.
+
+Irit looks around. She doesn't understand what I'm talking about. I point again and again.
+
+"There. Irit. There," I point, "you need to do your wee in the bathroom. There."
+
+Finally she gets up and walks around the room. I am exhausted. I have no strength to rise. If I had, I would take her in the right direction. Irit keeps walking around, and it seems as if the whole matter of the wee has slipped entirely from her mind.
+
+"Irit, my sweet, look at me," I say, "you need to go to the bathroom. Here. There. There..."
+
+"Where?" she asks.
+
+"There," I say and point, "that's where you do your wee. Do you see?" I am now fully awake.
+
+Finally she enters. Leaves the door half open. I hear her sit down and fuss for a long time with the paper.
+
+Maybe I should have gone in with her — I think to myself — otherwise she might soil herself, and then what shall I do?
+
+"Irit, wipe your bottom please," I call out worriedly.
+
+She does not answer me. The room fills with the smell of feces. I do not hear her flush, but I do at least see her coming out, dressed. I am afraid she might come back to bed and stroke me with unclean hands. A troubling question passes through my head:
+
+"What becomes of love in the presence of such smells and phenomena?"` },
   { num: 103, title_he: "מה אומרות עינייך?", title_en: "What Do Your Eyes Say?", date: "2026-04-23", source: "single", body_he: `"שְׁנֵי אוֹרוֹת בַּלַּיִל, בַּלַּיִל, בַּלַּיִל
 
 לִי רוֹמְזִים, רוֹמְזִים פִּתְאוֹם
@@ -2935,7 +3021,35 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 לִבְסוֹף, היא נעתרת וקמה ממקומה. מארילו מוליכה אותה אל המדרגות המובילות אל המקלחת שבקומה השנייה. אני מלווה את שתיהן ליתר ביטחון, ואף מדגים לעירית את הצעדים שעליה לעשות. "הנה. צעד ועוד צעד," אני מראה. רגע לפני שעירית עולה, היא מתבוננת בי שוב בבקשה אילמת.
 
-מה אומרות עינייך, עירית שלי, מה הן אומרות בלי לומר עד תּוֹם?`, body_en: null },
+מה אומרות עינייך, עירית שלי, מה הן אומרות בלי לומר עד תּוֹם?`, body_en: `"Two lights in the night, in the night, in the night,
+Wink to me, suddenly winking;
+What do your eyes say, your eyes, your eyes,
+Without speaking, to the end, to the end."
+(Yitzhak Shenhar)
+
+I gaze into her eyes, and in my heart a troubling thought arises. I do not know what is behind them. Is there an opaque screen? Am I looking into a void, into something blocked?
+
+Her eyes are greenish-beautiful as ever, but what are they covering? What is behind them? Are alienation and estrangement growing stronger toward the world and even toward me? What does she see when she looks at me?
+
+She speaks to me. She speaks without rest, and also reads aloud without pause from some book called "Tzaviki's Brainpower." The same sentences are read again and again and again. I think to myself: she does not remember the words immediately after they are uttered. They fly out of her consciousness, and each time they are experienced as if being read for the first time. And further I muse: she is fighting! She is fighting for her sanity, for her humanity. The reading aloud holds her in her experience on the edge of the abyss. She struggles not to fall.
+
+Her fight is doomed to failure, but she apparently does not know this — and good that it is so. Otherwise she would sink into a hopeless depression. Even so, she is sad sometimes, because somewhere in her dimming consciousness there is an understanding that she is not okay, that she has changed greatly, that she has already been defeated.
+
+My hand is short to save her. All I can do is give her a good feeling here and now. The fact that a moment later she does not remember a thing does not matter. The important thing is the present moment. And this is apparently true of life in general, for all of us.
+
+"Now get up, Irit. Time to shower," the caregiver Marilou announces.
+
+But Irit stays seated, as if she does not hear Marilou, and stubbornly continues to read the same sentences from the book.
+
+"Come on, come on, Irit, time to shower. Come. Come." Marilou takes her arm and tries to draw her gently. Irit keeps sitting. Continues reading again and again. She ignores the voice she hears. I know that now she is fighting for her independence. Why on earth should some woman unknown to her tell her what to do?
+
+"Come, our sweet. Come my beauty," I try to help the caregiver, "you'll go shower, and I'll be right after you, and we'll all be clean and smell good." I stroke her cheeks, lean toward her and embrace her.
+
+Irit turns to me and looks at me. Her eyes dive into my soul. She wants to say something, but doesn't know what. Maybe she is saying to me: save me, Uri, help me. Are you for me or against me? Help me, please.
+
+Finally, she yields and rises. Marilou leads her toward the stairs to the shower on the second floor. I escort the two of them for added safety, and even demonstrate to Irit the steps she must take. "Here. Step and another step," I show. Just before Irit goes up, she looks at me again with a silent plea.
+
+What do your eyes say, my Irit, what do they say without speaking, to the end?` },
   { num: 104, title_he: "ליטופים ומילים", title_en: "Caresses and Words", date: "2026-04-26", source: "single", body_he: `הרגעים המלבבים, האינטימיים והמענגים ביותר הם אלה שבהם עירית מלטפת אותי, בעודנו שוכבים יחדיו במיטתנו הזוגית הגדולה. היא חוזרת ומלטפת את פניי, את ידי, את כתפי, חזור ולטף שוב-ושוב ללא הרף, בדיוק כפי שהיא חוזרת על המשפטים שהיא מקריאה.
 
 כפסיכולוג אני מפרש לעצמי כל מיני פירושים פסיכולוגיים, כמו "היא רוצה לחוש את האובייקט, ועל ידי כך היא חשה את עצמה", ועוד פירושים כאלה, אבל אני מהרהר בכך רק אחרי-כן. בזמן שהיא מלטפת – אני מתמסר לתחושת העונג ורוצה שהיא תימשך לעד.
@@ -2974,7 +3088,45 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 סוף-סוף עולה הדבר בידי. הצלחתי להניח על עירית טיטול חדש. אבל אז אני מגלה שממש קשה לי להתרומם בחזרה, אני צריך להתאמץ מאוד...מאוד...ופתאום חולפת בי מחשבה מחרידה.
 
-מה יהיה אם חס וחלילה יקרה לִי משהו. אחרי אירוּעי הלב שעברתי, זה יכול לקרות. אנחנו לבד כאן בבית הגדול, ואיש לא יודע. מה יהיה על עירית? היא תסתובב בחדרים הריקים והשוממים ולא תדע את נפשה. מה היא תעשה? מה יהיה איתה?!`, body_en: null },
+מה יהיה אם חס וחלילה יקרה לִי משהו. אחרי אירוּעי הלב שעברתי, זה יכול לקרות. אנחנו לבד כאן בבית הגדול, ואיש לא יודע. מה יהיה על עירית? היא תסתובב בחדרים הריקים והשוממים ולא תדע את נפשה. מה היא תעשה? מה יהיה איתה?!`, body_en: `The most charming, intimate, and delightful moments are those when Irit strokes me, while we lie together in our large double bed. She strokes and strokes again — my face, my hand, my shoulder — stroking again and again without rest, exactly as she repeats the sentences she reads aloud.
+
+As a psychologist I read into it all kinds of psychological interpretations — like "she wants to feel the object, and through this she feels herself" — and other such interpretations, but I muse on this only afterwards. While she is stroking — I give myself over to the feeling of pleasure and want it to continue forever.
+
+Marilou is not at home. She has gone away for the weekend. It is evening now. Irit and I are close to each other — closeness of soul and body. Just the two of us are tucked into our shell, alone in the great world.
+
+"He finished walking?" she asks, "they're arranging-arranging in the corner of the over-there, to receive with the children," she points.
+
+"Of course," I answer, "everything is really, really fine. Everything is perfectly fine."
+
+"What's arranged?"
+
+"Everything. You have nothing to worry about."
+
+"We need to fixigate them." She looks at me with eyes wide open, in a way meant to spur me to action.
+
+"We'll do it," I declare firmly.
+
+"Do what?" she doesn't understand.
+
+"What you said," I clarify, "we'll do everything that's needed."
+
+"Needed?"
+
+"Yes. We'll do everything that's needed together. You and me together."
+
+"Yes..." she calms a bit, "yes... in the bunarigah."
+
+"In what?" I'm not sure if she's garbling or my hearing is poor, "did you say bunarigah?"
+
+"Yes," she confirms, "oh mother." Her face contorts with inner weeping. I hurry to embrace and stroke, and she calms.
+
+"I need to do my wee," she gestures with her hand a motion from stomach downwards.
+
+This is the chance to change her diaper — I think. I had agreed with Marilou that I would do this twice — before bedtime and during the morning. I immediately turn thought into action and accompany her to the bathroom. She cooperates partially. Sits on the seat, but does not lower the diaper soaked in urine. I help her lower it, and to remove it completely from her feet, I must crouch to the floor in a sitting position. The action is hard for me, because Irit does not know what she should do. I must make an effort to lift one foot a little, and then the other.
+
+Finally I succeed. I have managed to put a new diaper on Irit. But then I discover that it is really hard for me to get up again; I have to strain very, very hard... and suddenly a terrifying thought passes through me.
+
+What will happen if, God forbid, something happens to me? After the heart events I have had, this can happen. We are alone here in the big house, and nobody knows. What will become of Irit? She will wander through the empty, desolate rooms and not know what to do with herself. What will she do? What will become of her?!` },
   { num: 105, title_he: "רכות הנפש", title_en: "Tenderness of Soul", date: "2026-04-28", source: "single", body_he: `מיד אחרי ההצלחה של החלפת הטיטול, עירית נעמדת, ומפנה אליי את שפתיה לנשיקה. היא מתרפקת עליי ואומרת לי "תודה אוריל'ה שלי, תודה נשמה שלי." מתברר שהיא מכירה לי תודה על החלפת הטיטול, אף על פי שבמהלך הפעולה היא התנהגה כאילו אין היא מבינה כלל מדוע נעשים הדברים. אני כמובן מחזיר לה אהבה, ושוכח בּוֹ-ברגע את כל התּלאות הקודמות.
 
 וזה מעניין. היא יודעת להכיר תודה, ואף מרבה באמירת תודה, גם במצבים שבהם זו אינה התגובה ה"מדויקת". לאחר שמארילו משכּיבה אותה לישון, אני מקפיד לבוא אליה, לעסוֹת מעט את כּפוֹת רגליה, ולהגיד לה שאנחנו שומרים עליה. "לילה טוב," אני אומר לה. "תודה רבה," היא עונה. היא לא עונה לי ב"לילה טוב", אלא ב"תודה, נשמה שלי". כל-כך הרבה רכות ועדינות נובעות ממנה בכל אמירת תודה שכזו. אמנם ידעתי על הצד הזה באישיותה גם במהלך חייה ה"בריאים", אבל לא ידעתי עד כמה צד זה חזק ומשמעותי.
@@ -2999,7 +3151,31 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 "מה?"
 
-"היא אמרה לי שאני נפלאה, וכל מה שאני רוצה בחיים יתממש!"`, body_en: null },
+"היא אמרה לי שאני נפלאה, וכל מה שאני רוצה בחיים יתממש!"`, body_en: `Right after the successful diaper change, Irit stands up and turns her lips to me for a kiss. She clings to me and says, "Thank you my Uri, thank you my soul." It turns out she is thanking me for the diaper change, even though during the act she behaved as if she did not understand at all why the things were being done. I of course return the love, and at that very moment forget all the previous troubles.
+
+And this is interesting. She knows how to express gratitude, and even says "thank you" frequently — even in situations where it is not the "precise" response. After Marilou puts her to bed, I make sure to come to her, massage her feet a little, and tell her that we are watching over her. "Good night," I say to her. "Thank you very much," she answers. She does not answer with "good night," but with "thank you, my soul." So much softness and gentleness flow from her in every such thank-you. I knew of this side of her personality even during her "healthy" days, but I did not know how strong and significant this side was.
+
+Toward Marilou too there is gratitude in her. Sometimes Irit fights her in the shower and screams. These are hard battles. The sudden shrieks frighten me. She does not want to cooperate, and for this purpose she musters all her dwindling powers. But immediately after, she may say to Marilou "thank you very much," and even turn to me and tell me that "she is a very good girl." And I see that Marilou is pleased. Very pleased.
+
+And in general — her heart hums with love toward people, and especially toward children.
+
+We walk in the Harel mall, and she stops to gaze at the children passing by.
+
+"Look at those little ones," she says, "sweeties of mine, to come out, if he'll take them."
+
+She wants to touch them, to stroke them, and once it happened (a little), but Marilou and I do not allow it. She even once suddenly touched the hair of a young woman. She wants contact. To feel the other. Marilou and I were alarmed. The woman said nothing, and apparently understood.
+
+She is very glad to see people coming to greet her with hello. I am sure there are those who mistakenly thought Irit was glad to see them because she recognized them. This is not true. She is glad with whoever is glad with her. Perhaps something familiar twinkles in her consciousness, but it is a distant flicker of recognition. She does not know. She does not even remember what work she did in her past and where she worked. She responds with love and joy to the smiling face turned to her.
+
+And so too at the club. She loves people, but does not always merit love in return from them. Irit speaks incoherently, and there are women at the club who cannot stand it. Perhaps her behavior hints to them what awaits them in their future. It has happened that Irit burst into bitter weeping after certain women turned to her rudely because of her unclear speech. And interestingly, it has never happened from the side of men.
+
+But on the other hand, the staff loves her. A certain staff member, whom I shall call here Talya, once turned to me excitedly and told me of her love toward sweet Irit. Talya is a religious young woman who suffers from a certain physical condition, and I suppose this makes it harder for her to find a life partner.
+
+"Irit is so wonderful," Talya told me, "do you know what she said to me??"
+
+"What?"
+
+"She told me that I am wonderful, and that everything I want in life will come true!"` },
   { num: 106, title_he: "מילים מצחיקות", title_en: "Funny Words", date: "2026-04-30", source: "single", body_he: `שבת בבוקר. מארילו המטפלת בחופשה. יש לצאת מַהֵר מן המיטה החמימה, מאחר שעירית היא מן המשכּימוֹת קוּם. אני אץ אל הקומה הראשונה ומוצא אותה מסתובבת בַּמּטבח ובודקת מזלג כּלשהוּ מִכָּל צְדָדָיו. היא נראית שקטה ונינוחה. בִּרְאוְֹתָהּ אותי, פָּנֶיהָ מִתְכַּרְכְּמוֹת, והיא נוטָה לבכות, אבל אני מקדים תרופה לַמַּכָּה ומברך אותה ב"בוקר טוב" גדול.
 
 "בוקר טוב," היא עונה. אור של בוקר מציף את מבטהּ.
@@ -3032,7 +3208,41 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 זה כל-כך חביב – חשבתי אז לעצמי - הרי שְעַת הדמדומים הזו היא ממלכת הַדִּמְיוֹן.
 
-אבל היום אני חושב : ואולי זה התחיל כבר אז?... אולי הָחֵל מזמן כּלשהוּ היוּ אֵלֶּה הניצנים הראשונים שבישרו על בּוֹא האלצהיימר?`, body_en: null },
+אבל היום אני חושב : ואולי זה התחיל כבר אז?... אולי הָחֵל מזמן כּלשהוּ היוּ אֵלֶּה הניצנים הראשונים שבישרו על בּוֹא האלצהיימר?`, body_en: `Saturday morning. The caregiver Marilou is on her day off. I have to get out of the warm bed quickly, since Irit is an early riser. I hurry down to the ground floor and find her wandering around the kitchen and examining some fork from every side. She looks quiet and at ease. At the sight of me, her face darkens, and she tends toward weeping, but I anticipate the blow with a remedy and greet her with a big "good morning."
+
+"Good morning," she answers. A morning light floods her gaze.
+
+"I'll make you tea," I say, "and coffee for myself. Please sit on the armchair in the living room meanwhile."
+
+Since she does not understand exactly what I am asking, despite my pointing and repeating the request, I lead her to the armchair and seat her. She examines the small teddy bear on the table and feels its arms and legs. At the sight of the tea coming to her, she gives me a compliment:
+
+"You're a good fellow... we'll put you in a lagoonyah."
+
+"Lagoonyah?" I exclaim in a funny voice.
+
+Irit looks at me in surprise. Why has such a strange word suddenly popped out of my mouth? She bursts into laughter, and even lets out a prolonged sound of delight. Afterwards she points at the teddy bear. Something about him doesn't please her.
+
+"What's this chipolo?"
+
+"Chipolo?" I repeat, "chip-chip chipolo."
+
+"Tzuru buru-buru," she invents something else funny.
+
+"Tzuru guru-duru," I chirp in another variation, "Tzuru muru-puru."
+
+And to heighten the amusement, I play with her the well-known children's game "Grandma Cooked Porridge."
+
+Grandma cooked porridge, gave some to Tsofi, gave some to Yaeli, gave some to Yoni, gave some to... only little Irit got nothing! What did Irit do? She went and went... trei ko-ko, gesh-da no-no... trei ko-ko, gesh-da no-no... until she found it!
+
+This is an expression I learned from Irit many years ago, and I am not at all sure that I am repeating it correctly. She apparently heard it from her mother, but perhaps she invented it herself. Her power in inventing words was always considerable. I remember how once we drove somewhere in the south. Irit fell asleep on the way and woke up only as we were approaching Dimona. It was already twilight.
+
+"We're close to Dimona," I updated her.
+
+"Dim-yonah," she murmured in a daze and stared through the window at the desolate hills.
+
+How charming — I thought then to myself — for this twilight hour is the kingdom of imagination (dimyon).
+
+But today I think: perhaps it had already begun then?... Perhaps from some time ago these were the first buds heralding the coming of the Alzheimer's?` },
   { num: 107, title_he: "רוגזים חולפים", title_en: "Passing Irritations", date: "2026-05-03", source: "single", body_he: `לפעמים היא מתכעסת במקצת. אנחנו יושבים בקניון הראל במבשרת, והיא מביטה סביב באי-נחת . אי-שביעות הרצון ניכּרת על פּניה. עירית תמיד הייתה הַבָּעָתִית מאוד, וגם כּיום.
 
 "אני לא רוצה אותו," היא אומרת לי ברגזנות וּמביטה לצדדים. מַבָּטָהּ אינו ממוקד, וכמובן אין לדעת מה קרה וּבמי מדוּבּר.
@@ -3077,7 +3287,51 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 "אני חושב שהגיע הזמן ללכת," אני אומר למארילו. אנחנו מנסים להקים את עירית, אבל היא לא נענית. שוב-ושוב, אנחנו משדלים אותה לזוז ממקומה, והיא בּוהה בָּנוּ. לְבַסּוֹף היא נעתרת, ואז היא פּונה אלי בעוד שאלה אחת
 
-"אַי, אימאל'ה, היא פּולטת, "מי אני?"`, body_en: null },
+"אַי, אימאל'ה, היא פּולטת, "מי אני?"`, body_en: `Sometimes she gets a little angry. We are sitting in the Harel mall in Mevasseret, and she looks around uneasily. Dissatisfaction is evident on her face. Irit was always very expressive, and so she is to this day.
+
+"I don't want him," she says to me irritably and looks to the sides. Her gaze is not focused, and of course there is no way to know what happened and who is being talked about.
+
+"Let them go," she adds for emphasis, "from his. The way they shanbel. I don't want him! Did you tell him? Did you tell him, Uri?"
+
+"I told him everything you wanted."
+
+"What did I want?" she doesn't understand, "what are you saying? Tell me, Uri. Tell me. Why are you silent?"
+
+"Don't worry, my Irit, we'll get rid of him, and we'll do everything together."
+
+"Get rid?" she wonders what the meaning is of all the nonsense coming out of my mouth, and apparently the word sounds strange to her.
+
+Meanwhile Marilou arrives from some purchase at the supermarket and sits down beside us.
+
+"Why Irit like this?" she asks Irit in a soft, pleasing tone, "why like this nervous?"
+
+But Irit does not answer. Instead she looks with restrained hostility at all the visitors of the mall and shakes her head slightly. It is as if she is harboring some troubling secret between her and herself. She also gives me a hinting look, as if to say: notice the certain thing that is not okay toward me... as my husband you are supposed to understand.
+
+"In my opinion, she is simply bored," I say to Marilou, "we are walking around, and she just sits here and waits."
+
+"If they goofer from here," Irit explains, "it's four-five, and you can put it nicely, in an orderly way. Right Uri?"
+
+"Very right!" I say in praise.
+
+"What's right?"
+
+"What you said."
+
+"One, two, three," Irit counts precisely the cups on the table.
+
+"R-i-g-h-t," Marilou rejoices, "Irit s-m-a-r-t, very very smart."
+
+"I don't want," Irit goes back to being slightly negative.
+
+"To drink your tea, Irit, why not drink your tea?" Marilou tries to coax and please.
+
+She can be a tiny bit cranky — I think to myself — but she will never be violent. There is softness and gentleness in her. Even at the club, when she absorbed shouts from certain women because of her incoherent speech, she did not respond to them at all. Instead, she burst into bitter weeping out of the insult.
+
+"Harta-barta-marta-larta," Irit sums up.
+
+"I think it's time to go," I say to Marilou. We try to get Irit up, but she does not respond. Again and again, we coax her to move from her place, and she stares at us. Finally she yields, and then she turns to me with one more question:
+
+"Oh, mama," she lets out, "who am I?"` },
   { num: 108, title_he: "אלף לילה ולילה", title_en: "One Thousand and One Nights", date: "2026-05-04", source: "single", body_he: `(One Thousand and One Nights)
 
 סיפורי אלף לילה ולילה נאספו במהלך מאות שנים ומקורם בעמים רבים. כידוע, על-פי סיפור המסגרת, המלך Shahryār זועם על כל המין הנשי עקב בגידתה של אשתו. הוא מצווה על הבאתה של נערה בתולה בכל לילה אל חדרו, והוצאתה להורג ביום שלמחרת. הבתולות בממלכה הולכות ופוחתות, אבל Scheherazade מוצאת שיטה מיוחדת להיחלץ מן הגורל המר. היא מספרת למלך סיפור בכל לילה, אך לא מסיימת אותו, וכך מותירה את המלך במתח. סיפור נובע מסיפור, והלילות חולפים. עקב כך נמנע המלך מהוצאתה להורג במשך 1001 לילות, והיא נעשית במהלכם אם לשלושה מילדיו. או-אז חדל המלך ממנהגו הנלוז.
@@ -3090,7 +3344,19 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 הרומן של שחר נקרא לוריאן. הַשֵּׁם נגזר משמו של גיבור סדרת ההיכל, גבריאל יונתן לוריא. השם קשור גם לשמו של הקבליסט המפורסם האלוהי ר' יצחק לוריא. ויש לשים לב כמובן לַשֵּׁם של הסדרה אשר נובע מן הקבלה הלוריאנית. זהו נדבּך חשוב נוסף ביצירתו של שחר. דוד לא היה איש דתי וגם לא איש קבלה. הוא פשוט הזדהה חווייתית עם חוויית האור השופע אשר אינו יכול להיות מוּכָל על ידי הכּלים הרגילים (במקרה האישי שלו – עיניו). המציאות נתפסה על ידיו כְּשְׁבוּרָה, כּטעונה תיקון. מבחינתו, אנחנו חיים בעולם שבו שום דבר לא נמצא בִּמקומו. עולם טהור הינו מרחב שבו כל אלמנט נמצא במקומו. זו בעצם ההגדרה של טוֹהַר, כפי ששחר עצמו ניסח : טיפת שמן בתוך סלט הינה דבר טהור. על החולצה אינה אלא לכלוך.
 
-יצירתו של שחר הילכה עליי קסם בצעירותי. כמו המלך Shahryār אשר "היטלטל" במתח מסיפור לסיפור במשך 1001 לילות, כך גם אני "בלעתי" את הספרים של דּוֹדִי דָּוִד בָּזֶה אַחַר זֶה.`, body_en: null },
+יצירתו של שחר הילכה עליי קסם בצעירותי. כמו המלך Shahryār אשר "היטלטל" במתח מסיפור לסיפור במשך 1001 לילות, כך גם אני "בלעתי" את הספרים של דּוֹדִי דָּוִד בָּזֶה אַחַר זֶה.`, body_en: `(One Thousand and One Nights)
+
+The stories of One Thousand and One Nights were collected over hundreds of years, originating from many peoples. As is known, according to the framing story, King Shahryar is enraged at the entire female sex due to his wife's betrayal. He commands that a virgin girl be brought to his chamber every night and executed the next day. The virgins in the kingdom dwindle, but Scheherazade finds a special method to escape the bitter fate. She tells the king a story each night, but does not finish it, leaving the king in suspense. A story flows from a story, and the nights pass. Owing to this, the king refrains from executing her for 1001 nights, and during them she becomes the mother of three of his children. Only then does the king cease from his foul custom.
+
+One can speak about the attitude toward women in that period (and in general) — but first I want to mention various matters concerning literary aspects.
+
+Besides the expression of the hypnotic power of stories, we have before us a narrative pattern. I mean the method in which one story flows from another and intertwines in an overall weave. The one who perfected this pattern and brought it to a supreme artistic act is, of course, my uncle the writer David Shahar. David did not write in the usual manner. You will not find in a novel of his a linear description built on a beginning, middle, and end. Instead, you are exposed to a story within a story that is tied to another story, and so on, in expanding circles. There is no past, present, and future in the classical sense, but a time that includes transitions between these dimensions. After a journey between vastly different times, you may discover that from the point of view of the novel's hero only a single day has passed. David once said to me: "I do not write in the main-stream-of-the-Suez-canal method."
+
+A particularly fascinating quality of Shahar's method is the fact that you do not feel these transitions from one story to another. The transitions are natural and smooth. You are reading about the doings of a certain character, and without feeling it you find yourself inside the description of a character from a different time and in a different context. Whoever tries to imitate Shahar may fail precisely in this aspect. It is not enough to move associatively from matter to matter. The transition must be smooth and natural. Many years ago I read his series The Palace of Shattered Vessels, and in one of the books I discovered that without noticing I had returned to a particular situation in the book after reading several hundred pages. That was the first surprise. The second was that I returned to this situation from the point of view of a different character who had been present from the start in that same situation. That was a stunning surprise for me. I experienced one specific event in the story through two completely different points of view. At that very moment I thought to myself: if there is a God, He surely experiences reality this way — through infinite points of view. It would not be an exaggeration to say that Shahar gave me, in this, for a single moment, a feeling of divine observation of reality, instead of human observation.
+
+Shahar's novel is called Lurian. The name is derived from the name of the hero of the Palace series, Gabriel Yonatan Luria. The name is also connected to the name of the famous divine kabbalist Rabbi Isaac Luria. And one should note, of course, the name of the series, which derives from Lurianic Kabbalah. This is an additional important layer in Shahar's work. David was not a religious man, nor a Kabbalah man. He simply identified experientially with the experience of the abundant light that cannot be contained by ordinary vessels (in his personal case — his eyes). Reality was perceived by him as broken, as in need of repair. To his mind, we live in a world where nothing is in its place. A pure world is a space where every element is in its place. This is in fact the definition of purity, as Shahar himself put it: a drop of oil in a salad is a pure thing. On a shirt it is nothing but a stain.
+
+Shahar's work cast a spell over me in my youth. Like King Shahryar, who was "jolted" with suspense from story to story over 1001 nights, so I too "devoured" my uncle David's books, one after another.` },
   { num: 109, title_he: "אור הזרקור בחדר הניתוח", title_en: "The Operating Room Spotlight", date: "2026-05-05", source: "single", body_he: `כאשר נכנסתי בשערי האוניברסיטה, שמעתי את המושג "פּתִיחוּת" – הווה אומר: נכונותו של אדם לבטא את אשר הוא מרגיש באופן פתוח, ללא פסדות, מתוך כנות כלפי עצמו וכלפי אחרים. כמעט התחלתי להאמין ב"פתיחות" שגילו הסטודנטים סביבי (המרצים היו פטורים מן החיוב להיות "פתוחים" עקב רוֹם דרגתם) – עד שקראתי במקרה את ספרו של Dostoevsky כְּתָבִים מִן הַמַּרְתֵּף.
 
 פתאום נגלה אליי עולם שהוא מֵעֵבֶר לַפּתיחות. דוסטוייבסקי מאיר את מרתף הנפש שלו באור זרקורים של חדר ניתוח. זהו אור אכזרי ומכאיב. זו מודעות יתר שאינה מאפשרת ריכוך ועידון. הקרביים מונחים על השולחן מתחת לְאִזְמֵל המנתח (הַמְּסַפֵּר) ומוצגים לַמּתבונן (הקורא) כפי שהם, עם כל הבלבול, הכיעור והסתירות הפנימיות. פתאום הבנתי מהי פתיחות, וגם לאילו מחוזות נידחים היא עלולה להתגלגל.
@@ -3103,7 +3369,19 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 על-פי בּדיקתי, נָבוֹת העריך מאוד את דּוסטוייבסקי. הֲיִפָּלֵא הדבר? הרי דוסטוייבסקי ייצג את דמות הסופר ה"נכונה" בּעיניו (עקב ייסוריו בחייו הממשיים) ואת היצירה הספרותית הַנַּעֲלָה (בְּשֶׁל היותה ביטוי עז וחד לאותם הייסורים). אם צריך לאחוז באזמל מנתחים על-מנת לכתוב יצירת מופת ספרותית – דוסטוייבסקי הוא האיש.
 
-אבל – בין הסופרים העבריים הבודדים שנָבוֹת הִרְבָּה להלל ולשבח (באוזניי ממש) היה גם אותו הסופר אשר הגיע ממחוזות נפש הפוכים לגמרי – סופר שהתרחק מאזמלים ומאורות מסנוורים – וכוונתי כמובן לדוד שחר.`, body_en: null },
+אבל – בין הסופרים העבריים הבודדים שנָבוֹת הִרְבָּה להלל ולשבח (באוזניי ממש) היה גם אותו הסופר אשר הגיע ממחוזות נפש הפוכים לגמרי – סופר שהתרחק מאזמלים ומאורות מסנוורים – וכוונתי כמובן לדוד שחר.`, body_en: `When I entered the gates of the university, I heard the concept of "openness" — meaning: a person's willingness to express what he feels openly, without facades, out of honesty toward himself and others. I almost began to believe in the "openness" displayed by the students around me (the lecturers were exempt from the obligation to be "open" by virtue of their high rank) — until I happened to read Dostoevsky's book Notes from Underground.
+
+Suddenly a world was revealed to me that is beyond openness. Dostoevsky illuminates the basement of his soul with the spotlights of an operating room. It is a cruel and painful light. It is over-awareness that does not allow softening and refinement. The innards are laid on the table beneath the scalpel of the surgeon (the narrator) and presented to the observer (the reader) as they are, with all the confusion, ugliness and internal contradictions. Suddenly I understood what openness is, and also into what remote regions it may roll.
+
+Like David Shahar, Notes from Underground is not built linearly, but in a twisting and tangled manner. It too departs from the conventional pattern of a plot with a beginning, middle, and end. But unlike Shahar, this is a work that refers first of all to what is taking place inside a person's soul. It is not a story in the usual sense of the word, but an open, tormented, and fascinating testimony of a person about himself. I remember that as a student I thought to myself — why are you confusing the brain there in all the student group meetings? You want openness? Read Dostoevsky, and then we'll talk.
+
+Interestingly, I encountered the experience of the operating-room spotlight, in a literary context, also in my meetings with my classmate from elementary school, Amnon Burstein, who in time changed his name to Amnon Navot, and worked as the literary critic of Ma'ariv. In his approach to literary work (any work), Amnon would turn on the operating-room spotlight and cut without mercy the creator and his work. Every meeting with him bore the message that literature was supposed to have deep, supreme spiritual value. His attitude toward writers was therefore dichotomous: a few found favor in his eyes, and he raised them on a banner; the vast majority were condemned by him to erasure and being thrown into the dustbin of history.
+
+Well, what was unbearable for my uncle David became for Navot the soul's longing. David could not bear the surplus of light. From his point of view, "the vessels could not contain the abundance." The blinding sunlight hurt his eyes. He longed for the night (and indeed he was a man of the night and even worked at night) for its secrets, for the soft light of the moon and the stars, and for the chill that cools the stormy soul. By contrast, Navot longed for the rays of light that pierce the depths of the soul, with all the ugliness, decay, and torment bubbling within it.
+
+From what I have checked, Navot greatly esteemed Dostoevsky. Is this any wonder? After all, Dostoevsky represented in his eyes the "correct" figure of the writer (owing to his torments in his actual life) and the elevated literary work (because it is a sharp, intense expression of those same torments). If one must hold a surgeon's scalpel in order to write a literary masterpiece — Dostoevsky is the man.
+
+But — among the few Hebrew writers whom Navot greatly praised and lauded (literally in my ear) was also that writer who came from regions of soul entirely opposite — a writer who kept himself far from scalpels and blinding lights — and I mean, of course, David Shahar.` },
   { num: 110, title_he: "השלישייה", title_en: "The Trio", date: "2026-05-09", source: "single", body_he: `היינו שלישייה - שלושה ילדים מבית-ספר רֶמֶז הַשָּׁכוּחַ, אשר שכן ברחוב אנילביץ', שיכון פועלים א', בני-ברק. אמנון בורשטיין (לימים נָבוֹת), אליעזר (שם מוּמצא) ואני.
 
 אמנון היה "המופרע-הגאון", אליעזר היה סוג של "סֶרַח-עוֹדֵף", ואני הייתי "הנורמלי". עליי להדגיש מיד שהייתי הנורמלי בְּעֵינֵי עצמי בלבד. יש מקום לחשוד שעצם השתייכותי לשלישייה המוזרה הזו היה בה כדי להעיד על משוּנוּת כלשהי גם אצלי.
@@ -3120,7 +3398,23 @@ In time, I decided that the time had come to invent stories of my own, in order 
 
 אבל לצד הדמיון והמשחקים פעפעה ללא הרף המוּזרוּת. עוד אחזור אליה. בשלב זה רק אציין שהיא גרמה לי בסופו של דבר להתרחק מאמנון. חשתי צורך לשמור על עצמי. במקביל, נפרדו דרכינו מאחר שהתחלנו ללמוד בבתי ספר שונים.
 
-ומה אירע לאליגזר? כעבור שנים שמעתי שהוא לקה בהלם קרב במלחמת יום הכיפורים. האם אושפז? האם התאבד? כך או אחרת, אבדו עקבותיו של הילד אשר לא היה מעולם.`, body_en: null },
+ומה אירע לאליגזר? כעבור שנים שמעתי שהוא לקה בהלם קרב במלחמת יום הכיפורים. האם אושפז? האם התאבד? כך או אחרת, אבדו עקבותיו של הילד אשר לא היה מעולם.`, body_en: `We were a trio — three children from the forgotten Remez Elementary School, which stood on Anilevich Street, Shikun Po'alim A', Bnei Brak. Amnon Burstein (later Navot), Eliezer (made-up name), and me.
+
+Amnon was "the disturbed-genius," Eliezer was a sort of "extra appendage," and I was "the normal one." I must emphasize at once that I was the normal one only in my own eyes. There is room to suspect that the very fact of my belonging to this strange trio testified to a certain peculiarity in me as well.
+
+Amnon devoured books. His reading speed was enormous. In days when we as pupils struggled to grapple with texts by Bialik, he was already cutting his way through the length and breadth of thick-bellied tomes of the best of world literature. I do not remember what the teacher's attitude was toward this phenomenon (if there was any attitude at all). On the other hand, it seems to me that I remember Amnon as a rather mediocre student in the other subjects. Once he also taught me the moves of the chess pieces, and in the first game between us I beat him. I remember well the look of surprise that came over his face. It did not fit with what he thought of himself.
+
+The third side — Eliezer — was called "Eligezer" by Amnon. It was part contempt, part affection. Eligezer trailed after Amnon and clung to him as a drowning man clings to a broken branch floating on the water. I cannot recall anything special or significant that Eligezer said or did, and the truth is that even the look of his figure escapes me. He was a faded type, of no account, almost non-existent, a kind of passing, vanishing shadow. For me as a child he rather disrupted our games, but I learned to get used to his presence.
+
+Where did that fellow come from? Who were his parents? Why did he become so erased? Many families in Shikun Po'alim A' came from the diasporas of Eastern Europe. It was a generation at the start of the state's days. Immigrants arrived from the lands of slaughter of the European Jewish Holocaust. There were broken people there, brands plucked from the fire. Perhaps Eligezer was a descendant of such a family. I do not know. I came from a family of natives of the land. Although my parents too absorbed in their childhood diaspora marks from their families, they at least were free of the brokenness of the Holocaust trauma.
+
+I suppose the roots of "the Amnonic strangeness" can also be found in the trauma of the Holocaust and the survival need it gave rise to. How, from such a public — on one hand Holocaust refugees, people blown by the wind, and on the other hand the tormented immigrants from the Eastern countries — was a state established? It is a wonder of wonders. But in those days I did not think at all in these terms. All I saw before me was a strange pair of a chubby, imaginative, book-devouring boy, and another faded someone called Eli-gezer.
+
+Was Amnon a sort of savant? I do not know. What is clear — he was entirely different from any other child I knew. He was a child at the foundation of whose soul there was already an old man, and on the other hand he had a child's imagination, of my kind, which enabled us thrilling journeys in space and time, even though we did not advance by so much as a single meter from the yard of his house. This imagination also led us into a real war with another group of children in the neighborhood. One day, without intending to, I found myself led to a strange battle by King Amnon, and engaged in a war of swords and spears with children I barely knew. The other children, who were led by another king, won the war. In time, Amnon would call his first novel: The Season of the Kings, or the Line of the Horses' Failure.
+
+But alongside the imagination and the games, the strangeness bubbled constantly. I will return to it. At this stage I will only note that it ultimately caused me to distance myself from Amnon. I felt the need to protect myself. In parallel, our paths separated since we began studying at different schools.
+
+And what became of Eligezer? After years I heard he had suffered shell shock in the Yom Kippur War. Was he hospitalized? Did he take his life? One way or another, the traces of the child who had never been faded away.` },
   { num: 111, title_he: "מלחמת המלכים", title_en: "War of the Kings", date: "2026-05-11", source: "single", body_he: `אנחנו היינו שלישייה: המלך אמנון, אֱלִיגֶזֶר נוֹשֵׂא הַכֵּלִים, ואני שר הצבא.
 
 הם היו חבורה שלא ממש הכּרתי. ידעתי על קיומם, הייתה לי ידיעה מעורפלת מי המלך שלהם, וזהו. כּלל לא שיערתי אז שאנחנו נתונים בעצם במלחמה איומה, ובוודאי לא הבנתי מהן סיבותיה של המלחמה, שלא לדבר על שורשיה העמוקים.
