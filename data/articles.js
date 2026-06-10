@@ -103,19 +103,19 @@ Research also shows that in recent decades there is a continuous decline in male
 We can always, of course, use the procedure called Cloning to create copies of ourselves. Women will not need men for this, but only themselves. In short, it will be fun. The question is only whether we will manage to develop the technology properly and also control its outcomes.
 
 One could go on and on like this, but it seems to me that the sample above is sufficient for clarification. Now, I would suggest that each of us think deeply about which mode of extinction most appeals to him.` },
-  { num: 5, title_he: "העיקרון השטני של החיים", title_en: "The Satanic Principle of Life", date: "2022-07-25", source: "bundle-1", body_he: `בספר בראשית פרק א נאמר: And the earth brought forth grass, herb yielding seed after its kind, and tree bearing fruit, wherein is the seed thereof, after its kind; and God saw that it was good.
+  { num: 5, title_he: "העיקרון השטני של החיים", title_en: "The Satanic Principle of Life", date: "2022-07-25", source: "bundle-1", body_he: `בספר בראשית פרק א נאמר: "וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ, וְעֵץ עֹשֶׂה פְּרִי אֲשֶׁר זַרְעוֹ-בוֹ לְמִינֵהוּ; וַיַּרְא אֱלֹהִים כִּי-טוֹב"
 
 כלומר: כל העניין הזה של החיים הינו טוב. ככה אלוהים בעצמו אמר. האמנם?
 
-החיים קשים להגדרה מבחינת ה- CONTOURS שלהם. איפה בדיוק עובר קו הגבול בין הווירוס לתא החי? החיים מתוארים על ידי אוסף של תכונות המבדילות בין היצור החי לחומר הדומם. אנחנו יכולים למנות תכונות כמו: Homeostasis, התפתחות מוגדרת לפי פרקי זמן, Heredity, Evolution, רגישות לגירויים חיצוניים ופנימיים, ועוד.
+החיים קשים להגדרה מבחינת הקווי המתאר שלהם. איפה בדיוק עובר קו הגבול בין הווירוס לתא החי? החיים מתוארים על ידי אוסף של תכונות המבדילות בין היצור החי לחומר הדומם. אנחנו יכולים למנות תכונות כמו: הומאוסטזיס, התפתחות מוגדרת לפי פרקי זמן, תורשה, אבולוציה, רגישות לגירויים חיצוניים ופנימיים, ועוד.
 
-בין יתר התכונות ישנה גם היכולת ל- Metabolism. ההגדרה של התכונה היא: היכולת לקלוט אנרגיה מסביבת המחיה, להמיר אותה לסוג האנרגיה הנדרש, ולהפריש את הפסולת שנוצרת בתהליך ההמרה. ללא תכונה זו, החיים לא ימשיכו להתקיים.
+בין יתר התכונות ישנה גם היכולת לחילוף חומרים. ההגדרה של התכונה היא: היכולת לקלוט אנרגיה מסביבת המחיה, להמיר אותה לסוג האנרגיה הנדרש, ולהפריש את הפסולת שנוצרת בתהליך ההמרה. ללא תכונה זו, החיים לא ימשיכו להתקיים.
 
 במילים פשוטות: החיים מתקיימים תמיד על חשבון משהו או מישהו. הסלע לא זקוק לאנרגיה שנשאבת מבעל חיים כלשהו. האריה לעומתו זקוק לבשר מן החי, ועל-כן הוא טורף חיות אחרות. האריה אינו יכול אחרת. אם ינהג שלא לפי טבעו, ימות במהרה. וכך הלאה: דג גדול אוכל דג קטן, ואינו יכול אחרת.
 
 החיים מכלים את סביבתם. בעלי חיים אוכלים, בולעים ומשמידים בעלי חיים אחרים. האדם כבעל חיים נעלה דואג להשמיד גם את סביבתו הדוממת וחסרת החיים, אבל זה כבר סיפור אחר.
 
-הסרט LIFE שיצא לאקרנים בשנת 2017 ממחיש לדעתי את העקרון השטני הזה של החיים. היצור בסרט שנקרא קלווין מתפתח בקצב מבהיל תוך כדי כך שהוא בולע את כל מה שבסביבתו, ובסופו של דבר מאיים על החיים של המין האנושי. זו מטפורה יפה לדעתי לשטניות של החיים. מה בדיוק ההבדל בינינו לבין קלווין? אנחנו משמידים באופן שיטתי את סביבתנו (החיה והדוממת), ובכך יוצרים איום על קיומנו.
+הסרט "חיים" שיצא לאקרנים בשנת 2017 ממחיש לדעתי את העקרון השטני הזה של החיים. היצור בסרט שנקרא קלווין מתפתח בקצב מבהיל תוך כדי כך שהוא בולע את כל מה שבסביבתו, ובסופו של דבר מאיים על החיים של המין האנושי. זו מטפורה יפה לדעתי לשטניות של החיים. מה בדיוק ההבדל בינינו לבין קלווין? אנחנו משמידים באופן שיטתי את סביבתנו (החיה והדוממת), ובכך יוצרים איום על קיומנו.
 
 העקרון הזה מעלה כמובן תהייה קשה לגבי אלוהים, אבל על כך אתווכח עם עצמי במכתב אחר.
 
@@ -177,7 +177,7 @@ Is a solution that casts doubt on God's absolute goodness a legitimate one? I wi
 
 מדובר בפלא טכנולוגי ומדעי כּביר. הטלסקופ יאפשר לנו להתקדם משמעותית בחקר האבולוציה של הגלקסיות, היווצרות כוכבים, מוצא החיים, ואף שאלת קיומם של חיים מחוץ לפלנטה הזעירה שלנו. לדעתי ההישג אינו רק טכנולוגי ומדעי אלא גם ערכי. אני מתכוון לשיתוף הפעולה בין 20 מדינות ואלפי מדענים וטכנאים מתחומים שונים ברחבי העולם. שיתוף פעולה מדעי-טכנולוגי הוא האמצעי הטוב ביותר לדעתי לצורך ההתמודדות עם האתגרים הניצבים בפנינו.
 
-כאשר צפיתי בתמונות הנהדרות לא יכולתי שלא להיזכר בפרויקט דומה להפליא אשר בוצע לפני כמה אלפי שנה. כוונתי כמובן למגדל בבל. זה היה פרויקט כּביר שבוצע על בסיס של שיתוף פעולה אנושי. הבעיה הייתה שזה לא מצא חן בעיני אלוהים. לפיכך, בּלל אלוהים את שפתם של בני האדם, כּדי שלא יוכלו להבין אחד את השני. כתוצאה לכך נפוצו כל האנשים בכל הארץ. ממה אלוהים חשש כּל-כּך? על כּך נאמר במפורש ((בראשית יא) ) :  But the אדוני came down to see the city and the tower the people were building. 6 The אדוני said, "If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them. 7 Come, הבה go down and confuse their language so they will not understand each other.". במילים ברורות יותר: אלוהים פחד שהאדם יהפוך לכל-יכול.
+כאשר צפיתי בתמונות הנהדרות לא יכולתי שלא להיזכר בפרויקט דומה להפליא אשר בוצע לפני כמה אלפי שנה. כוונתי כמובן למגדל בבל. זה היה פרויקט כּביר שבוצע על בסיס של שיתוף פעולה אנושי. הבעיה הייתה שזה לא מצא חן בעיני אלוהים. לפיכך, בּלל אלוהים את שפתם של בני האדם, כּדי שלא יוכלו להבין אחד את השני. כתוצאה לכך נפוצו כל האנשים בכל הארץ. ממה אלוהים חשש כּל-כּך? על כּך נאמר במפורש ((בראשית יא) ) :  ואָז אדוני "יָרַד" to see "הָעִיר וְהַמִּגְדָּל" "אֲשֶׁר בָּנוּ בְּנֵי הָאָדָם". 6 The אדוני "אָמַר: 'הֵן עַם אֶחָד וְשָׂפָה אַחַת לְכֻלָּם'" "וְזֶה הַחִלָּם לַעֲשׂוֹת, וְעַתָּה לֹא-יִבָּצֵר מֵהֶם כֹּל אֲשֶׁר יָזְמוּ לַעֲשׂוֹת" 7 Come, הבה "נֵרְדָה" and confuse their language so they will not understand each other.". במילים ברורות יותר: אלוהים פחד שהאדם יהפוך לכל-יכול.
 
 חבל! פרויקט מגדל בבל היה מעשה בכיוון הנכון המייצג שיתוף פעולה אנושי. הרי רק שיתוף פעולה כזה יוכל לסייע לנו אל מול האתגרים הקשים של ההתחממות הגלובלית (למשל) ועוד עניינים. האם גם אתם כּמוני מתפללים לאלוהים לא יעלה בדעתו לקלקל שוב את כל העסק?`, body_en: `Recently my son Jonathan turned to me and asked: "Dad, have you seen the pictures sent by the James Webb Space Telescope?..." "Not yet," I answered in embarrassment.
 
@@ -219,9 +219,9 @@ One way or another, it is also hard to avoid the opposite thought. Suppose for a
 
 צר לי, אבל בעניינים כגון אלה, אני לא מתכוון להצהיר שאני יודע משהו באופן ודאי. אני לא מחזיק בשום ודאות שהיא. אני ספקן. אין לי מושג אם יש או אין חייזרים, אִם-כִּי בתחושתִי יש. אין לי מושג אם יש או אין אלוהים. במקרה הזה גם לא אומר מהי התחושה שלי, כי הרי לדעת מאמינים רבים הבנת האדם היא מוגבלת ביחס לאל, ועל-כן עניין האלוהים נבצר מבינתי!
 
-הספק בעיניי הוא עקרון מוסרי. האם יש ספק שבמהלך ההיסטוריה היו אנשים, קבוצות, כּתות ומדינות שביצעו את הנוראים שבמעשים בשם "ודאות" כּלשהי? The road to hell is paved with good intentions. קנאי הדת טבחו לאורך כל ההיסטוריה בכל מי שכופר ב"אמיתות אמונתם". הם עשו זאת מתוך .good intentions הם רק רצו להשליט את "האמת" בכל מקום, ולהושיע בכך את האומללים חסרי האמונה והדעת. כמה דם היה נחסך אם קורטוב של ספק היה מקנן בראשים הקודחים של הקנאים האלה?
+הספק בעיניי הוא עקרון מוסרי. האם יש ספק שבמהלך ההיסטוריה היו אנשים, קבוצות, כּתות ומדינות שביצעו את הנוראים שבמעשים בשם "ודאות" כּלשהי? "הדרך לגיהינום רצופה כוונות טובות" קנאי הדת טבחו לאורך כל ההיסטוריה בכל מי שכופר ב"אמיתות אמונתם". הם עשו זאת מתוך ."כוונות טובות" הם רק רצו להשליט את "האמת" בכל מקום, ולהושיע בכך את האומללים חסרי האמונה והדעת. כמה דם היה נחסך אם קורטוב של ספק היה מקנן בראשים הקודחים של הקנאים האלה?
 
-לא מדובר רק בדת. כל השקפה קנאית וקיצונית עלולה להוביל לכך. הנאצים המיטו שואה על העולם (ועל היהודים במיוחד) בשם תורת הגזע שלהם. מעשיה הנפשעים של גרמניה הנאצית היו מאורגנים בקפידה (זה חלק מן הזוועתיות שבהם). אבל לעתים נדרשת "רק" תעמולת כזב כדי להוציא המונים אל הרחוב ולהניעם לפעולות ברבריות בשמה של "אמת" כלשהי. דוגמא לכך היא המהפכה הצרפתית. דברי הבֶּלָע והשקר שהופצו ביחס למלכּה מארי אנטואנט גרמו למאסרה הנורא ולהוצאתה להורג על ידי הגיליוטינה. דווקא מארי אנטואנט שגילתה חמלה כּה רבּה כּלפי האזרחים הפשוטים והעניים הוּחשדה בניכּור כּלפיהם (המשפט המפורסם שיוחס לה: "אם אין לחם שיאכלו עוגות" הוא סילוּף גמור). במהלך המהפכה שנעשתה תחת הגג של ערכי liberty, equality and fraternity נרצחו אלפים רבים על הגיליוטינה ואלפים נוספים בידי ההמון.
+לא מדובר רק בדת. כל השקפה קנאית וקיצונית עלולה להוביל לכך. הנאצים המיטו שואה על העולם (ועל היהודים במיוחד) בשם תורת הגזע שלהם. מעשיה הנפשעים של גרמניה הנאצית היו מאורגנים בקפידה (זה חלק מן הזוועתיות שבהם). אבל לעתים נדרשת "רק" תעמולת כזב כדי להוציא המונים אל הרחוב ולהניעם לפעולות ברבריות בשמה של "אמת" כלשהי. דוגמא לכך היא המהפכה הצרפתית. דברי הבֶּלָע והשקר שהופצו ביחס למלכּה מארי אנטואנט גרמו למאסרה הנורא ולהוצאתה להורג על ידי הגיליוטינה. דווקא מארי אנטואנט שגילתה חמלה כּה רבּה כּלפי האזרחים הפשוטים והעניים הוּחשדה בניכּור כּלפיהם (המשפט המפורסם שיוחס לה: "אם אין לחם שיאכלו עוגות" הוא סילוּף גמור). במהלך המהפכה שנעשתה תחת הגג של ערכי חירות, שוויון ו fraternity נרצחו אלפים רבים על הגיליוטינה ואלפים נוספים בידי ההמון.
 
 אני לא מתיימר לטעון שכל הזוועות בַּהיסטוריה היו נמנעות בִּזכוּת הטלת ספק בַּאמונה. גם בנוכחות הספק, האנושות הייתה מוצאת דרכים לעצמה לבצֵע את הַפּשעים האלה. אבל ספק קל בראשו של חמוּם מוח, המאמין באמונה שלמה בַּסיפורים שהוא מספר לעצמו, אוּלי היה ממתן בִּמעט אֶת התנהגותו האלימה.
 
@@ -433,19 +433,19 @@ It is therefore not necessary for a person to choose any behavior according to t
 Does all this mean that thoughts have no value or are not correct? Of course not. Thoughts influence behavior and are influenced by it. This is a two-way process. Thoughts may be or may not be correct even if they are a result of behavior and not its cause.
 
 And what about the death drive? Years ago I participated in a small group of students with Éliane Amado Levy-Valensi. In her charming apartment, she suddenly said that for Freud's death drive there is already a foundation in Scripture. It is the commandment "Choose Life!" If there is no death drive, she noted, why are we commanded to choose life? The commandment teaches us that there is also a force drawing toward death, and a commandment is required in order to restrain its influence.` },
-  { num: 17, title_he: "הניסוי הגדול", title_en: "The Great Experiment", date: "2022-09-02", source: "bundle-1", body_he: `The sons of God saw that the daughters of man were attractive. And they took as their wives any they chose. ((בראשית ו, ב))
+  { num: 17, title_he: "הניסוי הגדול", title_en: "The Great Experiment", date: "2022-09-02", source: "bundle-1", body_he: `"וַיִּרְאוּ בְנֵי הָאֱלֹהִים אֶת בְּנוֹת הָאָדָם כִּי טֹבֹת הֵנָּה, וַיִּקְחוּ לָהֶם נָשִׁים מִכֹּל אֲשֶׁר בָּחָרוּ" ((בראשית ו, ב))
 
 מי הם "בני האלוהים"? מה פתאום הם לוקחים לעצמם "בּנות אדם"? וּלְמה הם מצפים מבחינת הזיווּג הגנטי?...
 
 הרעיון לפיו ביקרו אותנו חוּצנים בעבר הרחוק אינו חדש כּמובן. הקהילה המדעית יצאה נגד הרעיון הזה. אכן מדובר באמונה ולא במדע. אבל האם המחשבה הזו כּה מוּפרֶכֶת שיש לדחותה עַל הסף?
 
-האבולוציה הַבּיולוגית, תּורתו של דרווין, הבנת מנגנוני ההורשה והגנטיקה, פיצוח הגנום האנושי, שכפול גנטי, פיתוח טכנולוגיית - קריספר כּל אלה ועוד קידמו אותנו באופן יוצא מגדר הרגיל. אבל בינינו לבין עצמנו – האם אנחנו מבינים באמת איך צצנו כּאן לפתע פתאום? ה- crocodilians מסתובבים לידנו כבר מאה מיליון שנה ולא השתנו הרבה. לעומתם, ראו איזה מהלך מדהים עברנו אנחנו בזמן קצר יחסית.
+האבולוציה הַבּיולוגית, תּורתו של דרווין, הבנת מנגנוני ההורשה והגנטיקה, פיצוח הגנום האנושי, שכפול גנטי, פיתוח טכנולוגיית - קריספר כּל אלה ועוד קידמו אותנו באופן יוצא מגדר הרגיל. אבל בינינו לבין עצמנו – האם אנחנו מבינים באמת איך צצנו כּאן לפתע פתאום? התנינאים מסתובבים לידנו כבר מאה מיליון שנה ולא השתנו הרבה. לעומתם, ראו איזה מהלך מדהים עברנו אנחנו בזמן קצר יחסית.
 
 יכול להיות שבעתיד הקרוב או הרחוק נמצא הסברים שיניחו את דעתנו. בּינתיים אנחנו משתאים אל מול חידות גדולות. מילא האוסטרלופיתקוס הקדוּם שהיה זקוף, מה נגיד על בּואו המפתיע של הומו הביליס  ? היצור הזה כבר השתמש בכלים ומוחו היה גדול ב-50% יותר מזה של האוסטרלופיתקיים. איך עלינו להבין את הפער? ומילא הַכּלים הפרימיטיביים של הומו הביליס , פתאום צץ ה-הומו ארקטוס. האישיות הגאונית הזו כּבר דמתה יותר לאדם ופחות לקוף. ה-הומו ארקטוס צד, דאג לבני מינו, השתמש באש, יצר כלים מורכבים, ונע על פני הגלובוס. המסעות האלה, אף דרך הים, הינן חידה בפני עצמה. אחריו הגיע ה-הומו ספיינס מיודענו. הוא כבר ניחן במוח גדול פי שלושה ממוחותיהם של קופי האדם (שימפנזה, גורילה). למעשה, המוח שלנו הינו הגדול ביותר בקרב החיות (מבחינת היחס שבין נפח המוח לגודל הגוף).
 
 ובכן, הקפיצות האבולוציוניות האלה הן התמיהה הגדולה. יכול להיות שבעתיד יתגלו ממצאים שישלימו את החוליות החסרות של הפאזל, ויכול להיות שלא. בּינתיים אנחנו רשאים להשתמש בדִמְיוננו. למשל, לדמיין לעצמנו שבני האלוהים הם אלה שערכו עלינו ניסויים גנטיים במטרה לשדרג את מוחותינו ויכולותינו. בני האלוהים, או במילים אחרות חוּצנים אינטליגנטיים מאוד, בּיצעו עלינו מניפולציות גנטיות, ומדי פעם הם גם הצליחו!
 
-מבחינת ההשקפה הדתית זו כּמובן צרה צרורה. מִמעמד של יצוּר נבחר ונזר הבריאה אנחנו נופלים לפתע למעמד של תּוצרי ניסוי, בדיוק כמו עכברי מעבדה מהונדסים. מצד שני, הַתּיאוריה הזו makes some sense. האם הסיפור על אל שברא עולם בשישה ימים במין תהליך של הוקוּס-פוקוּס נשמע הגיוני יותר?
+מבחינת ההשקפה הדתית זו כּמובן צרה צרורה. מִמעמד של יצוּר נבחר ונזר הבריאה אנחנו נופלים לפתע למעמד של תּוצרי ניסוי, בדיוק כמו עכברי מעבדה מהונדסים. מצד שני, הַתּיאוריה הזו מקבלת מובן מסוים. האם הסיפור על אל שברא עולם בשישה ימים במין תהליך של הוקוּס-פוקוּס נשמע הגיוני יותר?
 
 אני כּמובן לא מנסה לשכנע אף אחד, ואפילו לא את עצמי. מאידך, הַתּיאוריה הזו מסעירה את הַדִּמְיון ושופֶכֶת אור עַל תּעלומות רבּות. אם אכן היו אלה חוּצנים שיצרו אותנו, מי הם היו? מה עלה בגורלם? והאם אנחנו יכולים ללמוד משהו מן התשובות שנשיב לעצמנו? אכתוב על כּך בַּפּעם הבאה.`, body_en: `The sons of God saw that the daughters of man were attractive. And they took as their wives any they chose. (Genesis 6:2)
 
@@ -491,11 +491,11 @@ There is a known hypothesis according to which every advanced culture is destine
 According to the theory, the talented aliens carried out genetic manipulations on the early primates. Perhaps they wanted to create a continuation of themselves. Who knows? They are not here (apparently) to tell. The echo of their existence is found in the mythology of Genesis and in other mythologies. I will quote one more sentence from the book: Then God said: "Let us make mankind in our image, in our likeness." (Genesis 1:26). Why does the one God suddenly speak to Himself in the plural? Moreover, the Hebrew word Elohim is the plural of Eloah (a single god). Was it a group of "gods" that designed the creature "man"? According to the design, this creature was supposed to resemble its creators. Was it in order to continue them, since they themselves could not have a continuation?
 
 What happened to them in the end? Perhaps they died. Perhaps the conditions of life on Earth did not suit their biological structure. The important question in my eyes is: did they succeed in their mission? That is, are we what they wanted us to be? Did the great experiment succeed and are we worthy of their vision?` },
-  { num: 19, title_he: "אדוני הבריאה", title_en: "Lords of Creation", date: "2022-09-04", source: "bundle-1", body_he: `"Man is the only animal for whom his own existence is a problem which he has to solve." (אריך פרום)
+  { num: 19, title_he: "אדוני הבריאה", title_en: "Lords of Creation", date: "2022-09-04", source: "bundle-1", body_he: `""האדם הוא היצור היחיד שעבורו עצם קיומו הוא בעיה שעליו לפתור."" (אריך פרום)
 
-"האם הניסוי הגדול הצליח ואנחנו ראויים לחזון שלהם?" – זו הייתה השאלה ששאלתי בסיום מאמרי הקודם. במילים אחרות: אם אכן אינטליגנציה חוּצנית יצרה אותנו, האם היא הצליחה במשימתה? האם אנחנו ראויים לתואר The Lords of Creation?
+"האם הניסוי הגדול הצליח ואנחנו ראויים לחזון שלהם?" – זו הייתה השאלה ששאלתי בסיום מאמרי הקודם. במילים אחרות: אם אכן אינטליגנציה חוּצנית יצרה אותנו, האם היא הצליחה במשימתה? האם אנחנו ראויים לתואר אדוני הבריאה?
 
-בכל הנוגע לַהתפתחוּת הקוגניטיבית והטכנולוגית – בוודאי. האדם הוא יחיד ומיוחד. אין עוד יצוּר שידמה לו. הפער בין יכולות האדם ליכולות של החיות האחרות, גם המפותחות ביותר, הוא עצוּם ואף מוזר בגודלו. הדוגמאות ליכולתו הטכנולוגית רבות מִספור. אזכיר רק דוגמא אחת: יכולת ההשמדה הפנטסטית שהאדם פיתח. פצצת המימן הרוּסית הקרויה מלכת הפצצות חזקה פי 3300 לערך מפצצת האטום שהוּטלה על הירושימה, וזה עוד לפני שדיברנו על נשק כימי וביולוגי.
+בכל הנוגע לַהתפתחוּת הקוגניטיבית והטכנולוגית – בוודאי. האדם הוא יחיד ומיוחד. אין עוד יצוּר שידמה לו. הפער בין יכולות האדם ליכולות של החיות האחרות, גם המפותחות ביותר, הוא עצוּם ואף מוזר בגודלו. הדוגמאות ליכולתו הטכנולוגית רבות מִספור. אזכיר רק דוגמא אחת: יכולת ההשמדה הפנטסטית שהאדם פיתח. פצצת המימן הרוּסית הקרויה צאר בומבה חזקה פי 3300 לערך מפצצת האטום שהוּטלה על הירושימה, וזה עוד לפני שדיברנו על נשק כימי וביולוגי.
 
 אמנם, מאז מלחמת העולם השנייה לא נעשה שימוש בפצצות הנוראות האלה, אבל נשק כימי אכן הופעל. גם האיוּם בנשק גרעיני עדיין מרחף באוויר. מדינה כמו איראן עלולה להשתמש ביכולת גרעינית, אם וכאשר תהיה לה כּזו. נשק להשמדה המונית עלול לזלוג גם לארגוני טרור. אין לנו שום ודאות שזה לא יקרה. האם יכול להיות שהאדם אינו חכם כל-כך?
 
@@ -616,7 +616,7 @@ And we haven't yet talked about Quantum mechanics, which entirely changes what w
 
 במילים אחרות: אפשר לדמות את הקריעה הקוסמית הגדולה להתפוררות המידע עקב כּמותו והַכּזב שבּו. זהו בעצם מצב שאין בו מֵידע. ליתר דיוק - אין בּו מידע שמיש. זהו אוקיינוס אדיר שניתן רק לִטבוע בו. מאידך, אפשר לדמות אֶת ההתכווצות הקוסמית הגדולה למצב שבו המידע מתכווץ, כלומר מתנקה מִתעתוּעֵי האשליות שיש בו ללא הכיל, מוותר על מה שאינו חיוני לקיוּם (על כל היבטיו של הקיום) חותר אל עקרונות-על, נוסחאות-על ואף ערכי ומטרות-על.
 
-זו אינה דת חדשה, כּי איני מכניס את אלוהים לסיפור הזה, וגם לא מצוות או כּוהני דת למיניהם. לא מדובר באמונה ו/או dogmas של אמונה. המידע המכּוּוץ והמזוּקק הזה יכול להשתנות על פי רצונו או רצונם של המחזיקים בּו. זו סינגולריות המידע, אבל במשמעות הפוכה למה שתואר לעיל.
+זו אינה דת חדשה, כּי איני מכניס את אלוהים לסיפור הזה, וגם לא מצוות או כּוהני דת למיניהם. לא מדובר באמונה ו/או דוגמות של אמונה. המידע המכּוּוץ והמזוּקק הזה יכול להשתנות על פי רצונו או רצונם של המחזיקים בּו. זו סינגולריות המידע, אבל במשמעות הפוכה למה שתואר לעיל.
 
 אבל מהוּ הדבר (או התהליך) שיכול לחולל מִפנה כּזה? האם זו יצירת סייבורגים אשר יידעו כיצד לטפֵל בהתפשטות המידע, כּלומר ב- Matrix העצום שאנחנו בּונים סביב עצמנו? - אולי.
 
@@ -662,11 +662,11 @@ In order to reach a shared super-consciousness, must humanity first rid itself o
 And one more word about values. What will be the values of the super-consciousness? Will it be "a God of much grace and truth"? Or alternatively will it turn out to be a monster! Or more precisely: Cosmic Monster.` },
   { num: 25, title_he: "המפלצת הקוסמית", title_en: "Cosmic Monster", date: "2022-09-28", source: "bundle-1", body_he: `"קול ההמון הוא קול האל"
 
-(The voice of the people [is] the voice of God)
+("קוֹל הָעָם הוּא קוֹל הָאֵל")
 
 האם תּודעת עַל משותֶפֶת של האנושוּת תּהיה "אלוהים רב חסד ואמת"? או לחילופין יתברר שהיא המפלצת הקוסמית ? האמת – אין לדעת.
 
-באחד ממאמריי הקודמים תּיארתי את העיקרון השטני של החיים. על בסיס ה- Metabolism החיים מכלים אֶת סביבתם. בּעלי חיים אוכלים וּמשמידים בּעלי חיים אחרים, ואינם יכולים אחרת. מי יכול לערוב לנוּ שתודעת-עַל כּזו לא תיהפך למנגנון רב עוצמה המשמיד את כל החיים האחרים בקוסמוס (אם אכן יש חיים כאלה)? וגם לא צריך ללכת רחוק מדיי – מי יערוב לנו שמנגנון כּזה לא ישמיד את הפרטים החלשים שֶלו (כּלומר, בני אדם מסוימים) כּדי להמשיך ולקיים את הַכּלל.
+באחד ממאמריי הקודמים תּיארתי את העיקרון השטני של החיים. על בסיס החילוף חומרים החיים מכלים אֶת סביבתם. בּעלי חיים אוכלים וּמשמידים בּעלי חיים אחרים, ואינם יכולים אחרת. מי יכול לערוב לנוּ שתודעת-עַל כּזו לא תיהפך למנגנון רב עוצמה המשמיד את כל החיים האחרים בקוסמוס (אם אכן יש חיים כאלה)? וגם לא צריך ללכת רחוק מדיי – מי יערוב לנו שמנגנון כּזה לא ישמיד את הפרטים החלשים שֶלו (כּלומר, בני אדם מסוימים) כּדי להמשיך ולקיים את הַכּלל.
 
 אֵפשר לדמות אֶת תּודעת העל לאינטליגנציית נחיל האופיינית לסופר-אורגניזם מסוג של  .מושבת נמלים לדעתי הַדּימוי אינו מספיק טוב. הגם שמעולם לא "נכנסתי" לראש של נמלה, יש לשער שהנמלה הַבּודדת אינה מוּדעת למצב הַכּללי של המערכת וּלמטרותיה. בּניגוד לכך, תּודעת עַל אנושית משמעה זהוּת בין תּודעת הַפּרט לתודעת הַכּלל.
 
@@ -676,7 +676,7 @@ And one more word about values. What will be the values of the super-consciousne
 
 נראה לי שנצטרך להסתגל למצב זה של אי ודאות, וּבמקביל לנסות לאחֵד כּוחות בּינינו ולהתקדם בּמישורים המדעיים כּכל יכולתנוּ. תּודעת עַל משותֶפֶת היא תודעת ההמון. אולי באמת "קול ההמון הוא קול האל". הרי ברור שתודעה כּזו משמעה שוויון ואחדות בין בּני אדם, וגם בּיטוי לעיקרון הדמוקרטי, וזה הרי "טוב" ו"צודק".
 
-הוגה הביטוי לעיל (The voice of the people [is] the voice of God) היה מלומד בשם Alcuin. באגרת ששלח המלומד אל Charles the Great בשנת 798 הוא דווקא התנגד לחוכמת ההמונים הזו וטען שהתפרעות ההמון גובלת תמיד בּטירוף הדעת! הַדּבר מוביל אותי לתופעה המונית, מסלידה במיוחד, שאני רוצה להתייחס אליה בּאחד ממאמריי הַבּאים. קוראים לה לינץ'.`, body_en: `Vox populi, vox Dei
+הוגה הביטוי לעיל ("קוֹל הָעָם הוּא קוֹל הָאֵל") היה מלומד בשם אלקווין. באגרת ששלח המלומד אל קרל הגדול (שרלמן) בשנת 798 הוא דווקא התנגד לחוכמת ההמונים הזו וטען שהתפרעות ההמון גובלת תמיד בּטירוף הדעת! הַדּבר מוביל אותי לתופעה המונית, מסלידה במיוחד, שאני רוצה להתייחס אליה בּאחד ממאמריי הַבּאים. קוראים לה לינץ'.`, body_en: `Vox populi, vox Dei
 (The voice of the people [is] the voice of God)
 
 Will a shared super-consciousness of humanity be "a God of much grace and truth"? Or alternatively will it turn out to be a Cosmic Monster? The truth — one cannot know.
@@ -1028,7 +1028,7 @@ It is hard not to recall the words of Samuel to Saul (1 Samuel 28:15): "Why have
 
 דוגמאות רבות ומגוונות יש, אם-כן, ל astral travel הזה, שמשמעו: מסע אל הממד הלא-פיזי של הקיום האנושי, מסע רוחני, לכאורה אל מעל ומעבר למערכת העצבית המרכזית והפעילות הביו-כימית-חשמלית במוח האדם. האמנם? או שמא אין לפנינו אלא עדות לכוח דמיונו היוצא מן הכלל של האדם. האם לפנינו תודעה טהורה, ערטילאית, נטולת כל יסוד חומרי או אך ורק ביטוי למשאלות האדם ופחדיו מפני הכיליון המוחלט הצפוי לו?
 
-אכן כיליון מוחלט. הרי בהיעדר אמונה בהישארות הנפש, בגן העדן, בגלגול נשמות, בממדים עליונים של המציאות וכדומה, מה יישאר בידו של האדם? תישאר ההבנה המרה שאחרי סיום חייו אין הוא קיים עוד. הוא לא מרגיש, לא יודע, לא חושב ולא זוכר, בדיוק כפי שזה היה לפני הולדתו. זהו מצב של nonexistence שבו אין מודעות ואין תודעה. האם אפשר בכלל לסבול מחשבה כזו של התאיינות מוחלטת? הרי עדיף מכל בחינה להמציא מיתוס כלשהו אשר ישמר את החיים לאחר מות הגוף. בלי המיתוסים הללו איזו משמעות יש לחיינו כאן? לפיכך, המיתוסים הרבים כל-כך הינם מנגנון הגנה אדיר ממדים – הגנה מפני פחד המוות ומפני היעדר משמעות. המנגנון מכיל תיאורים מגוונים ורבים מספור, המפותחים לכלל תיאוריות שלמות, מושגים דתיים ואמונות עמוקות, אבל בשורה התחתונה אין הוא אלא המצאה נהדרת ומוצלחת מאוד של המין האנושי. ככל הנראה – רק של המין האנושי.
+אכן כיליון מוחלט. הרי בהיעדר אמונה בהישארות הנפש, בגן העדן, בגלגול נשמות, בממדים עליונים של המציאות וכדומה, מה יישאר בידו של האדם? תישאר ההבנה המרה שאחרי סיום חייו אין הוא קיים עוד. הוא לא מרגיש, לא יודע, לא חושב ולא זוכר, בדיוק כפי שזה היה לפני הולדתו. זהו מצב של אי-קיום שבו אין מודעות ואין תודעה. האם אפשר בכלל לסבול מחשבה כזו של התאיינות מוחלטת? הרי עדיף מכל בחינה להמציא מיתוס כלשהו אשר ישמר את החיים לאחר מות הגוף. בלי המיתוסים הללו איזו משמעות יש לחיינו כאן? לפיכך, המיתוסים הרבים כל-כך הינם מנגנון הגנה אדיר ממדים – הגנה מפני פחד המוות ומפני היעדר משמעות. המנגנון מכיל תיאורים מגוונים ורבים מספור, המפותחים לכלל תיאוריות שלמות, מושגים דתיים ואמונות עמוקות, אבל בשורה התחתונה אין הוא אלא המצאה נהדרת ומוצלחת מאוד של המין האנושי. ככל הנראה – רק של המין האנושי.
 
 ספר קהלת אומר (9-5): ""כִּי הַחַיִּים יוֹדְעִים שֶׁיָּמֻתוּ, וְהַמֵּתִים אֵינָם יוֹדְעִים מְאוּמָה... כִּי נִשְׁכַּח זִכְרָם"".
 
@@ -1055,7 +1055,7 @@ Here even the wisest of all men (Ecclesiastes) testifies to the fact that there 
 
 כידוע, יש בינינו אנשי דת היודעים כל דבר כביכול. הם יודעים הכול על החיים שלאחר המוות. הכול על גן העדן, על הגיהינום, על סדרי גן העדן והגהינום, על יושבי המקומות האלה, על המלאכים ועל השדים, על האלוהים עצמו ויחסיו עם הבאים בשעריו... מה לא? אכן עדות יוצאת מגדר הרגיל לכוח דמיונם היוצר ולפטפטנותם של אנשי הדת האלה. בעיניי, מדובר באמצעי שליטה בהמונים בלבד, ואין לסיפורי הסבתא אלה כל שחר (בכפוף לספק קלוש שבקלושים, שתמיד קיים).
 
-ואחרי שאמרנו את כל הדברים הללו – יש שאלה אחת שמזדקרת ואף מפריעה למנוחתנו. נניח לרגע שאין חיים כלשהם אחרי המוות. נניח שהמוות הוא סופי ומוחלט במובן של Nonexistence – מה אז משמעות החיים? האם ניתן אז למצוא משמעות כלשהי בחיינו?`, body_en: `NDE and Also OBE (4)
+ואחרי שאמרנו את כל הדברים הללו – יש שאלה אחת שמזדקרת ואף מפריעה למנוחתנו. נניח לרגע שאין חיים כלשהם אחרי המוות. נניח שהמוות הוא סופי ומוחלט במובן של אי-קיום – מה אז משמעות החיים? האם ניתן אז למצוא משמעות כלשהי בחיינו?`, body_en: `NDE and Also OBE (4)
 
 No! We are not supposed to abandon all our beliefs about the existence of spiritual worlds above and beyond the tangible and immediate world in which we live. Is it conceivable to abandon all our mystical-spiritual experiences only because they have no 'scientific proof'? Is this ocean of feelings about the existence of a world that is 'above and beyond' null and void in the face of the absence of 'scientific' evidence? After all, we already said at the beginning of this journey that the absence of evidence does not constitute proof for any argument, and we have nothing before us but an 'argument from ignorance.' An argument that stems from a lack of imagination (argumentum ad ignorantiam).
 
@@ -1070,15 +1070,15 @@ And of course one must draw attention to the fact that David Shahar spoke of "to
 As is known, among us there are religious people who know everything, supposedly. They know everything about life after death. Everything about heaven, about hell, about the arrangements of heaven and hell, about those who dwell in these places, about the angels and about the demons, about God himself and his relations with those who come to his gates... What not? Indeed an extraordinary testimony to the creative power of imagination and to the chattiness of these religious people. In my eyes, this is a means of controlling the masses, and these grandmother's tales have no basis (subject to the most negligible doubt, which always exists).
 
 And after we have said all these things — there is one question that stands out and even disturbs our rest. Let us assume for a moment that there is no life of any kind after death. Let us assume that death is final and absolute in the sense of Nonexistence — what then is the meaning of life? Can any meaning be found in our lives?` },
-  { num: 41, title_he: "שני אלוהים", title_en: "Two Gods", date: "2025-05-27", source: "bundle-2", body_he: `לפני שנדון במשמעות החיים במצב של Nonexistence לאחר החיים, נחזור לרגע אל אנשי הדת, יודעי הכול, המפרטים באוזנינו מה בדיוק קורה לנשמותינו בעולם הבא.
+  { num: 41, title_he: "שני אלוהים", title_en: "Two Gods", date: "2025-05-27", source: "bundle-2", body_he: `לפני שנדון במשמעות החיים במצב של אי-קיום לאחר החיים, נחזור לרגע אל אנשי הדת, יודעי הכול, המפרטים באוזנינו מה בדיוק קורה לנשמותינו בעולם הבא.
 
 רמת הפירוט היא פנטסטית ממש. דומה הדבר כאילו האלוהים בכבודו ובעצמו נגלה אליהם מדי יום ומכתיב להם בדקדקנות אובססיבית מהם הסדרים בעולמות העליונים. גן העדן למשל - ביהדות יש פירוט עשיר ביותר לגבי אופן כניסתם של הצדיקים לגן, דרך קבלתם על ידי המלאכים, מספר המלאכים, שמותיהם, אופן הלבשת הצדיקים ובאיזה בגדים וקישוטים, אופן הושבתם במדורים השונים, סוגי המחיצות בין המדורים, אופני הפעילות שלהם ועם מי, ועוד-ועוד-ועוד. תקצר הידיעה מלפרט. וכמו גן העדן כך הגהינום – פירוט בלתי נתפס של סוגי האש ומספרם, אופן תליית הרשעים ובאיזה איברים הם נתלים, הגחלים, התולעים שאוכלות את הבשר, החול הדק שנדחף לפה... מה לא?
 
 הנביא ספר ירמיהו אומר (2:5) כי דבר האלוהים הוא:
 
-"What fault did your ancestors find in me, that they strayed so far from me?
+""מַה-מָּצְאוּ אֲבוֹתֵיכֶם בִּי עָוֶל, כִּי רָחֲקוּ מֵעָלָי?"
 
-They followed worthless idols and became worthless themselves."
+"וַיֵּלְכוּ אַחֲרֵי הַהֶבֶל וַיֶּהְבָּלוּ" themselves."
 
 במילים אחרות: אין מדובר אלא בהבלים (בעברית: "וילכו אחר ההבל ויהבלו"). מה רב המרחק בין הפלא של דויד שחר לבין פטפטנות ההבלים של חכמי הדת למיניהם. מן הצד האחד משמעות חידתית ועילאית ומן הצד השני תלי תילים של תיאורים מפורטים וחסרי שחר. מצד אחד 'חוסר ידיעה' ומן הצד השני 'ידיעת כל' כביכול.
 
@@ -1305,7 +1305,7 @@ So what am I in fact saying? I am saying that there is doubt as to the worthwhil
 
 אולי יש דמיון-מה בין הצעתו של קאמי למרוד במצב האבסורדי שהאדם נתון בו ביחס לעולם לבין הצעתי להמשיך ולחיות בעולם כפי שהוא גם בהיעדר ידיעה של משמעות נצחית, אבל קיים הבדל. אני ממליץ לוותר על הקונוטציה הלעומתית שיש בעמדת המרד. במקום להיאבק (גם זה סיזיפוס) אני מציע התפייסות.
 
-ויש גם לזכור שהמשמעות שלנו (המוגבלת והזמנית) מעניקה לנו יכולת לקיים את מה שאנחנו מאוד חפצים בו – להמשיך ולחיות. לעניין זה ראוי להיזכר במשפט האלמותי ש-Viktor Frankl מצטט בספרו Man's Search for Meaning (במקור נאמר על-ידי Nietzsche): "He who has a 'why' to live for can bear almost any 'how'."`, body_en: `Meaning for Me (3)
+ויש גם לזכור שהמשמעות שלנו (המוגבלת והזמנית) מעניקה לנו יכולת לקיים את מה שאנחנו מאוד חפצים בו – להמשיך ולחיות. לעניין זה ראוי להיזכר במשפט האלמותי ש-ויקטור פרנקל מצטט בספרו "האדם מחפש משמעות" (במקור נאמר על-ידי ניטשה): ""מי שיש לו 'למה' לחיות בשבילו יכול לשאת כמעט כל 'איך'""`, body_en: `Meaning for Me (3)
 
 Well, where does this discussion lead us? If the end of life or its eternity (which does not exist) are not relevant to the matter of meaning, then whither do we go? Does the pursuit of meaning not place us in fact in the position of Sisyphus, who upon reaching the top of the hill is forced to watch the stone rolling back? And so too with us. Whenever it seems to us that we have touched the tip of the tail of some meaning, it immediately flees from us, and we return backwards to the starting point.
 
@@ -1429,7 +1429,7 @@ It should be noted that the experience of wonder in the infant is made possible 
 This protection of the parents — especially the mother in the first stages of life — also constitutes a kind of Noah's Ark. The three-year-old child who runs and explores the wonders of the world dares to behave so because his mother is in the nearby environment. Whenever he is alarmed by something, he can run back to safe shore, hug his mother's leg, or gather himself into her arms, until his mind is at ease and he goes out again on his journeys in the world. In time these will be the sheltering and protective arms of his beloved, and so too his own arms embracing her back. Love — it too is a Noah's Ark.` },
   { num: 56, title_he: "תיבת נוח (ד')", title_en: "Noah's Ark (D)", date: "2025-07-23", source: "bundle-2", body_he: `בפנותו אל ירושלים, אמר ישוע ((מתי כג, לז)):
 
-How often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.
+How often I have longed to gather your children together, as a hen gathers her chicks under her wings, "וְלֹא רְצִיתֶם".
 
 זהו ישוע המציע את עצמו כתיבת נוח עבור מי שמוכן להאמין בו, ולימים הייתה זו הכנסייה שהציעה למאמיניה מחסה פיזי, רגשי ורוחני.
 
@@ -1465,7 +1465,7 @@ The Church offered membership in a protective community, within which the path i
 
 "חכה!" יזהירו אותי ידידיי הרציונליסטים, "האהבה, כרגש, שייכת לאזור עמוק יותר במוח, כלומר ל- limbic system. האזור הזה פשוט טרם נפגע. גם את האהבה עוד תראה מעופפת לה דרך החלון ונעלמת..."
 
-אכן, אני יודע שמחשבותיי הללו אינן מחשבות מדעיות. חשיבה מדעית תוביל למסקנה לפיה אחרי מות הגוף, נמצא האדם (שגופו מת) במצב של Nonexistence. המחשבה על הישארות של ממד נפשי כלשהו לאחר המוות הינה אמונה ותו לא. אני יודע כל זאת, מאחר שזו החשיבה שלי עצמי. ויחד עם זאת, מאחר שאיני הופך את המדע לכלי אשר אין בלתו בידיעת העולם, אני מרשה לעצמי להרהר על אודות האהבה בתור היסוד הנצחי של הקוסמוס. אני איני מאמין בזה. אני פשוט חושב על כך כאפשרות. האהבה מכוונת אל הזולת. אם יש יסוד בנפש האדם, אשר מטבעו עשוי לחבור אל יסודות זהים בנפשותיהם של אחרים, ובכך להקים אוקיינוס עצום של יסודות אלה, כמו טיפות זהות בים עצום, הרי זה יסוד האהבה.`, body_en: `LOVE (1)
+אכן, אני יודע שמחשבותיי הללו אינן מחשבות מדעיות. חשיבה מדעית תוביל למסקנה לפיה אחרי מות הגוף, נמצא האדם (שגופו מת) במצב של אי-קיום. המחשבה על הישארות של ממד נפשי כלשהו לאחר המוות הינה אמונה ותו לא. אני יודע כל זאת, מאחר שזו החשיבה שלי עצמי. ויחד עם זאת, מאחר שאיני הופך את המדע לכלי אשר אין בלתו בידיעת העולם, אני מרשה לעצמי להרהר על אודות האהבה בתור היסוד הנצחי של הקוסמוס. אני איני מאמין בזה. אני פשוט חושב על כך כאפשרות. האהבה מכוונת אל הזולת. אם יש יסוד בנפש האדם, אשר מטבעו עשוי לחבור אל יסודות זהים בנפשותיהם של אחרים, ובכך להקים אוקיינוס עצום של יסודות אלה, כמו טיפות זהות בים עצום, הרי זה יסוד האהבה.`, body_en: `LOVE (1)
 
 Love reaches us from several places in our discussion — from Noah's Ark, for example, and from Alzheimer's, as I described a few essays ago. Love is the foundation of the world and it is the force that acts and moves the world.
 
@@ -1521,7 +1521,7 @@ Let us assume, in summary, that the experience of connection in love opens for u
 
 לימים, ישמש האיחוד הבראשיתי כהצדקה לחיוב הדתי של הנצחת האיחוד. לצורך כך אצטט את הדברים במלואם מתוך הבשורה על-פי מתי ב-הברית החדשה of the התנ"ך :
 
- "Haven't you read," he replied, "that at the beginning the Creator 'made them male and female, and said, 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh?  So, they are no longer two, but one flesh. Therefore, what God has joined together, let no one separate." ((מתי יט, ד-ו)).
+ ""הַאִם לֹא קְרָאתֶם"," הֵשִיב, ""כִּי הַבּוֹרֵא בָּרֵאשִׁית עָשָׂה אוֹתָם זָכָר וּנְקֵבָה, וְאָמַר: עַל-כֵּן יַעֲזֹב אִישׁ אֶת-אָבִיו" mother and be united to his wife, and the two will become one flesh?  "אֵינָם עוֹד שְׁנַיִם אֶלָּא בָּשָׂר אֶחָד. עַל-כֵּן, אֵת אֲשֶׁר חִבֵּר הָאֱלֹהִים, אַל יַפְרִיד אָדָם"" ((מתי יט, ד-ו)).
 
 ההכרח הזה לשוב ולהתאחד מלווה אותנו מראשית התהוותנו כציוויליזציה. ההכרח מתקיים כדחף ביולוגי וכמשאלה נפשית ורוחנית. עם מימוש הדחף הזה והתקיימות המשאלה, אנחנו מוצפים באושר (כל עוד עולם החומר לא מתגנב לו דרך החלון כדי להעיב על אושרנו). מה משמעות 'הכרח האהבה'? האמנם האהבה היא ה'מנוע' המניע את העולם, והיא המעניקה לו את משמעותו?`, body_en: `LOVE (3)
 
@@ -1579,7 +1579,7 @@ A charming literary expression of this idea was given by the French writer Guy D
 
 איני שוכח, כמובן, את הזוועות של המסעי הצלב , האינקוויזיציה, עלילות דם ושריפה על המוקד – כל אלה מבית היוצר או בחסות הנצרות. אבל לצד אכזריות היסטורית זו, אין להתעלם מגילויי האהבה והחסד. בהדרשה על ההר – נאום מהפכני ויוצא מגדר הרגיל בדורו – זרע ישו את הזרע לכל גילויי האהבה הללו.
 
-ומה בנוגע להאסלאם ? כיצד באה לידי ביטוי האהבה בעקרונות היסוד שלו? כאן, לצערי, עליי להודות שאיני מתמצא מספיק כדי לפסוק. אני שומע על ג'יהאד ועל Shahids וכמובן על מלחמות הדמים של Muhammad. דמותו של ישו מצטיירת בעיניי כאנטי-תזה לדמותו הלוחמנית של מוחמד. אבל, כאמור, איני יודע מספיק, ואשמח אם מישהו יאיר את עיניי. עד כמה ואיפה מודגש נושא האהבה בקוראן?`, body_en: `Abrahamic Religions and Love
+ומה בנוגע להאסלאם ? כיצד באה לידי ביטוי האהבה בעקרונות היסוד שלו? כאן, לצערי, עליי להודות שאיני מתמצא מספיק כדי לפסוק. אני שומע על ג'יהאד ועל Shahids וכמובן על מלחמות הדמים של מוחמד. דמותו של ישו מצטיירת בעיניי כאנטי-תזה לדמותו הלוחמנית של מוחמד. אבל, כאמור, איני יודע מספיק, ואשמח אם מישהו יאיר את עיניי. עד כמה ואיפה מודגש נושא האהבה בקוראן?`, body_en: `Abrahamic Religions and Love
 
 What is the position of the Abrahamic Religions regarding love? I mean the three great monotheistic religions: Judaism, Christianity, Islam.
 
@@ -1598,11 +1598,11 @@ And what about Islam? How is love expressed in its foundational principles? Here
 
 הוא, כמובן, אל טוב, חסיד ואוהב, כפי שנאמר (((שמות לד, ו):
 
-And he passed in front of משה, proclaiming, "The אדוני, the אדוני, the compassionate and gracious God, slow to anger, abounding in love and faithfulness"
+"וַיַּעֲבֹר יְהוָה עַל-פָּנָיו וַיִּקְרָא", "The אדוני, the אדוני, "רַחוּם וְחַנּוּן" "וְחַנּוּן, אֶרֶךְ אַפַּיִם", abounding in love and faithfulness"
 
 מצד שני, וכפי שמתואר, זהו אל כעסן, נקמן, קנאי, לא רציונלי, קפריזי, לא יציב בעמדותיו, ובעל החלטות מרושעות (בהשוואה להשקפתנו כיום). הוא אף מעיד כך לגבי עצמו ((שמות כ, ה)):
 
-For I, the אדוני your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me.
+"כִּי אָנֹכִי" אדוני "אֱלֹהֶיךָ אֵל קַנָּא", "פֹּקֵד עֲוֹן אָבֹת עַל-בָּנִים" "עַל-שִׁלֵּשִׁים וְעַל-רִבֵּעִים" "לְשֹׂנְאָי"
 
 עד כדי כך מרושע, שהיו כאלה בהיסטוריה אשר האמינו בכך שהוא השטן. מדובר בגנוסטיקה מראשית היווצרות הנצרות. אלה כתות אשר האמינו בשני אלים: יהוה אשר ברא את העולם ועוד אל אחד, מרוחק וטוב במהותו, שניתן להגיע אליו באמצעות ידע הנוגע לדרך ההגעה. אחד ההוגים הבולטים בכתות אלה היה מרקיון.
 
@@ -1632,7 +1632,7 @@ And then came Jesus and created a kind of reversal of the trend: this is a God w
 Surely, he took up our pain and bore our suffering, yet we considered him punished by God, stricken by him, and afflicted.
 
 I hold that the belief in Jesus as a God who experienced human suffering is one of the factors that turned him into a close God in the consciousness of the believers. This is a God who Himself tasted the taste of torments. Therefore, He in particular may show compassion toward His believers, who struggle with their small worries and torment themselves within their human and unconsidered suffering. After all, a creator who has himself experienced severe distress may show empathy for the difficulties of his creatures.` },
-  { num: 63, title_he: "קופים וחזירים", title_en: "Apes and Pigs", date: "2025-09-08", source: "bundle-2", body_he: `"It is those who earned של אללה condemnation and displeasure—some being reduced to apes and pigs and worshippers of false gods." (הקוראן - (סורה ה, פסוק 60))
+  { num: 63, title_he: "קופים וחזירים", title_en: "Apes and Pigs", date: "2025-09-08", source: "bundle-2", body_he: `""אלה אשר זכו לגינוי אללה ולכעסו"—some being reduced to apes and pigs and worshippers of false gods." ((הקוראן — סורה 5, פסוק 60))
 
 כתבתי שאני לא מתמצא מספיק ב-האסלאם , אבל אני מוצא צורך לעצמי לציין תופעות מסוימות, ובעיקר לשאול שאלות.
 
@@ -1695,9 +1695,9 @@ In the Quran itself, the book of books of Islam, there are many verses encouragi
 I know that upon reading what I have written, Islamic religious scholars will claim that one cannot content oneself with these verses in themselves, that the words were taken out of context, that they are not to be interpreted literally, and especially that the verses should be read only in Arabic. The last claim is based on the belief that the Quran was given by Allah to Muhammad, and therefore this is a perfect divine book, written in pure Arabic. From this it follows that such a book is not to be translated, since any translation may distort its meaning.
 
 The last claim is refutable in my eyes. Although there are obscure passages in the Quran, there are countless worthy and precise translations into other languages. Some of the translations have even been made by Muslim religious scholars, and they are called Tafsir (meaning of the Quran), in order to emphasize that this is not the Quran itself. But we reach an identical result with respect to the understanding of the verses, and the understanding is clear: we have before us operating instructions for how to behave with various kinds of infidels.` },
-  { num: 65, title_he: "הוראות הפעלה", title_en: "Operating Instructions", date: "2025-10-06", source: "bundle-2", body_he: `ובכן, אפשר למצוא ב-הקוראן הוראות הפעלה כיצד יש לטבוח בכופרים למיניהם. אמנם ניתן למצוא בקוראן פסוקים המבטאים סובלנות, כמו פסוק 256 בסורה 2 (""אין כפייה בדת"" - סורת אל-בקרה ) אבל אי אפשר ולא נכון להתכחש לפסוקים הרבים המדברים בשבח הג'יהאד ובהנחיות כיצד לבצעו (באופן האלים ביותר). איזו משמעות נוספת עשויה למשל להיות לפסוק 5 בסורה 9 :(The חרב Verse)
+  { num: 65, title_he: "הוראות הפעלה", title_en: "Operating Instructions", date: "2025-10-06", source: "bundle-2", body_he: `ובכן, אפשר למצוא ב-הקוראן הוראות הפעלה כיצד יש לטבוח בכופרים למיניהם. אמנם ניתן למצוא בקוראן פסוקים המבטאים סובלנות, כמו פסוק 256 בסורה 2 (""אין כפייה בדת"" - סורת אל-בקרה ) אבל אי אפשר ולא נכון להתכחש לפסוקים הרבים המדברים בשבח הג'יהאד ובהנחיות כיצד לבצעו (באופן האלים ביותר). איזו משמעות נוספת עשויה למשל להיות לפסוק 5 בסורה 9 :(The "פסוק החרב")
 
-"Kill the polytheists who violated their treaties wherever you find them, capture them, besiege them, and lie in wait for them on every way"
+""הִרְגוּ אֶת הַפּוֹלִיתֵאִיסְטִים שֶׁהֵפֵרוּ אֶת בְּרִיתָם בְּכָל מָקוֹם שֶׁתִּמְצְאוּם", "לִכְדוּ אוֹתָם, צוּרוּ עֲלֵיהֶם, וְאִרְבוּ לָהֶם בְּכָל דָּרֶךְ""
 
 האם אפשר למצוא נחמה בהחדית', כלומר באוסף של המסורות המתייחסות להלכות, לסיפורים, לעצות ולהצהרות של הנביא? מסורות אלה כלולות בהסונה שהינה 'התורה שבעל-פה' של האסלאם, המהווה פרשנות להקוראן, ויש בה גם את הביוגרפיה של מוחמד.
 
@@ -1875,7 +1875,7 @@ In fact, we are observing two religions: on one hand the religion of the Politic
 The enormous Muslim public in the capitals of Europe is like a golem rising up against its creator. In England, the cradle of democratic culture, there are today many Muslim mayors, there are thousands of mosques, and there are hundreds of Shariah councils (courts). Schools in Britain are required to teach lessons about Islam. I personally, in my visit to England then, became aware that half of the television channels at the hotel where I stayed were in Arabic.
 
 Will this process of willing erasure (and paralysis of mind) continue? Or will the Western world, satiated, decadent, spoiled and tired, wake up at some point? And if it wakes up — what and who will wake it?` },
-  { num: 71, title_he: "תרדמת עמוקה", title_en: "Deep Coma", date: "2025-10-27", source: "bundle-2", body_he: `האם העולם המערבי יתעורר מתישהו? כרגע נראה שעולם מנוון זה שקוע ב- Deep Coma. הזיות על דו-קיום וקבלת האחר מציפים את התודעה המנומנמת, שלא לומר ישנה, של חסידי הרב-תרבותיות. אבל העולם המוסלמי, המתעורר, השואג, אינו מעונין בדו-קיום דמוקרטי. הוא מעונין וחותר לעולם חד-גווני, שבו שולט אך ורק האסלאם.
+  { num: 71, title_he: "תרדמת עמוקה", title_en: "Deep Coma", date: "2025-10-27", source: "bundle-2", body_he: `האם העולם המערבי יתעורר מתישהו? כרגע נראה שעולם מנוון זה שקוע בתרדמת עמוקה. הזיות על דו-קיום וקבלת האחר מציפים את התודעה המנומנמת, שלא לומר ישנה, של חסידי הרב-תרבותיות. אבל העולם המוסלמי, המתעורר, השואג, אינו מעונין בדו-קיום דמוקרטי. הוא מעונין וחותר לעולם חד-גווני, שבו שולט אך ורק האסלאם.
 
 בנוסף, כפי שכתבתי, מבנה השלטון הדמוקרטי מוביל בהכרח לשיתוף פעולה ו'הליכה לקראת' המיעוט המוסלמי הצעקני. תהליכים אלה נמצאים בעיצומם, ולפיכך השאלה שצריכה להישאל היא: האם לא מאוחר מדיי? האם עברנו כבר את הנקודת האל-חזור? ככל שמדובר באירופה – נראה שכך המצב.
 
@@ -1898,19 +1898,19 @@ We are witnesses to the rise of movements and parties that come out against immi
 Will salvation grow for us from the Christian-religious world? I do not refer at all to the Jewish-religious world, since it is very tiny. There are in the world about 2.4 billion Christians, about 1.9 billion Muslims and about 15.8 million Jews. The most numerous in the world are Christians, but apparently they are sleeping a very deep sleep. It seems that the Christians have spent all their strength in the wars they conducted in the past against the Muslims and among themselves. After the Crusades, the 30 Years' War (between Protestants and Catholics), the 100 Years' War (between England and France), the wars against the Ottoman Empire, and the World Wars (the First and Second) — after all these and additional wars, the Christians tired and the entire European continent tired. "That's enough for us," they all say, "we have arrived at the era of peace after the wars. What have we to do with additional wars against Islam?"
 
 Have we really arrived at the era of peace? Before the astonished eyes of decadent and sinking Europe (and in fact the eyes of the entire world), Putin did the unbelievable and invaded Ukraine on February 24, 2022. The era of wars has not ended, unfortunately. We still live in a violent and forceful world. Islam has awakened, and its strength is in its loins. Behold it rises from the east like a spreading shadow, great and threatening. In such a world, one must stand on guard and open one's eyes. One must of course preserve power and use it when necessary. Otherwise — you will disappear from the map.` },
-  { num: 72, title_he: "מץ יגרן", title_en: "Mets Yeghern", date: "2025-10-28", source: "bundle-2", body_he: `(The Armenian השואה)
+  { num: 72, title_he: "מץ יגרן", title_en: "Mets Yeghern", date: "2025-10-28", source: "bundle-2", body_he: `(השואה הארמנית)
 
 לפני שנמשיך במסענו, אני חש חובה להתעכב ולהתייחס מעט למה שמכונה בשפה הארמנית מץ יגרן, כלומר "הפשע הגדול", והכוונה היא כמובן לשואת העם הארמני שבוצעה בידי הטורקים במהלך מלחמת העולם הראשונה.
 
-זה היה טבח נורא מאין כמוהו שבוצע לרוב על-ידי מוסלמים כלפי נוצרים אפוסטולים. לביצועו היו קשורים גם גופים רשמיים של האימפריה העות'מאנית, כמו המשטרה וה- ch'ett'e (ארגון סמי-צבאי שהוקם על ידי משרד הפנים ומשרד המשפטים).
+זה היה טבח נורא מאין כמוהו שבוצע לרוב על-ידי מוסלמים כלפי נוצרים אפוסטולים. לביצועו היו קשורים גם גופים רשמיים של האימפריה העות'מאנית, כמו המשטרה והק'ת'ה (ארגון סמי-צבאי) (ארגון סמי-צבאי שהוקם על ידי משרד הפנים ומשרד המשפטים).
 
-במהלך הטבח נרצחו כמיליון עד מיליון וחצי גברים, נשים וילדים. מדובר במחצית מן העם הארמני בתוך גבולות טורקיה ובשליש מתוך העם כולו (בדומה לפרופורציות של שואת העם היהודי). השיטה המרכזית הייתה death marches בכיוון המדבר הסורי, ברעב ובצמא, בכוונה להביא למותם של הצועדים בדרך. אלה ששרדו שוכנו במחנות ריכוז, כדי להמיתם שם. שיטות נוספות היו "כרגיל": ירי, הטבעה, עריפה, שריפה, ועוד-ועוד אמצעים מזוויעים, כיד הדמיון הטובה על הרוצחים. נוספו לכך, כמובן, מעשי אונס, התעללות ושעבוד. על הדרך נטבחו גם קהילות נוצריות נוספות, כמו האשורים והיוונים הפונטים. לרצח ההמוני גויסו גם כורדים, אזרים, ועוד. הגל השטני הזה שכך רק כ-4 שנים לאחר סיום המלחמה.
+במהלך הטבח נרצחו כמיליון עד מיליון וחצי גברים, נשים וילדים. מדובר במחצית מן העם הארמני בתוך גבולות טורקיה ובשליש מתוך העם כולו (בדומה לפרופורציות של שואת העם היהודי). השיטה המרכזית הייתה מצעדי המוות בכיוון המדבר הסורי, ברעב ובצמא, בכוונה להביא למותם של הצועדים בדרך. אלה ששרדו שוכנו במחנות ריכוז, כדי להמיתם שם. שיטות נוספות היו "כרגיל": ירי, הטבעה, עריפה, שריפה, ועוד-ועוד אמצעים מזוויעים, כיד הדמיון הטובה על הרוצחים. נוספו לכך, כמובן, מעשי אונס, התעללות ושעבוד. על הדרך נטבחו גם קהילות נוצריות נוספות, כמו האשורים והיוונים הפונטים. לרצח ההמוני גויסו גם כורדים, אזרים, ועוד. הגל השטני הזה שכך רק כ-4 שנים לאחר סיום המלחמה.
 
-אפשר למלא כרכים שלמים בעדויות על מעשי הזוועה. כאן אסתפק בעדותו של איתן בלקינד, איש המחתרת Nili, אשר שימש כקצין בצבא הטורקי. הציטוט שלהלן הינו חלקי:
+אפשר למלא כרכים שלמים בעדויות על מעשי הזוועה. כאן אסתפק בעדותו של איתן בלקינד, איש המחתרת ניל"י, אשר שימש כקצין בצבא הטורקי. הציטוט שלהלן הינו חלקי:
 
 "החיילים הצ'רקסיים ציוו על הארמנים לאסוף קוצים ודרדרים, ולעורמם בפירמידה גבוהה; אחר קשרו את כל הארמנים שהיו שם, קרוב לחמשת אלפים נפש, יד אל יד; הקיפו בהם, כמו בטבעת, את ערמת הקוצים והדרדרים - והדליקו בה אש, שעלתה לשמים יחד עם צרחות האומללים, אשר נחרכו למוות באש המדורה." (כך זה היה – סיפורו של איש ניל"י, משרד הביטחון-הוצאה לאור,1977, תשל"ח, טבח הארמנים, עמ' 118-116).
 
-טבח הארמנים היה שיאה של התנכלות ממושכת כלפי הארמנים במהלך של שנים רבות. הם היו אזרחים מושפלים מסוג ב' בהתאם לחוקי הד'ימי הנהוגים בארצות מוסלמיות ותשלומי הג'יזיה (מס הגולגולת). בטורקית הם כונו בשם הגנאי gâvur שמשמעו "כופר". כפי שתיאר הארכאולוג William Ramsay, לאחר ביקורו באימפריה העות'מאנית בסוף שנות ה-90 של המאה ה-19, הארמנים היו הכלבים והחזירים של הטורקים. הם היו המחצלות שעליהן ניגבו הטורקים את נעליהם. שום דבר לא היה שייך לארמני – לא רכושו, לא ביתו, לא גופו ולא חייו. (Impressions of Turkey during Twelve Years' Wanderings-1897).
+טבח הארמנים היה שיאה של התנכלות ממושכת כלפי הארמנים במהלך של שנים רבות. הם היו אזרחים מושפלים מסוג ב' בהתאם לחוקי הד'ימי הנהוגים בארצות מוסלמיות ותשלומי הג'יזיה (מס הגולגולת). בטורקית הם כונו בשם הגנאי גאוור שמשמעו "כופר". כפי שתיאר הארכאולוג ויליאם רמזי, לאחר ביקורו באימפריה העות'מאנית בסוף שנות ה-90 של המאה ה-19, הארמנים היו הכלבים והחזירים של הטורקים. הם היו המחצלות שעליהן ניגבו הטורקים את נעליהם. שום דבר לא היה שייך לארמני – לא רכושו, לא ביתו, לא גופו ולא חייו. ("רשמים מטורקיה במהלך 12 שנות נדודים"-1897).
 
 טבח הארמנים הינו דוגמא מזעזעת לרצח המוני שבוצע באוכלוסייה נוצרית על ידי מוסלמים, אבל ההגינות מחייבת לשאול האם אין אנו מוצאים בהיסטוריה אירועים של טבח מוסלמים בידי נוצרים. האמנם מאז ומעולם היו הנוצרים עדינים ואנושיים ביחסם אל המוסלמים?`, body_en: `Mets Yeghern
 (The Armenian Holocaust)
@@ -1936,11 +1936,11 @@ The Armenian massacre is a shocking example of mass murder perpetrated against a
 
 ביחס ליהודים היו הנוצרים עדינים הרבה פחות. היהודים חיו בקרב הנוצרים, ועובדה זו הייתה להם לרועץ. די אם נזכיר את הגירושים הגדולים, כמו הגירוש ספרד ב-1492. מעניין לציין שגם באירוע זה היה גורלם של המוסלמים דומה לזה של היהודים. בשנת 1502 הורתה ממלכת קסטיליה על גירוש המוסלמים שאינם מוכנים להתנצר. כך נוצרה תופעה של אנוסים גם בקרב מוסלמים. סובלנות רבה לא הייתה שם.
 
-אזכיר גם את התופעה המחרידה של עלילות דם – האשמת היהודים בכך שהם משתמשים בדמם של תינוקות נוצריים לצורך אפיית מצות לפסח. העלילות המופרכות האלה גררו כמובן מעשי שוד, רצח, אונס, חקירות אינקוויזיטוריות בעינויים קשים ביותר, והעלאות על המוקד. כמובן, לצורך pogrom רצחני ביהודים לא נזקקו השכנים הנוצרים לתירוץ כמו עלילת דם, אלא לליבוי של רגשות אנטישמיים סביב עניין זה או אחר. ב מסעי הצלב -, למשל, סבלו יהודי אירופה סבל קשה ביותר שנגרם על ידי הצלבנים הצועדים בגאון אל ארץ הקודש.
+אזכיר גם את התופעה המחרידה של עלילות דם – האשמת היהודים בכך שהם משתמשים בדמם של תינוקות נוצריים לצורך אפיית מצות לפסח. העלילות המופרכות האלה גררו כמובן מעשי שוד, רצח, אונס, חקירות אינקוויזיטוריות בעינויים קשים ביותר, והעלאות על המוקד. כמובן, לצורך פוגרום רצחני ביהודים לא נזקקו השכנים הנוצרים לתירוץ כמו עלילת דם, אלא לליבוי של רגשות אנטישמיים סביב עניין זה או אחר. ב מסעי הצלב -, למשל, סבלו יהודי אירופה סבל קשה ביותר שנגרם על ידי הצלבנים הצועדים בגאון אל ארץ הקודש.
 
-היאך זה יצרה דת של אהבה גלי שנאה ורצח שכאלו? אמנם בברית החדשה נאמר על הבלתי מאמינים: "but the children of the kingdom will be driven out into the outer darkness where there will be wailing and grinding of teeth." ((מתי ח, יא-יב)) – אבל זה נאמר על הגהינום העתיד לבוא. ביחס לאלה החיים בעולמנו הטיף ישו לאהבה.
+היאך זה יצרה דת של אהבה גלי שנאה ורצח שכאלו? אמנם בברית החדשה נאמר על הבלתי מאמינים: ""אַךְ בְּנֵי הַמַּלְכוּת יוּפְלוּ הַחוּצָה אֶל הָאֲפֵלָה, וְשָׁם יִהְיֶה הַבְּכִי וַחֲרוֹק הַשִּׁנַּיִם"" ((מתי ח, יא-יב)) – אבל זה נאמר על הגהינום העתיד לבוא. ביחס לאלה החיים בעולמנו הטיף ישו לאהבה.
 
-ובכן, אין בהכרח קשר בין ההמלצות של כתבי הקודש לבין ההתנהגות בפועל. קנאות דתית בתוספת superstitions למיניהן, Antisemitism באופן חבוי או נגלה, ואף סתם תאוות בצע ומין – כל אלה יכולים לגרום חיש-קל לשכחה מוחלטת של הציווי: ""אם מכה אותך אדם על הלחי האחת, הושיט לו גם את השנייה"." ((לוקס ו, כט)).`, body_en: `15.7.1099
+ובכן, אין בהכרח קשר בין ההמלצות של כתבי הקודש לבין ההתנהגות בפועל. קנאות דתית בתוספת אמונות תפלות למיניהן, אנטישמיות באופן חבוי או נגלה, ואף סתם תאוות בצע ומין – כל אלה יכולים לגרום חיש-קל לשכחה מוחלטת של הציווי: ""אם מכה אותך אדם על הלחי האחת, הושיט לו גם את השנייה"." ((לוקס ו, כט)).`, body_en: `15.7.1099
 
 For three days the great slaughter continued. In waves the knights of Godfrey of Bouillon burst into Jerusalem and slaughtered the Muslim and Jewish population in the city. This was the climax of the First Crusade in the summer of 1099. So describes the slaughter Raymond of Aguilers, a participant and chronicler of the campaign:
 
@@ -1957,21 +1957,21 @@ I will also mention the horrifying phenomenon of Blood libels — the accusation
 How did a religion of love create such waves of hatred and murder? Although in the New Testament it is said of the unbelievers: "but the children of the kingdom will be driven out into the outer darkness where there will be wailing and grinding of teeth." (Matthew 8:11-12) — but this is said of the hell to come. With respect to those living in our world, Jesus preached love.
 
 Well, there is not necessarily a connection between the recommendations of the holy scriptures and behavior in practice. Religious zealotry plus various superstitions, Antisemitism in concealed or open form, and even mere greed and lust — all these can cause swift, complete forgetting of the commandment: "If someone slaps you on one cheek, turn to them the other also." (Luke 6:29).` },
-  { num: 74, title_he: "הדרשה על ההר", title_en: "Sermon on the Mount", date: "2025-11-13", source: "bundle-2", body_he: `מדת רדופה הפכה הנצרות לדת רודפת, במקום אמונה תמימה הופיע חוק האימפריה, ובמקום עוני וחולשה באו כוח ועושר. הרגע הזה התחולל כאשר קונסטנטינוס הגדול הפך את הנצרות לדת הרשמית והבלעדית, ואפשר לסמן את הרגע הזה ב-325 לספירה ב-ועידת ניקיאה, שבה הוחלט מהן ה- Dogmas של האמונה, ואחרי מי יש לרדוף.
+  { num: 74, title_he: "הדרשה על ההר", title_en: "Sermon on the Mount", date: "2025-11-13", source: "bundle-2", body_he: `מדת רדופה הפכה הנצרות לדת רודפת, במקום אמונה תמימה הופיע חוק האימפריה, ובמקום עוני וחולשה באו כוח ועושר. הרגע הזה התחולל כאשר קונסטנטינוס הגדול הפך את הנצרות לדת הרשמית והבלעדית, ואפשר לסמן את הרגע הזה ב-325 לספירה ב-ועידת ניקיאה, שבה הוחלט מהן הדוגמות של האמונה, ואחרי מי יש לרדוף.
 
-אלף שנים אחר-כך, בז דנטה אליגיירי לרגע ההיסטורי הזה. במקום הערכים הנעלים של הדרשה על ההר, כמו נטישת החומרנות והרכושנות והחובה לסלוח ולאהוב גם את האויב, הופיעו לגיונות צבאיים כדי לתפוס את הכופרים ולהמיתם בכל מיני מיתות משונות. אכן, כפי שכתב לורד אקטון : Power tends to corrupt, and" absolute power corrupts absolutely"
+אלף שנים אחר-כך, בז דנטה אליגיירי לרגע ההיסטורי הזה. במקום הערכים הנעלים של הדרשה על ההר, כמו נטישת החומרנות והרכושנות והחובה לסלוח ולאהוב גם את האויב, הופיעו לגיונות צבאיים כדי לתפוס את הכופרים ולהמיתם בכל מיני מיתות משונות. אכן, כפי שכתב לורד אקטון : "הַכּוֹחַ נוֹטֶה לְהַשְׁחִית, וְכוֹחַ מוּחְלָט מַשְׁחִית בְּאֹפֶן מוּחְלָט""
 
-האם הצירוף של "יצר לב האדם רע מנעוריו" יחד עם "כוח מוחלט המשחית באופן מוחלט" מובילים בהכרח לנטישה של כל codex ערכים (כמו 'הדרשה על ההר')? נראה שכן. עובדה – זה קרה לנצרות. במקום הושטת הלחי השנייה, הופיעו האינקוויזיציה האימתנית, העלאות על המוקד, ומלחמות הדת האכזריות.
+האם הצירוף של "יצר לב האדם רע מנעוריו" יחד עם "כוח מוחלט המשחית באופן מוחלט" מובילים בהכרח לנטישה של כל קודקס ערכים (כמו 'הדרשה על ההר')? נראה שכן. עובדה – זה קרה לנצרות. במקום הושטת הלחי השנייה, הופיעו האינקוויזיציה האימתנית, העלאות על המוקד, ומלחמות הדת האכזריות.
 
-אין לשכוח כמובן את השאלה – מה קרה להיהדות בהקשר הזה? האם היהדות נהגה כמו האסלאם והנצרות? התשובה הפשוטה היא: לא. ליהדות לא היה כוח לנהוג באכזריות. היהדות תמיד הייתה חלשה מדיי. התשובה המדויקת יותר היא: כן. כאשר היה ליהדות כוח כלשהו לנהוג בחוסר סובלנות ובאכזריות, היא לא היססה לעשות זאת. כדוגמא לכך אפשר לציין את גיור האדומים – תהליך ייהודם בכפייה של בני העם האדומי בשנת 125 לפני הספירה, בתקופת השליט החשמונאי יוחנן Hyrcanus (אם-כי יש ויכוח בין החוקרים, ויש הטוענים שהגיור נעשה מרצון). כך או אחרת, אין לקבל את הרעיון שלפיו היהודים שונים במשהו מאחיהם הנוצרים והמוסלמים בכל מה שנוגע לטבע האנושי.
+אין לשכוח כמובן את השאלה – מה קרה להיהדות בהקשר הזה? האם היהדות נהגה כמו האסלאם והנצרות? התשובה הפשוטה היא: לא. ליהדות לא היה כוח לנהוג באכזריות. היהדות תמיד הייתה חלשה מדיי. התשובה המדויקת יותר היא: כן. כאשר היה ליהדות כוח כלשהו לנהוג בחוסר סובלנות ובאכזריות, היא לא היססה לעשות זאת. כדוגמא לכך אפשר לציין את גיור האדומים – תהליך ייהודם בכפייה של בני העם האדומי בשנת 125 לפני הספירה, בתקופת השליט החשמונאי יוחנן הורקנוס (אם-כי יש ויכוח בין החוקרים, ויש הטוענים שהגיור נעשה מרצון). כך או אחרת, אין לקבל את הרעיון שלפיו היהודים שונים במשהו מאחיהם הנוצרים והמוסלמים בכל מה שנוגע לטבע האנושי.
 
 האם משמעות הדיון עד כה היא שאין הבדלים בין הדתות האברהמיות הגדולות, היהדות, הנצרות והאסלאם, וכולנו פשוט אותו הדבר?
 
 התשובה היא שאכן כבני אדם יש לכולנו את אותן החולשות האנושיות, אבל מבחינת כתבי הקודש שיצרנו לעצמנו, ומבחינת דמויות המופת אליהן אנו נושאים את עינינו, אנחנו בהחלט שונים.
 
-משה הנו דמות מופת כזו. זהו מנהיג ונביא בשר ודם, שעליו נאמר: " Now משה was "a very humble man, more humble than anyone else on the face of the earth ((במדבר יב, ג)). בהתורה היהודית מופיעים ציווים רבים בעלי אופי אכזרי, כמו הציווי "עין תחת עין", אבל ה- Oral התורה ריככה מאוד את הגישה האימתנית הזו וקבעה "ממון תחת עין". לעומת זאת החדית' ("התורה שבעל-פה" המוסלמית) לא מעדנת כלל את הלוחמנות המצויה בהקוראן.
+משה הנו דמות מופת כזו. זהו מנהיג ונביא בשר ודם, שעליו נאמר: " Now משה "וְהָאִישׁ מֹשֶׁה עָנָו מְאֹד מִכֹּל הָאָדָם אֲשֶׁר עַל-פְּנֵי הָאֲדָמָה" ((במדבר יב, ג)). בהתורה היהודית מופיעים ציווים רבים בעלי אופי אכזרי, כמו הציווי "עין תחת עין", אבל התורה שבעל-פה ריככה מאוד את הגישה האימתנית הזו וקבעה "ממון תחת עין". לעומת זאת החדית' ("התורה שבעל-פה" המוסלמית) לא מעדנת כלל את הלוחמנות המצויה בהקוראן.
 
-וכפי שכבר כתבתי, ישו הגיע אל תלמידיו עם מגבת כדי לרחוץ את רגליהם, ונתן בכך דוגמא אישית לצמצום עצמי, ענווה ונתינה, ואילו Muhammad הגיע עם חרב.`, body_en: `Sermon on the Mount?
+וכפי שכבר כתבתי, ישו הגיע אל תלמידיו עם מגבת כדי לרחוץ את רגליהם, ונתן בכך דוגמא אישית לצמצום עצמי, ענווה ונתינה, ואילו מוחמד הגיע עם חרב.`, body_en: `Sermon on the Mount?
 
 From a persecuted religion, Christianity turned into a persecuting religion. Instead of innocent belief, the law of empire appeared, and instead of poverty and weakness came power and wealth. This moment took place when Constantine the Great turned Christianity into the official and exclusive religion, and one can mark this moment in 325 CE at the Council of Nicaea, in which it was decided what the Dogmas of the faith were, and after whom one should pursue.
 
@@ -2009,9 +2009,9 @@ About 1300 years of Muslim conquests came to their end. At first it was the Musl
 What needs to happen for Europe (and additional countries, like the USA) to wake up? What may save Europe from itself? The Christian world looks tired, exhausted from the wars of the past, and perhaps also very spoiled. The European blindness recalls the conquests of Hernán Cortés at the beginning of the 16th century in South America. A few hundred Conquistadors managed under his command to defeat the armies of the Maya and Aztec tribes, which numbered tens of thousands of skilled and resolute warriors. How? There are many reasons for these astonishing victories, but one of them is the belief of the locals that Cortés was none other than the god Quetzalcoatl, who had helped them in the past and now returned to them as an ancient prophecy tells. According to this belief, the god was tall, with white skin, beard and black hair. And behold our Spanish friend, hungry for conquest and gold, looked exactly as the prophecy predicts. From here to total blindness regarding the true intentions of the Spanish conquerors was a short way.
 
 But not all of Europe is blind. There are those who warn and alert. For example, the British Douglas Murray and of course the French Michel Houellebecq. There are also many political leaders. From where, then, does the limitless immigration draw its strength? Only from the deep slumber in which all the others are sunk? In the USA, a Muslim Shia, Zohran Mamdani, was recently elected to the mayoralty of New York. His election is connected not only to the soaring economic promises he scattered, but also to movements like Progressivism in its modern form and Woke.` },
-  { num: 76, title_he: "אלצהיימר ומלאכים", title_en: "Alzheimer's and Angels", date: "2025-12-03", source: "single", body_he: `"An angel has no memory"
+  { num: 76, title_he: "אלצהיימר ומלאכים", title_en: "Alzheimer's and Angels", date: "2025-12-03", source: "single", body_he: `""למלאך אין זיכרון""
 
-(טרי סות'רן-ברברלה)
+(טרי סות'רן — ברברלה)
 
 מלאכים נתפסים כישויות רוחניות, טרנסצנדנטליות, ועל טבעיות. אין להם תכונות גופניות, אבל בעקבות האיקונוגרפיה הנוצרית, הם מתוארים כיפים, מכונפים, צחורים, שמיימיים, ובעלי הילה מעל ראשיהם. למעשה, כבר בישעיהו ("שרפים") וביחזקאל ("אופנים") תוארו מלאכים בעלי כנפיים. גם הכרובים שניצבו מעל ארון הברית בקודש הקודשים בבית המקדש תוארו על ידי חז"ל כתינוקות בעלי כנפיים. מאידך למלאכים המתוארים בתורה אין כנפיים. כך, למשל, שלושת המלאכים המבקרים את אברהם נראים כבני אדם רגילים בתכלית. לעיתים, כמו במקרה של בלעם, המלאכים יכולים גם שלא להיראות.
 
@@ -2690,7 +2690,7 @@ In summary, the psychoanalytic claims are nothing but hypotheses, and the uncomp
 
 עד כאן פרויד, תלמידיו וּמטוּפליו. וּמה עם ממשיכיו וממשיכותיו?
 
-ניקח (כדוגמא בלבד) את הממשיכה הידועה מרגרט מאהלר, אשר פיתחה את תיאוריית היפרדות-אינדיבידואציה. פסיכואנליטיקאית יהודייה-הונגרייה חשובה זו הצליחה להיחלץ מציפורני הנאצים והיגרה ב-1938 יחד עם בעלה לבריטניה, ומשם לארה"ב. בּארצָהּ החדשה היא "זכתה" לנידוּי מצד החברה הפסיכואנליטית של ניו-יורק. מדוע הם התייחסו באופן הזה אל הפליטה אשר זה עתה הגיעה? בּרוּר. תפיסותיה והצעותיה לא תּאמוּ את ה- dogmatism הדתי המקוּבל בחברה הדתית הניו-יורקית. אם יש למאמינים דוקטרינה מסוימת שוּמה על מי שרוצה לחבור אליהם לאמץ לעצמו את מערכת החוקים העליונים ולהכיר בסמכותם הבלתי ניתנת לערעור של כוהני הדת הראשיים. בְּמָה זה שונה מן ה- Dogmas של הכנסייה הקתולית? גם החברה הפסיכואנליטית וגם הכנסייה הקיאוּ מקרבּן את הסוטים הארורים למיניהם.`, body_en: `As is appropriate to fanatical religious beliefs, there were also in the history of psychology terrible and dreadful wars of religion. For example, within the religious-extreme field called Psychoanalysis, there were bitter personal struggles between the various priests of the religion and between their groups of devotees. The canvas is too short to describe all the harsh and passionate quarrels. For illustration, I will mention only a few.
+ניקח (כדוגמא בלבד) את הממשיכה הידועה מרגרט מאהלר, אשר פיתחה את תיאוריית היפרדות-אינדיבידואציה. פסיכואנליטיקאית יהודייה-הונגרייה חשובה זו הצליחה להיחלץ מציפורני הנאצים והיגרה ב-1938 יחד עם בעלה לבריטניה, ומשם לארה"ב. בּארצָהּ החדשה היא "זכתה" לנידוּי מצד החברה הפסיכואנליטית של ניו-יורק. מדוע הם התייחסו באופן הזה אל הפליטה אשר זה עתה הגיעה? בּרוּר. תפיסותיה והצעותיה לא תּאמוּ את הדוגמטיות הדתי המקוּבל בחברה הדתית הניו-יורקית. אם יש למאמינים דוקטרינה מסוימת שוּמה על מי שרוצה לחבור אליהם לאמץ לעצמו את מערכת החוקים העליונים ולהכיר בסמכותם הבלתי ניתנת לערעור של כוהני הדת הראשיים. בְּמָה זה שונה מן הדוגמות של הכנסייה הקתולית? גם החברה הפסיכואנליטית וגם הכנסייה הקיאוּ מקרבּן את הסוטים הארורים למיניהם.`, body_en: `As is appropriate to fanatical religious beliefs, there were also in the history of psychology terrible and dreadful wars of religion. For example, within the religious-extreme field called Psychoanalysis, there were bitter personal struggles between the various priests of the religion and between their groups of devotees. The canvas is too short to describe all the harsh and passionate quarrels. For illustration, I will mention only a few.
 
 The father of Psychoanalysis, Freud, quarreled severely with his recalcitrant disciple Carl Jung. Freud was Jewish (his father Jakob was a Galician wool merchant) and Jung was Gentile (his father Paul was a Swiss pastor). Freud was the "father" and Jung was the "son." Freud saw himself as a man of science who must base his arguments on a logical-rational basis, and Jung was much more a spiritual man. Between the two there were relations of love, but the bond between them ran aground after Jung began developing his ideas independently. This did not happen in a single moment. A prolonged correspondence took place between them over years. Its end was a complete severance in 1913. It was a rift never healed. The question arises: why? Should Freud not have rejoiced in the achievements of his son-successor? But the rift between them recalls in great measure the break that may form between a God-fearing Jew and his beloved son who decides to convert to Christianity...
 
