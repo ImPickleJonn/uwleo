@@ -53,6 +53,8 @@
       aboutP5: 'U.W. Leo הוא גם המחבר של <em>Red Silkworms</em>, זוכה פרס משרד החינוך לסופרים מתחילים, ושל <em>Days of Light and Shadow</em> — שניהם רומנים של סיפורת. הוא חי, מבחינה פיזית, ליד ירושלים שבישראל, ומבחינה מנטלית, ב-Kepler-29JW — פלנטה במרחק 1,500 שנות אור מכדור הארץ.',
       footer: 'U.W. Leo · אורי ויינברג · 2022—2026',
       loading: 'טוען...',
+      themeDark: 'מצב כהה',
+      themeLight: 'מצב בהיר',
     },
     en: {
       brand: 'U.W. Leo',
@@ -103,6 +105,8 @@
       aboutP5: 'U.W. Leo is also the author of <em>Red Silkworms</em>, winner of the Ministry of Education\'s Award for Emerging Authors, and <em>Days of Light and Shadow</em>, both novels of fiction. He lives, physically, near Jerusalem in Israel and, mentally, at Kepler-29JW — a planet 1,500 light years from Earth.',
       footer: 'U.W. Leo · Uri Weinberg · 2022—2026',
       loading: 'Loading...',
+      themeDark: 'Dark mode',
+      themeLight: 'Light mode',
     }
   };
 
@@ -343,6 +347,13 @@
     if (loading) loading.textContent = t('loading');
     const footer = $('footer div');
     if (footer) footer.textContent = t('footer');
+    const themeBtn = $('#theme-toggle');
+    if (themeBtn) {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      const label = isDark ? t('themeLight') : t('themeDark');
+      themeBtn.setAttribute('title', label);
+      themeBtn.setAttribute('aria-label', label);
+    }
     // Inject CSS for the "coming soon" badge per language
     let style = document.getElementById('i18n-style');
     if (!style) {
@@ -383,6 +394,16 @@
         applyI18n();
         handleRoute();
       });
+    });
+
+    // Theme toggle
+    $('#theme-toggle')?.addEventListener('click', () => {
+      const cur = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+      const next = cur === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('uwleo-theme', next); } catch (_) {}
+      const btn = $('#theme-toggle');
+      if (btn) btn.setAttribute('title', next === 'dark' ? t('themeLight') : t('themeDark'));
     });
 
     // Newsletter
