@@ -11,7 +11,12 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const META = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts', 'articles_meta_v2.json'), 'utf8'));
-const V2   = JSON.parse(fs.readFileSync(path.join(ROOT, 'extracted', 'articles_v2.json'), 'utf8'));
+// Prefer the Hebraicized corpus if it exists (monolingual cleanup pass output).
+const V2_HE_PATH = path.join(ROOT, 'extracted', 'articles_v2_he.json');
+const V2_RAW_PATH = path.join(ROOT, 'extracted', 'articles_v2.json');
+const V2 = JSON.parse(fs.readFileSync(
+  fs.existsSync(V2_HE_PATH) ? V2_HE_PATH : V2_RAW_PATH, 'utf8'
+));
 const EN   = fs.existsSync(path.join(ROOT, 'extracted', 'translations_en.json'))
   ? JSON.parse(fs.readFileSync(path.join(ROOT, 'extracted', 'translations_en.json'), 'utf8'))
   : {};
