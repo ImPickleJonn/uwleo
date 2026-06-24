@@ -12,3 +12,4 @@ source-docx/
 # OAuth secrets — never commit
 credentials.json
 token.json
+export/
