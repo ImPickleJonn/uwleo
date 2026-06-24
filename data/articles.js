@@ -3802,11 +3802,11 @@ But we are not talking about what AI is capable of doing today, but about what i
 window.UWLEO_BOOKS = [
   {
     "id": "arko-1",
-    "title_he": "ARKO: איחוד האפלה",
+    "title_he": "ARKO: ברית האופל",
     "title_en": "ARKO: The Dark Union",
     "subtitle_he": "סדרת מדע בדיוני · ספר ראשון",
     "subtitle_en": "A Sci-Fi Adventure Series · Book One",
-    "desc_he": "קבוצת בני נוער מגלים את התגלית החשובה ביותר בהיסטוריה העולמית, שנועדה להציל את המין האנושי...מעצמו. אריאל היידן בן ה-12 וחבריו מצטרפים אל הוריהם, חלק מהמדענים המובילים בעולם, למסע ליוקטן, שם ד\"ר היידן עורך מחקר עבור ממשלת מקסיקו. בסיורם של הילדים באתרי המאיה הקדומים הסמוכים, הם מגלים מבנה דמוי מחשב מתקדם להפליא, שהוסתר במשך מיליוני שנים בבטן האדמה — והוא האחראי על העבר, ועל העתיד, של העולם כפי שאנו מכירים אותו.",
+    "desc_he": "קבוצת בני נוער מגלה את התגלית החשובה ביותר בהיסטוריה. תגליתם נועדה להציל את המין האנושי מ...עצמו. אריאל היידן בן ה-12 וחבריו מצטרפים להוריהם, מדענים מובילים בעולם, למסע ביוּקטן, שם עורך ד\"ר היידן מחקר עבור ממשלת מקסיקו. בסיורם של הילדים באתרי המאיה הקדומים, הם מגלים מבנה דמוי מחשב עתידני, אשר הוסתר בבטן האדמה במשך מיליוני שנים. הילדים נחשפים לעובדה מסתורית: המבנה המוזר הזה הינו האחראי גם על העבר וגם על העתיד של העולם.",
     "desc_en": "A group of tweens unearth the most significant discovery in world history, designed to save the human species…from itself. Twelve-year-old Ariel Hyden and his friends accompany their parents, some of the world's top scientists, on a trip to the Yucatán where Dr. Hyden is conducting research for the Mexican government. On the kids' exploration of nearby old Mayan grounds, they discover an impossibly advanced computer-like structure hidden for millions of years in the bowels of the earth that is responsible for the past—and future—of the world as we know it.",
     "amazon_url": "https://www.amazon.com/dp/B09NB1S7LB",
     "cover_url": "https://uploads-ssl.webflow.com/618c35de072487acef0ce111/61a666579d842d49f0b91e68_ARKO%201%20Book%20mockup%20v3.png",
@@ -3819,7 +3819,7 @@ window.UWLEO_BOOKS = [
       {
         "source": "BookLife by Publishers Weekly",
         "quote_en": "ARKO: The Dark Union is an essential addition to the young adult library with dynamic characters, an emphasis on scientific realism, important themes for today's audiences, and an exciting story with enormous stakes.",
-        "quote_he": "ARKO: איחוד האפלה היא תוספת חיונית לספריית הנוער, עם דמויות דינמיות, דגש על ריאליזם מדעי, נושאים חשובים לקהל של ימינו, וסיפור מותח עם סיכונים עצומים."
+        "quote_he": "ARKO: ברית האופל היא תוספת חיונית לספריית הנוער, עם דמויות דינמיות, דגש על ריאליזם מדעי, נושאים חשובים לקהל של ימינו, וסיפור מותח עם סיכונים עצומים."
       },
       {
         "source": "Online Book Club",
@@ -3845,11 +3845,11 @@ window.UWLEO_BOOKS = [
   },
   {
     "id": "arko-2",
-    "title_he": "ARKO: הסדר הקוסמי",
+    "title_he": "ARKO: המסדר הקוסמי",
     "title_en": "ARKO: The Cosmic Order",
     "subtitle_he": "סדרת מדע בדיוני · ספר שני",
     "subtitle_en": "A Sci-Fi Adventure Series · Book Two",
-    "desc_he": "הארקונוטים המתבגרים שבים, ושליחותם לקדם את האנושות נתקלת בהתנגדות קטלנית. חמש שנים חלפו מאז התגלית פורצת הדרך של הארקונוטים, ומשימתם — לשקם את כדור הארץ ולפתח טכנולוגיות שישפרו את יכולותיהם של בני האדם ובעלי החיים, כולל הדינוזאורים — פורחת. אבל לא כולם מתלהבים מהקידום, וקבוצת הנערים מוצאת את עצמה במשימת חילוץ בין-גלקטית של מנהיגם בן, ובקרב להציל את משימתם, את הפלנטה ואת עצמם.",
+    "desc_he": "המתבגרים הצעירים שבים, ובראשם בן, הארקונוט הראשון עלי אדמות בעידן המודרני. שליחותם היא קידום האנושות, אבל הם נתקלים בהתנגדות קטלנית. חמש שנים חלפו מאז התגלית המסתורית. הצלת כדור הארץ, שיקומו, ופיתוח טכנולוגיות עתידניות עבור בני האדם, כולל הדינוזאורים מימי קדם — הכל מתקדם ופורח. אבל אז הם מוצאים את עצמם במשימת חילוץ בין-גלקטית של מנהיגם בן. המשימה מסתבכת, והם חייבים להציל לא רק את בן ואת כדור הארץ, אלא גם את עצמם.",
     "desc_en": "The teen Arkonots are back and their mission to evolve humankind is being met with deadly opposition. Five years have passed since the Arkonots' world-changing discovery, and their mission of restoring the Earth and developing technology to enhance the capabilities of humans and animals, including dinosaurs, has flourished. But not everyone is on board with their advancements, and the group of teens find themselves on a galactic rescue mission for their leader Ben and in a battle to save their mission, the planet, and themselves.",
     "amazon_url": "https://www.amazon.com/dp/B09QLL1BFY",
     "cover_url": "https://uploads-ssl.webflow.com/618c35de072487acef0ce111/61a6665707d180e6c73d6ac7_ARKO%202%20Book%20mockup%20v3.png",
@@ -3882,7 +3882,7 @@ window.UWLEO_BOOKS = [
     "title_en": "ARKO: Dawn of the Arkonot",
     "subtitle_he": "סדרת מדע בדיוני · ספר שלישי",
     "subtitle_en": "A Sci-Fi Adventure Series · Book Three",
-    "desc_he": "הספר השלישי בטרילוגיית ARKO — סוגר את הסאגה של הארקונוטים המתבגרים, ויחד עמה את החקירה הגדולה של פלאי היקום, האחריות האנושית, ושאלות הבריאה והאל שמלוות את הסדרה כולה.",
+    "desc_he": "הספר השלישי בסדרת ARKO — ממשיך את הסאגה של הארקונוטים המתבגרים ואת החקירה הגדולה של פלאי היקום, האחריות האנושית, ושאלות הבריאה והאל שמלוות את הסדרה כולה.",
     "desc_en": "The third book in the ARKO trilogy — closing the saga of the teen Arkonots, and with it the great inquiry into the wonders of the universe, human responsibility, and the questions of creation and God that run through the entire series.",
     "amazon_url": "#",
     "cover_url": null,

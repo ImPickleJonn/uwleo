@@ -10,6 +10,7 @@
     "download-pdfs": "node scripts/download_pdfs.js"
   },
   "dependencies": {
+    "docx": "^9.7.1",
     "googleapis": "^144.0.0",
     "mammoth": "^1.12.0",
     "pdf-parse": "^2.4.5"
